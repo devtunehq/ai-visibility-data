@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 1,
+  "publisher": {
+    "name": "DevTune",
+    "url": "https://devtune.ai"
+  },
+  "url": "https://devtune.ai/verticals/data.json",
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "verticals": [
+    {
+      "slug": "ai-code-sandboxes-agent-runtimes",
+      "name": "AI Code Sandboxes & Agent Runtimes",
+      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes",
+      "dataUrl": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:24:32.251Z"
+    },
+    {
+      "slug": "error-tracking-crash-reporting",
+      "name": "Error Tracking & Crash Reporting",
+      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting",
+      "dataUrl": "https://devtune.ai/verticals/error-tracking-crash-reporting/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:24:33.271Z"
+    },
+    {
+      "slug": "search-vector-databases",
+      "name": "Search & Vector Databases",
+      "url": "https://devtune.ai/verticals/search-vector-databases",
+      "dataUrl": "https://devtune.ai/verticals/search-vector-databases/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:24:34.199Z"
+    },
+    {
+      "slug": "developer-analytics-product-analytics",
+      "name": "Developer Analytics & Product Analytics",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics",
+      "dataUrl": "https://devtune.ai/verticals/developer-analytics-product-analytics/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:24:35.139Z"
+    },
+    {
+      "slug": "infrastructure-as-code",
+      "name": "Infrastructure as Code",
+      "url": "https://devtune.ai/verticals/infrastructure-as-code",
+      "dataUrl": "https://devtune.ai/verticals/infrastructure-as-code/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:24:36.507Z"
+    },
+    {
+      "slug": "testing-qa",
+      "name": "Testing & QA",
+      "url": "https://devtune.ai/verticals/testing-qa",
+      "dataUrl": "https://devtune.ai/verticals/testing-qa/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:24:38.897Z"
+    },
+    {
+      "slug": "devsecops-application-security",
+      "name": "DevSecOps & Application Security",
+      "url": "https://devtune.ai/verticals/devsecops-application-security",
+      "dataUrl": "https://devtune.ai/verticals/devsecops-application-security/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:24:39.891Z"
+    },
+    {
+      "slug": "documentation-developer-portals",
+      "name": "Documentation & Developer Portals",
+      "url": "https://devtune.ai/verticals/documentation-developer-portals",
+      "dataUrl": "https://devtune.ai/verticals/documentation-developer-portals/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:24:40.742Z"
+    },
+    {
+      "slug": "open-source-commercial-oss-infrastructure",
+      "name": "Open Source Commercial / OSS Infrastructure",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure",
+      "dataUrl": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:24:41.628Z"
+    },
+    {
+      "slug": "internal-developer-platforms",
+      "name": "Internal Developer Platforms",
+      "url": "https://devtune.ai/verticals/internal-developer-platforms",
+      "dataUrl": "https://devtune.ai/verticals/internal-developer-platforms/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:24:42.643Z"
+    },
+    {
+      "slug": "observability-monitoring",
+      "name": "Observability & Monitoring",
+      "url": "https://devtune.ai/verticals/observability-monitoring",
+      "dataUrl": "https://devtune.ai/verticals/observability-monitoring/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:24:45.104Z"
+    },
+    {
+      "slug": "version-control-code-collaboration",
+      "name": "Version Control & Code Collaboration",
+      "url": "https://devtune.ai/verticals/version-control-code-collaboration",
+      "dataUrl": "https://devtune.ai/verticals/version-control-code-collaboration/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:24:45.918Z"
+    },
+    {
+      "slug": "headless-cms-content-platforms",
+      "name": "Headless CMS & Content Platforms",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms",
+      "dataUrl": "https://devtune.ai/verticals/headless-cms-content-platforms/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:24:46.706Z"
+    },
+    {
+      "slug": "cicd-build-systems",
+      "name": "CI/CD & Build Systems",
+      "url": "https://devtune.ai/verticals/cicd-build-systems",
+      "dataUrl": "https://devtune.ai/verticals/cicd-build-systems/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:24:47.583Z"
+    },
+    {
+      "slug": "databases-data-infrastructure",
+      "name": "Databases & Data Infrastructure",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure",
+      "dataUrl": "https://devtune.ai/verticals/databases-data-infrastructure/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:24:48.544Z"
+    },
+    {
+      "slug": "containers-orchestration",
+      "name": "Containers & Orchestration",
+      "url": "https://devtune.ai/verticals/containers-orchestration",
+      "dataUrl": "https://devtune.ai/verticals/containers-orchestration/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:24:51.104Z"
+    },
+    {
+      "slug": "communications-apis",
+      "name": "Communications APIs",
+      "url": "https://devtune.ai/verticals/communications-apis",
+      "dataUrl": "https://devtune.ai/verticals/communications-apis/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:24:53.159Z"
+    },
+    {
+      "slug": "salesforce-devops",
+      "name": "Salesforce DevOps",
+      "url": "https://devtune.ai/verticals/salesforce-devops",
+      "dataUrl": "https://devtune.ai/verticals/salesforce-devops/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:24:54.277Z"
+    },
+    {
+      "slug": "secrets-management-and-vault",
+      "name": "Secrets Management & Vault",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault",
+      "dataUrl": "https://devtune.ai/verticals/secrets-management-and-vault/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:24:55.569Z"
+    },
+    {
+      "slug": "issue-tracking-and-project-management",
+      "name": "Issue Tracking & Project Management",
+      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management",
+      "dataUrl": "https://devtune.ai/verticals/issue-tracking-and-project-management/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:24:56.563Z"
+    },
+    {
+      "slug": "design-systems-and-component-libraries",
+      "name": "Design Systems & Component Libraries",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries",
+      "dataUrl": "https://devtune.ai/verticals/design-systems-and-component-libraries/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:24:59.791Z"
+    },
+    {
+      "slug": "workflow-orchestration-and-durable-execution",
+      "name": "Workflow Orchestration & Durable Execution",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution",
+      "dataUrl": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:25:00.858Z"
+    },
+    {
+      "slug": "deployment-and-hosting-platforms",
+      "name": "Deployment & Hosting Platforms",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms",
+      "dataUrl": "https://devtune.ai/verticals/deployment-and-hosting-platforms/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:25:01.913Z"
+    },
+    {
+      "slug": "incident-management-and-on-call",
+      "name": "Incident Management & On-Call",
+      "url": "https://devtune.ai/verticals/incident-management-and-on-call",
+      "dataUrl": "https://devtune.ai/verticals/incident-management-and-on-call/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-30",
+        "end": "2026-05-30"
+      },
+      "generatedAt": "2026-11-24T08:25:02.948Z"
+    },
+    {
+      "slug": "ai-code-review-and-code-quality",
+      "name": "AI Code Review & Code Quality",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality",
+      "dataUrl": "https://devtune.ai/verticals/ai-code-review-and-code-quality/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:25:03.980Z"
+    },
+    {
+      "slug": "agent-authentication-identity-for-ai",
+      "name": "Agent Authentication & Identity for AI",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai",
+      "dataUrl": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:25:06.785Z"
+    },
+    {
+      "slug": "api-mocking-service-virtualization",
+      "name": "API Mocking & Service Virtualization",
+      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization",
+      "dataUrl": "https://devtune.ai/verticals/api-mocking-service-virtualization/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-31",
+        "end": "2026-05-31"
+      },
+      "generatedAt": "2026-11-24T08:25:07.693Z"
+    },
+    {
+      "slug": "ai-browser-infrastructure",
+      "name": "AI Browser Infrastructure",
+      "url": "https://devtune.ai/verticals/ai-browser-infrastructure",
+      "dataUrl": "https://devtune.ai/verticals/ai-browser-infrastructure/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:25:08.569Z"
+    },
+    {
+      "slug": "ai-data-curation-and-dataset-versioning",
+      "name": "AI Data Curation and Dataset Versioning",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning",
+      "dataUrl": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:25:09.429Z"
+    },
+    {
+      "slug": "llm-observability-evals-gateways",
+      "name": "LLM Observability Evals & Gateways",
+      "url": "https://devtune.ai/verticals/llm-observability-evals-gateways",
+      "dataUrl": "https://devtune.ai/verticals/llm-observability-evals-gateways/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-28",
+        "end": "2026-05-28"
+      },
+      "generatedAt": "2026-11-24T08:25:11.783Z"
+    },
+    {
+      "slug": "mlops-experiment-tracking",
+      "name": "MLOps & Experiment Tracking",
+      "url": "https://devtune.ai/verticals/mlops-experiment-tracking",
+      "dataUrl": "https://devtune.ai/verticals/mlops-experiment-tracking/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:25:12.823Z"
+    },
+    {
+      "slug": "web-data-infrastructure-for-ai",
+      "name": "Web Data Infrastructure for AI",
+      "url": "https://devtune.ai/verticals/web-data-infrastructure-for-ai",
+      "dataUrl": "https://devtune.ai/verticals/web-data-infrastructure-for-ai/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-29",
+        "end": "2026-05-29"
+      },
+      "generatedAt": "2026-11-24T08:25:14.165Z"
+    },
+    {
+      "slug": "payments-fintech-apis",
+      "name": "Payments & Fintech APIs",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis",
+      "dataUrl": "https://devtune.ai/verticals/payments-fintech-apis/data/2026-06-01.json",
+      "dataWindow": {
+        "start": "2026-05-27",
+        "end": "2026-05-27"
+      },
+      "generatedAt": "2026-11-24T08:24:05.012Z"
+    }
+  ],
+  "fields": {
+    "schemaVersion": "Version of this file's layout. It changes only when a field is renamed, removed or changes meaning.",
+    "url": "This index.",
+    "license": "Every listed file is licensed CC BY 4.0.",
+    "verticals": "Every published vertical, with its page, its data file (dataUrl), the data window its figures cover and when that file was assembled."
+  },
+  "asOf": "2026-06-01"
+}
