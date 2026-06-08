@@ -9,38 +9,38 @@
     "name": "AI Code Sandboxes & Agent Runtimes",
     "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes"
   },
-  "dataUrl": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/data/2026-06-01.json",
+  "dataUrl": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/data/2026-06-08.json",
   "dataWindow": {
-    "start": "2026-05-30",
-    "end": "2026-05-30"
+    "start": "2026-06-06",
+    "end": "2026-06-06"
   },
-  "asOf": "2026-06-01",
-  "generatedAt": "2026-11-24T08:24:32.251Z",
+  "asOf": "2026-06-08",
+  "generatedAt": "2026-11-24T08:25:21.697Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, AI Code Sandboxes & Agent Runtimes AI Search Visibility Rankings, https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-05-30). AI Code Sandboxes & Agent Runtimes AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes",
-    "html": "DevTune. (2026-05-30). <cite>AI Code Sandboxes &amp; Agent Runtimes AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes\">https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes</a>",
-    "bibtex": "@misc{devtune-ai-code-sandboxes-agent-runtimes-2026,\n  author = {DevTune},\n  title = {{AI Code Sandboxes \\& Agent Runtimes AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-05-30},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-06). AI Code Sandboxes & Agent Runtimes AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes",
+    "html": "DevTune. (2026-06-06). <cite>AI Code Sandboxes &amp; Agent Runtimes AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes\">https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes</a>",
+    "bibtex": "@misc{devtune-ai-code-sandboxes-agent-runtimes-2026,\n  author = {DevTune},\n  title = {{AI Code Sandboxes \\& Agent Runtimes AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-06},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-05-30"
+      "responsesThrough": "2026-06-06"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-05-30"
+      "responsesThrough": "2026-06-06"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-05-30"
+      "responsesThrough": "2026-06-06"
     }
   ],
   "counts": {
@@ -56,44 +56,44 @@
       "slug": "northflank",
       "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/northflank",
       "presence": {
-        "rate": 50.66666666666667,
+        "rate": 57.333333333333336,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 10
         },
         "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
+          "low": 47.844748807752744,
+          "high": 66.31116767362691
         }
       },
       "brandMention": {
-        "rate": 21.333333333333336,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "perplexity",
-          "presenceRate": 76,
-          "citedPrompts": 19
+          "presenceRate": 80,
+          "citedPrompts": 20
         },
         {
           "id": "google-ai",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "presenceRate": 72,
+          "citedPrompts": 18
         }
       ],
       "mentionConsensus": {
@@ -104,14 +104,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 40
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": 44
           }
         ],
-        "spread": 40
+        "spread": 44
       }
     },
     {
@@ -119,27 +119,27 @@
       "slug": "modal",
       "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/modal",
       "presence": {
-        "rate": 25.333333333333336,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 2,
-          "joint": true,
+          "joint": false,
           "of": 10
         },
         "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
-        "rate": 49.333333333333336,
+        "rate": 48,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
+          "low": 38.74627679680233,
+          "high": 57.39301870827595
         }
       },
       "platforms": [
@@ -150,28 +150,28 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 44,
-          "citedPrompts": 11
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 60
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 64
+            "rate": 48
           }
         ],
         "spread": 40
@@ -182,51 +182,51 @@
       "slug": "e2b",
       "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/e2b",
       "presence": {
-        "rate": 16,
+        "rate": 14.666666666666666,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
         }
       },
       "brandMention": {
-        "rate": 56.00000000000001,
+        "rate": 60,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 46.52554604878774,
-          "high": 65.05656743597746
+          "low": 50.50306880161667,
+          "high": 68.80045367299196
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 60
+            "rate": 68
           },
           {
             "id": "perplexity",
@@ -234,10 +234,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 92
+            "rate": 96
           }
         ],
-        "spread": 76
+        "spread": 80
       }
     },
     {
@@ -245,34 +245,34 @@
       "slug": "cloudflare",
       "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/cloudflare",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 17.333333333333336,
+        "rate": 12,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
+      "brandMention": {
+        "rate": 18.666666666666668,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "perplexity",
@@ -281,26 +281,26 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 16
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 20
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 24
           }
         ],
-        "spread": 4
+        "spread": 12
       }
     },
     {
@@ -308,15 +308,15 @@
       "slug": "daytona",
       "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/daytona",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 8,
         "rank": {
-          "position": 4,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
@@ -334,8 +334,8 @@
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "perplexity",
@@ -352,172 +352,46 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 56.00000000000001
+            "rate": 64
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 32
-          }
-        ],
-        "spread": 52.00000000000001
-      }
-    },
-    {
-      "name": "CodeSandbox",
-      "slug": "codesandbox",
-      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/codesandbox",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
             "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
           }
         ],
-        "spread": 20
+        "spread": 56
       }
     },
     {
-      "name": "Fly.io",
-      "slug": "flyio",
-      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/flyio",
+      "name": "Together AI",
+      "slug": "together-ai",
+      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/together-ai",
       "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 21.333333333333336,
+        "rate": 4,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 36
-      }
-    },
-    {
-      "name": "Runloop",
-      "slug": "runloop",
-      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/runloop",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 8,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
@@ -528,8 +402,8 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -545,24 +419,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 8
           }
         ],
         "spread": 8
       }
     },
     {
-      "name": "Together AI",
-      "slug": "together-ai",
-      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/together-ai",
+      "name": "Fly.io",
+      "slug": "flyio",
+      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/flyio",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 4,
+          "position": 7,
           "joint": true,
           "of": 10
         },
@@ -572,15 +446,15 @@
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 26.666666666666668,
         "rank": {
-          "position": 9,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
@@ -604,18 +478,81 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 52
           }
         ],
-        "spread": 0
+        "spread": 48
+      }
+    },
+    {
+      "name": "CodeSandbox",
+      "slug": "codesandbox",
+      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/codesandbox",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 16
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
       }
     },
     {
@@ -625,7 +562,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 4,
+          "position": 7,
           "joint": true,
           "of": 10
         },
@@ -637,8 +574,8 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 9,
-          "joint": true,
+          "position": 10,
+          "joint": false,
           "of": 10
         },
         "range90": {
@@ -679,6 +616,69 @@
           }
         ],
         "spread": 0
+      }
+    },
+    {
+      "name": "Runloop",
+      "slug": "runloop",
+      "url": "https://devtune.ai/verticals/ai-code-sandboxes-agent-runtimes/runloop",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
       }
     }
   ],
