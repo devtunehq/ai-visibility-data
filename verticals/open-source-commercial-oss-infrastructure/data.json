@@ -9,38 +9,38 @@
     "name": "Open Source Commercial / OSS Infrastructure",
     "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure"
   },
-  "dataUrl": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/data/2026-06-08.json",
+  "dataUrl": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/data/2026-06-15.json",
   "dataWindow": {
-    "start": "2026-06-06",
-    "end": "2026-06-06"
+    "start": "2026-06-13",
+    "end": "2026-06-13"
   },
-  "asOf": "2026-06-08",
-  "generatedAt": "2026-11-24T08:25:28.701Z",
+  "asOf": "2026-06-15",
+  "generatedAt": "2026-11-24T08:26:01.395Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings, https://devtune.ai/verticals/open-source-commercial-oss-infrastructure, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-06). Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/open-source-commercial-oss-infrastructure",
-    "html": "DevTune. (2026-06-06). <cite>Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/open-source-commercial-oss-infrastructure\">https://devtune.ai/verticals/open-source-commercial-oss-infrastructure</a>",
-    "bibtex": "@misc{devtune-open-source-commercial-oss-infrastructure-2026,\n  author = {DevTune},\n  title = {{Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-06},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/open-source-commercial-oss-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-13). Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/open-source-commercial-oss-infrastructure",
+    "html": "DevTune. (2026-06-13). <cite>Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/open-source-commercial-oss-infrastructure\">https://devtune.ai/verticals/open-source-commercial-oss-infrastructure</a>",
+    "bibtex": "@misc{devtune-open-source-commercial-oss-infrastructure-2026,\n  author = {DevTune},\n  title = {{Open Source Commercial / OSS Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-13},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/open-source-commercial-oss-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-06-06"
-    },
-    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-06-06"
+      "responsesThrough": "2026-06-13"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-06"
+      "responsesThrough": "2026-06-13"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-06-13"
     }
   ],
   "counts": {
@@ -56,15 +56,15 @@
       "slug": "temporal",
       "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/temporal",
       "presence": {
-        "rate": 8,
+        "rate": 4,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
@@ -81,19 +81,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -115,135 +115,9 @@
       }
     },
     {
-      "name": "Deno",
-      "slug": "deno",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/deno",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Inngest",
-      "slug": "inngest",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/inngest",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Astro",
-      "slug": "astro",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/astro",
+      "name": "Fermyon",
+      "slug": "fermyon",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/fermyon",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
@@ -259,7 +133,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -270,10 +144,68 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Astro",
+      "slug": "astro",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/astro",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -281,6 +213,11 @@
         },
         {
           "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -308,21 +245,21 @@
       "slug": "bun",
       "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/bun",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -333,19 +270,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -367,25 +304,25 @@
       }
     },
     {
-      "name": "Fermyon",
-      "slug": "fermyon",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/fermyon",
+      "name": "Deno",
+      "slug": "deno",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/deno",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -396,19 +333,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -430,19 +367,19 @@
       }
     },
     {
-      "name": "Remix",
-      "slug": "remix",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/remix",
+      "name": "Hono",
+      "slug": "hono",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/hono",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -459,10 +396,68 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 16
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Inngest",
+      "slug": "inngest",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/inngest",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -470,8 +465,76 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Remix",
+      "slug": "remix",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/remix",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 12,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -497,15 +560,15 @@
       "slug": "tauri",
       "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/tauri",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -522,17 +585,17 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -556,25 +619,88 @@
       }
     },
     {
-      "name": "Wasmer",
-      "slug": "wasmer",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/wasmer",
+      "name": "tRPC",
+      "slug": "trpc",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/trpc",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Wasmer",
+      "slug": "wasmer",
+      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/wasmer",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
         "rate": 6.666666666666667,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -585,17 +711,17 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -619,139 +745,13 @@
       }
     },
     {
-      "name": "Hono",
-      "slug": "hono",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/hono",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "tRPC",
-      "slug": "trpc",
-      "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/trpc",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 12,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
       "name": "Zod",
       "slug": "zod",
       "url": "https://devtune.ai/verticals/open-source-commercial-oss-infrastructure/zod",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 1,
           "joint": true,
           "of": 12
         },
@@ -761,23 +761,18 @@
         }
       },
       "brandMention": {
-        "rate": 13.333333333333334,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -787,13 +782,18 @@
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -801,7 +801,7 @@
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 12
           }
         ],
         "spread": 4

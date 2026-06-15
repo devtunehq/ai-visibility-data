@@ -9,38 +9,38 @@
     "name": "Design Systems & Component Libraries",
     "url": "https://devtune.ai/verticals/design-systems-and-component-libraries"
   },
-  "dataUrl": "https://devtune.ai/verticals/design-systems-and-component-libraries/data/2026-06-08.json",
+  "dataUrl": "https://devtune.ai/verticals/design-systems-and-component-libraries/data/2026-06-15.json",
   "dataWindow": {
-    "start": "2026-06-03",
-    "end": "2026-06-03"
+    "start": "2026-06-10",
+    "end": "2026-06-10"
   },
-  "asOf": "2026-06-08",
-  "generatedAt": "2026-11-24T08:25:40.254Z",
+  "asOf": "2026-06-15",
+  "generatedAt": "2026-11-24T08:26:12.387Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Design Systems & Component Libraries AI Search Visibility Rankings, https://devtune.ai/verticals/design-systems-and-component-libraries, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-03). Design Systems & Component Libraries AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/design-systems-and-component-libraries",
-    "html": "DevTune. (2026-06-03). <cite>Design Systems &amp; Component Libraries AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/design-systems-and-component-libraries\">https://devtune.ai/verticals/design-systems-and-component-libraries</a>",
-    "bibtex": "@misc{devtune-design-systems-and-component-libraries-2026,\n  author = {DevTune},\n  title = {{Design Systems \\& Component Libraries AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-03},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/design-systems-and-component-libraries},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-10). Design Systems & Component Libraries AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/design-systems-and-component-libraries",
+    "html": "DevTune. (2026-06-10). <cite>Design Systems &amp; Component Libraries AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/design-systems-and-component-libraries\">https://devtune.ai/verticals/design-systems-and-component-libraries</a>",
+    "bibtex": "@misc{devtune-design-systems-and-component-libraries-2026,\n  author = {DevTune},\n  title = {{Design Systems \\& Component Libraries AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/design-systems-and-component-libraries},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-06-03"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-03"
+      "responsesThrough": "2026-06-10"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-06-03"
+      "responsesThrough": "2026-06-10"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-06-10"
     }
   ],
   "counts": {
@@ -52,66 +52,192 @@
   },
   "brands": [
     {
-      "name": "UXPin",
-      "slug": "uxpin",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/uxpin",
+      "name": "Supernova",
+      "slug": "supernova",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/supernova",
       "presence": {
-        "rate": 21.333333333333336,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 30.666666666666664,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 16
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 44
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "zeroheight",
+      "slug": "zeroheight",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/zeroheight",
+      "presence": {
+        "rate": 17.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
+        }
+      },
+      "brandMention": {
+        "rate": 37.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 44
+          }
+        ],
+        "spread": 44.00000000000001
+      }
+    },
+    {
+      "name": "UXPin",
+      "slug": "uxpin",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/uxpin",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "brandMention": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 40,
+          "citedPrompts": 10
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 32
           },
           {
             "id": "google-ai",
             "rate": 4
           }
         ],
-        "spread": 20
+        "spread": 28
       }
     },
     {
@@ -131,23 +257,81 @@
         }
       },
       "brandMention": {
-        "rate": 28.000000000000004,
+        "rate": 29.333333333333332,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 20.352334069388775,
-          "high": 37.17991648647225
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 40
+          },
+          {
+            "id": "perplexity",
+            "rate": 20
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 20
+      }
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/figma",
+      "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 49.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 40.02677152710584,
+          "high": 58.68632697458693
+        }
+      },
+      "platforms": [
         {
           "id": "chatgpt-search",
           "presenceRate": 16,
@@ -157,193 +341,72 @@
           "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 32
+            "rate": 52
           },
           {
             "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "Supernova",
-      "slug": "supernova",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/supernova",
-      "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 26.666666666666668,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
             "rate": 28.000000000000004
           },
           {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
             "id": "google-ai",
-            "rate": 44
+            "rate": 68
           }
         ],
-        "spread": 36
+        "spread": 40
       }
     },
     {
-      "name": "zeroheight",
-      "slug": "zeroheight",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/zeroheight",
+      "name": "Specify",
+      "slug": "specify",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/specify",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 4,
         "rank": {
-          "position": 1,
+          "position": 6,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 36,
+        "rate": 13.333333333333334,
         "rank": {
-          "position": 2,
+          "position": 6,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 48
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 28
-      }
-    },
-    {
-      "name": "Figma",
-      "slug": "figma",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/figma",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 60,
-        "rank": {
-          "position": 1,
-          "joint": false,
-          "of": 10
-        },
-        "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
-        }
-      },
-      "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -352,24 +415,24 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 68
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 44
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 68
+            "rate": 20
           }
         ],
-        "spread": 24
+        "spread": 12
       }
     },
     {
-      "name": "Specify",
-      "slug": "specify",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/specify",
+      "name": "Knapsack",
+      "slug": "knapsack",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/knapsack",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -385,7 +448,7 @@
       "brandMention": {
         "rate": 16,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 10
         },
@@ -396,17 +459,17 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -415,70 +478,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
             "rate": 24
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "Style Dictionary",
-      "slug": "style-dictionary",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/style-dictionary",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
           },
           {
             "id": "perplexity",
@@ -493,9 +493,9 @@
       }
     },
     {
-      "name": "Bit",
-      "slug": "bit",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/bit",
+      "name": "Style Dictionary",
+      "slug": "style-dictionary",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/style-dictionary",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
@@ -506,6 +506,69 @@
         "range90": {
           "low": 0.29798678777994864,
           "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "Bit",
+      "slug": "bit",
+      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/bit",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -522,19 +585,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -556,102 +619,34 @@
       }
     },
     {
-      "name": "Knapsack",
-      "slug": "knapsack",
-      "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/knapsack",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
       "name": "React Cosmos",
       "slug": "react-cosmos",
       "url": "https://devtune.ai/verticals/design-systems-and-component-libraries/react-cosmos",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 9,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
@@ -659,6 +654,11 @@
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -671,7 +671,7 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
