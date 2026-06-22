@@ -9,38 +9,38 @@
     "name": "Containers & Orchestration",
     "url": "https://devtune.ai/verticals/containers-orchestration"
   },
-  "dataUrl": "https://devtune.ai/verticals/containers-orchestration/data/2026-06-15.json",
+  "dataUrl": "https://devtune.ai/verticals/containers-orchestration/data/2026-06-22.json",
   "dataWindow": {
-    "start": "2026-06-10",
-    "end": "2026-06-10"
+    "start": "2026-06-17",
+    "end": "2026-06-17"
   },
-  "asOf": "2026-06-15",
-  "generatedAt": "2026-11-24T08:26:07.987Z",
+  "asOf": "2026-06-22",
+  "generatedAt": "2026-11-24T08:26:41.156Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Containers & Orchestration AI Search Visibility Rankings, https://devtune.ai/verticals/containers-orchestration, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-10). Containers & Orchestration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/containers-orchestration",
-    "html": "DevTune. (2026-06-10). <cite>Containers &amp; Orchestration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/containers-orchestration\">https://devtune.ai/verticals/containers-orchestration</a>",
-    "bibtex": "@misc{devtune-containers-orchestration-2026,\n  author = {DevTune},\n  title = {{Containers \\& Orchestration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/containers-orchestration},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-17). Containers & Orchestration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/containers-orchestration",
+    "html": "DevTune. (2026-06-17). <cite>Containers &amp; Orchestration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/containers-orchestration\">https://devtune.ai/verticals/containers-orchestration</a>",
+    "bibtex": "@misc{devtune-containers-orchestration-2026,\n  author = {DevTune},\n  title = {{Containers \\& Orchestration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-17},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/containers-orchestration},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-10"
+      "responsesThrough": "2026-06-17"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-06-10"
+      "responsesThrough": "2026-06-17"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-06-10"
+      "responsesThrough": "2026-06-17"
     }
   ],
   "counts": {
@@ -56,51 +56,51 @@
       "slug": "portainer",
       "url": "https://devtune.ai/verticals/containers-orchestration/portainer",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 20,
         "rank": {
           "position": 1,
-          "joint": false,
-          "of": 9
-        },
-        "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 7,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "perplexity",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 32,
+          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -111,7 +111,7 @@
             "rate": null
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     },
     {
@@ -119,15 +119,15 @@
       "slug": "kubernetes",
       "url": "https://devtune.ai/verticals/containers-orchestration/kubernetes",
       "presence": {
-        "rate": 4,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 2,
+          "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
@@ -145,18 +145,18 @@
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -178,38 +178,38 @@
       }
     },
     {
-      "name": "Docker",
-      "slug": "docker",
-      "url": "https://devtune.ai/verticals/containers-orchestration/docker",
+      "name": "HashiCorp",
+      "slug": "hashicorp",
+      "url": "https://devtune.ai/verticals/containers-orchestration/hashicorp",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
-        "rate": 42.66666666666667,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 33.68883232637309,
-          "high": 52.15525119224726
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
@@ -226,58 +226,58 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 32
+            "rate": 28.000000000000004
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 36
           },
           {
             "id": "google-ai",
             "rate": null
           }
         ],
-        "spread": 16
+        "spread": 7.9999999999999964
       }
     },
     {
-      "name": "HashiCorp",
-      "slug": "hashicorp",
-      "url": "https://devtune.ai/verticals/containers-orchestration/hashicorp",
+      "name": "Rancher",
+      "slug": "rancher",
+      "url": "https://devtune.ai/verticals/containers-orchestration/rancher",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
-        "rate": 25.333333333333336,
+        "rate": 24,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
@@ -289,11 +289,137 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 24
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 32
+      }
+    },
+    {
+      "name": "Docker",
+      "slug": "docker",
+      "url": "https://devtune.ai/verticals/containers-orchestration/docker",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 41.333333333333336,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 32.44084213359225,
+          "high": 50.829438388413614
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 44
+          },
+          {
+            "id": "perplexity",
+            "rate": 44
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Garden",
+      "slug": "garden",
+      "url": "https://devtune.ai/verticals/containers-orchestration/garden",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -308,84 +434,21 @@
       "slug": "mirantis",
       "url": "https://devtune.ai/verticals/containers-orchestration/mirantis",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Okteto",
-      "slug": "okteto",
-      "url": "https://devtune.ai/verticals/containers-orchestration/okteto",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 7,
+          "position": 6,
           "joint": true,
           "of": 9
         },
@@ -397,8 +460,8 @@
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -415,7 +478,70 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Okteto",
+      "slug": "okteto",
+      "url": "https://devtune.ai/verticals/containers-orchestration/okteto",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -426,23 +552,23 @@
             "rate": null
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
-      "name": "Rancher",
-      "slug": "rancher",
-      "url": "https://devtune.ai/verticals/containers-orchestration/rancher",
+      "name": "Red Hat OpenShift",
+      "slug": "red-hat-openshift",
+      "url": "https://devtune.ai/verticals/containers-orchestration/red-hat-openshift",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 2,
+          "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -465,69 +591,6 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 32
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "Garden",
-      "slug": "garden",
-      "url": "https://devtune.ai/verticals/containers-orchestration/garden",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -541,81 +604,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 12
           },
           {
             "id": "google-ai",
             "rate": null
           }
         ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Red Hat OpenShift",
-      "slug": "red-hat-openshift",
-      "url": "https://devtune.ai/verticals/containers-orchestration/red-hat-openshift",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 18.666666666666668,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 20
+        "spread": 28
       }
     }
   ],
