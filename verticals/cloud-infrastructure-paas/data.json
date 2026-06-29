@@ -9,38 +9,38 @@
     "name": "Cloud Infrastructure & PaaS",
     "url": "https://devtune.ai/verticals/cloud-infrastructure-paas"
   },
-  "dataUrl": "https://devtune.ai/verticals/cloud-infrastructure-paas/data/2026-06-22.json",
+  "dataUrl": "https://devtune.ai/verticals/cloud-infrastructure-paas/data/2026-06-29.json",
   "dataWindow": {
-    "start": "2026-06-16",
-    "end": "2026-06-16"
+    "start": "2026-06-23",
+    "end": "2026-06-23"
   },
-  "asOf": "2026-06-22",
-  "generatedAt": "2026-11-24T08:26:35.933Z",
+  "asOf": "2026-06-29",
+  "generatedAt": "2026-11-24T08:27:09.478Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Cloud Infrastructure & PaaS AI Search Visibility Rankings, https://devtune.ai/verticals/cloud-infrastructure-paas, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-16). Cloud Infrastructure & PaaS AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cloud-infrastructure-paas",
-    "html": "DevTune. (2026-06-16). <cite>Cloud Infrastructure &amp; PaaS AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cloud-infrastructure-paas\">https://devtune.ai/verticals/cloud-infrastructure-paas</a>",
-    "bibtex": "@misc{devtune-cloud-infrastructure-paas-2026,\n  author = {DevTune},\n  title = {{Cloud Infrastructure \\& PaaS AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-16},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cloud-infrastructure-paas},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-23). Cloud Infrastructure & PaaS AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cloud-infrastructure-paas",
+    "html": "DevTune. (2026-06-23). <cite>Cloud Infrastructure &amp; PaaS AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cloud-infrastructure-paas\">https://devtune.ai/verticals/cloud-infrastructure-paas</a>",
+    "bibtex": "@misc{devtune-cloud-infrastructure-paas-2026,\n  author = {DevTune},\n  title = {{Cloud Infrastructure \\& PaaS AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-23},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cloud-infrastructure-paas},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-06-16"
-    },
-    {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-16"
+      "responsesThrough": "2026-06-23"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-06-16"
+      "responsesThrough": "2026-06-23"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-06-23"
     }
   ],
   "counts": {
@@ -56,15 +56,15 @@
       "slug": "northflank",
       "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/northflank",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 20,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
         }
       },
       "brandMention": {
@@ -82,42 +82,105 @@
       "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 20,
           "citedPrompts": 5
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 24
+            "rate": 20
           }
         ],
-        "spread": 20
+        "spread": 8
       }
     },
     {
       "name": "Render",
       "slug": "render",
       "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/render",
+      "presence": {
+        "rate": 20,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
+        }
+      },
+      "brandMention": {
+        "rate": 50.66666666666667,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 41.31367302541308,
+          "high": 59.97322847289417
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 72
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": 56.00000000000001
+          }
+        ],
+        "spread": 48
+      }
+    },
+    {
+      "name": "Railway",
+      "slug": "railway",
+      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/railway",
       "presence": {
         "rate": 18.666666666666668,
         "rank": {
@@ -131,32 +194,32 @@
         }
       },
       "brandMention": {
-        "rate": 53.333333333333336,
+        "rate": 48,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 43.90670955189737,
-          "high": 62.52779793963883
+          "low": 38.74627679680233,
+          "high": 57.39301870827595
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -167,14 +230,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 32
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 56.00000000000001
+            "rate": 68
           }
         ],
-        "spread": 40
+        "spread": 68
       }
     },
     {
@@ -194,15 +257,78 @@
         }
       },
       "brandMention": {
-        "rate": 37.333333333333336,
+        "rate": 40,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 28.737458143633287,
-          "high": 46.81141338852913
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 32
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "Fly.io",
+      "slug": "flyio",
+      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/flyio",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 46.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 37.47220206036117,
+          "high": 56.09329044810263
         }
       },
       "platforms": [
@@ -212,48 +338,48 @@
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 40
+            "rate": 84
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 48
           }
         ],
-        "spread": 15.999999999999996
+        "spread": 76
       }
     },
     {
-      "name": "Railway",
-      "slug": "railway",
-      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/railway",
+      "name": "Vercel",
+      "slug": "vercel",
+      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/vercel",
       "presence": {
-        "rate": 14.666666666666666,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
@@ -271,25 +397,25 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 20,
           "citedPrompts": 5
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 52
           },
           {
             "id": "perplexity",
@@ -297,79 +423,16 @@
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 76
           }
         ],
         "spread": 60
       }
     },
     {
-      "name": "Fly.io",
-      "slug": "flyio",
-      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/flyio",
-      "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 50.66666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 88
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 44
-          }
-        ],
-        "spread": 68
-      }
-    },
-    {
-      "name": "Vercel",
-      "slug": "vercel",
-      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/vercel",
+      "name": "DigitalOcean",
+      "slug": "digitalocean",
+      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/digitalocean",
       "presence": {
         "rate": 9.333333333333334,
         "rank": {
@@ -383,88 +446,20 @@
         }
       },
       "brandMention": {
-        "rate": 52,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 56.00000000000001
-          },
-          {
-            "id": "perplexity",
-            "rate": 44
-          },
-          {
-            "id": "google-ai",
-            "rate": 56.00000000000001
-          }
-        ],
-        "spread": 12.000000000000007
-      }
-    },
-    {
-      "name": "DigitalOcean",
-      "slug": "digitalocean",
-      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/digitalocean",
-      "presence": {
-        "rate": 6.666666666666667,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 20,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 12,
           "citedPrompts": 3
         },
@@ -472,24 +467,29 @@
           "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 20
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 24
           }
         ],
-        "spread": 16.000000000000004
+        "spread": 4
       }
     },
     {
@@ -497,44 +497,44 @@
       "slug": "heroku",
       "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/heroku",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 4,
         "rank": {
-          "position": 7,
+          "position": 8,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 45.33333333333333,
+        "rate": 41.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 36.204573906485685,
-          "high": 54.78711560536363
+          "low": 32.44084213359225,
+          "high": 50.829438388413614
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 12,
           "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -549,73 +549,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 60
+            "rate": 48
           }
         ],
         "spread": 44
-      }
-    },
-    {
-      "name": "Netlify",
-      "slug": "netlify",
-      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/netlify",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 26.666666666666668,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 24
       }
     },
     {
@@ -625,7 +562,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 7,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -635,15 +572,15 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 2.666666666666667,
         "rank": {
           "position": 10,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
@@ -653,12 +590,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -675,10 +612,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 8
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
@@ -688,7 +625,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 7,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -716,12 +653,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -751,7 +688,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 7,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -761,15 +698,15 @@
         }
       },
       "brandMention": {
-        "rate": 4,
+        "rate": 6.666666666666667,
         "rank": {
           "position": 10,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
         }
       },
       "platforms": [
@@ -779,12 +716,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -793,18 +730,81 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 16
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 4
           }
         ],
-        "spread": 8
+        "spread": 16
+      }
+    },
+    {
+      "name": "Netlify",
+      "slug": "netlify",
+      "url": "https://devtune.ai/verticals/cloud-infrastructure-paas/netlify",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 25.333333333333336,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "perplexity",
+            "rate": 20
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 8.000000000000004
       }
     }
   ],

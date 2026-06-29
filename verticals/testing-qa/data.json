@@ -9,44 +9,44 @@
     "name": "Testing & QA",
     "url": "https://devtune.ai/verticals/testing-qa"
   },
-  "dataUrl": "https://devtune.ai/verticals/testing-qa/data/2026-06-22.json",
+  "dataUrl": "https://devtune.ai/verticals/testing-qa/data/2026-06-29.json",
   "dataWindow": {
-    "start": "2026-06-17",
-    "end": "2026-06-17"
+    "start": "2026-06-24",
+    "end": "2026-06-24"
   },
-  "asOf": "2026-06-22",
-  "generatedAt": "2026-11-24T08:26:32.396Z",
+  "asOf": "2026-06-29",
+  "generatedAt": "2026-11-24T08:27:05.952Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Testing & QA AI Search Visibility Rankings, https://devtune.ai/verticals/testing-qa, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-17). Testing & QA AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/testing-qa",
-    "html": "DevTune. (2026-06-17). <cite>Testing &amp; QA AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/testing-qa\">https://devtune.ai/verticals/testing-qa</a>",
-    "bibtex": "@misc{devtune-testing-qa-2026,\n  author = {DevTune},\n  title = {{Testing \\& QA AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-17},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/testing-qa},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-24). Testing & QA AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/testing-qa",
+    "html": "DevTune. (2026-06-24). <cite>Testing &amp; QA AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/testing-qa\">https://devtune.ai/verticals/testing-qa</a>",
+    "bibtex": "@misc{devtune-testing-qa-2026,\n  author = {DevTune},\n  title = {{Testing \\& QA AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-24},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/testing-qa},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-06-17"
+      "responsesThrough": "2026-06-24"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-17"
+      "responsesThrough": "2026-06-24"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-06-17"
+      "responsesThrough": "2026-06-24"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 75,
+    "answers": 74,
     "brands": 12,
     "brandsRanked": 12
   },
@@ -56,15 +56,15 @@
       "slug": "browserstack",
       "url": "https://devtune.ai/verticals/testing-qa/browserstack",
       "presence": {
-        "rate": 30.666666666666664,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 12
         },
         "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
@@ -82,8 +82,8 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "chatgpt-search",
@@ -92,42 +92,42 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 32
+            "rate": 36
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 16
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": null
           }
         ],
-        "spread": 11.999999999999996
+        "spread": 20
       }
     },
     {
-      "name": "TestMu AI",
-      "slug": "lambdatest",
-      "url": "https://devtune.ai/verticals/testing-qa/lambdatest",
+      "name": "Sauce Labs",
+      "slug": "sauce-labs",
+      "url": "https://devtune.ai/verticals/testing-qa/sauce-labs",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
@@ -145,76 +145,13 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Cypress",
-      "slug": "cypress",
-      "url": "https://devtune.ai/verticals/testing-qa/cypress",
-      "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 60,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "google-ai",
@@ -226,150 +163,24 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 64
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 44
-          },
-          {
-            "id": "google-ai",
-            "rate": 72
-          }
-        ],
-        "spread": 28
-      }
-    },
-    {
-      "name": "Sauce Labs",
-      "slug": "sauce-labs",
-      "url": "https://devtune.ai/verticals/testing-qa/sauce-labs",
-      "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "QA Wolf",
-      "slug": "qa-wolf",
-      "url": "https://devtune.ai/verticals/testing-qa/qa-wolf",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
             "rate": 8
           },
           {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
             "id": "google-ai",
-            "rate": 16
+            "rate": null
           }
         ],
         "spread": 16
       }
     },
     {
-      "name": "Applitools",
-      "slug": "applitools",
-      "url": "https://devtune.ai/verticals/testing-qa/applitools",
+      "name": "Cypress",
+      "slug": "cypress",
+      "url": "https://devtune.ai/verticals/testing-qa/cypress",
       "presence": {
         "rate": 4,
         "rank": {
@@ -383,27 +194,27 @@
         }
       },
       "brandMention": {
-        "rate": 9.333333333333334,
+        "rate": 61.33333333333333,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 51.8423710673667,
+          "high": 70.0349544038564
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -415,18 +226,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 72
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 44
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": null
           }
         ],
-        "spread": 4
+        "spread": 28
       }
     },
     {
@@ -446,22 +257,211 @@
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Percy",
+      "slug": "percy",
+      "url": "https://devtune.ai/verticals/testing-qa/percy",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "QA Wolf",
+      "slug": "qa-wolf",
+      "url": "https://devtune.ai/verticals/testing-qa/qa-wolf",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Applitools",
+      "slug": "applitools",
+      "url": "https://devtune.ai/verticals/testing-qa/applitools",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
@@ -486,10 +486,73 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": null
           }
         ],
         "spread": 4
+      }
+    },
+    {
+      "name": "Checkly",
+      "slug": "checkly",
+      "url": "https://devtune.ai/verticals/testing-qa/checkly",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 12
       }
     },
     {
@@ -509,15 +572,15 @@
         }
       },
       "brandMention": {
-        "rate": 70.66666666666667,
+        "rate": 66.66666666666666,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 61.420310052334074,
-          "high": 78.47363639519044
+          "low": 57.27018947123484,
+          "high": 74.9023479864462
         }
       },
       "platforms": [
@@ -541,24 +604,24 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 84
+            "rate": 88
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 36
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": null
           }
         ],
-        "spread": 36
+        "spread": 52
       }
     },
     {
-      "name": "Testim",
-      "slug": "testim",
-      "url": "https://devtune.ai/verticals/testing-qa/testim",
+      "name": "TestMu AI",
+      "slug": "lambdatest",
+      "url": "https://devtune.ai/verticals/testing-qa/lambdatest",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -572,85 +635,22 @@
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 18.666666666666668,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 28.000000000000004
-      }
-    },
-    {
-      "name": "Checkly",
-      "slug": "checkly",
-      "url": "https://devtune.ai/verticals/testing-qa/checkly",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
@@ -661,69 +661,6 @@
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "mabl",
-      "slug": "mabl",
-      "url": "https://devtune.ai/verticals/testing-qa/mabl",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 12,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -734,24 +671,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": null
           }
         ],
-        "spread": 20
+        "spread": 12
       }
     },
     {
-      "name": "Percy",
-      "slug": "percy",
-      "url": "https://devtune.ai/verticals/testing-qa/percy",
+      "name": "mabl",
+      "slug": "mabl",
+      "url": "https://devtune.ai/verticals/testing-qa/mabl",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 10,
+          "position": 2,
           "joint": true,
           "of": 12
         },
@@ -761,15 +698,15 @@
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
@@ -797,14 +734,77 @@
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": null
           }
         ],
-        "spread": 4
+        "spread": 12
+      }
+    },
+    {
+      "name": "Testim",
+      "slug": "testim",
+      "url": "https://devtune.ai/verticals/testing-qa/testim",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 8
       }
     }
   ],
