@@ -9,38 +9,38 @@
     "name": "Developer Tunnels & Localhost Ingress",
     "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress"
   },
-  "dataUrl": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/data/2026-06-29.json",
+  "dataUrl": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/data/2026-07-06.json",
   "dataWindow": {
-    "start": "2026-06-23",
-    "end": "2026-06-23"
+    "start": "2026-06-30",
+    "end": "2026-06-30"
   },
-  "asOf": "2026-06-29",
-  "generatedAt": "2026-11-24T08:27:30.401Z",
+  "asOf": "2026-07-06",
+  "generatedAt": "2026-11-24T08:28:00.657Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Developer Tunnels & Localhost Ingress AI Search Visibility Rankings, https://devtune.ai/verticals/developer-tunnels-localhost-ingress, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-06-23). Developer Tunnels & Localhost Ingress AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/developer-tunnels-localhost-ingress",
-    "html": "DevTune. (2026-06-23). <cite>Developer Tunnels &amp; Localhost Ingress AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/developer-tunnels-localhost-ingress\">https://devtune.ai/verticals/developer-tunnels-localhost-ingress</a>",
-    "bibtex": "@misc{devtune-developer-tunnels-localhost-ingress-2026,\n  author = {DevTune},\n  title = {{Developer Tunnels \\& Localhost Ingress AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-23},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/developer-tunnels-localhost-ingress},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-06-30). Developer Tunnels & Localhost Ingress AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/developer-tunnels-localhost-ingress",
+    "html": "DevTune. (2026-06-30). <cite>Developer Tunnels &amp; Localhost Ingress AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/developer-tunnels-localhost-ingress\">https://devtune.ai/verticals/developer-tunnels-localhost-ingress</a>",
+    "bibtex": "@misc{devtune-developer-tunnels-localhost-ingress-2026,\n  author = {DevTune},\n  title = {{Developer Tunnels \\& Localhost Ingress AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-06-30},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/developer-tunnels-localhost-ingress},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-06-30"
+    },
+    {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-06-23"
+      "responsesThrough": "2026-06-30"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-06-23"
-    },
-    {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-06-23"
+      "responsesThrough": "2026-06-30"
     }
   ],
   "counts": {
@@ -55,132 +55,6 @@
       "name": "ngrok",
       "slug": "ngrok",
       "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/ngrok",
-      "presence": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Pinggy",
-      "slug": "pinggy",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/pinggy",
-      "presence": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 36,
-          "citedPrompts": 9
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Cloudflare",
-      "slug": "cloudflare",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/cloudflare",
       "presence": {
         "rate": 16,
         "rank": {
@@ -207,19 +81,19 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -241,9 +115,72 @@
       }
     },
     {
-      "name": "LocalXpose",
-      "slug": "localxpose",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/localxpose",
+      "name": "Pinggy",
+      "slug": "pinggy",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/pinggy",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Tailscale",
+      "slug": "tailscale",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/tailscale",
       "presence": {
         "rate": 14.666666666666666,
         "rank": {
@@ -270,19 +207,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
@@ -304,19 +241,19 @@
       }
     },
     {
-      "name": "Tailscale",
-      "slug": "tailscale",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/tailscale",
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/cloudflare",
       "presence": {
-        "rate": 12,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
@@ -333,6 +270,11 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -341,9 +283,67 @@
           "id": "chatgpt-search",
           "presenceRate": 32,
           "citedPrompts": 8
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "LocalXpose",
+      "slug": "localxpose",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/localxpose",
+      "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
         },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -371,15 +371,15 @@
       "slug": "inlets",
       "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/inlets",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 4,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
@@ -396,19 +396,19 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -459,6 +459,11 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -467,11 +472,6 @@
           "id": "chatgpt-search",
           "presenceRate": 8,
           "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -493,9 +493,9 @@
       }
     },
     {
-      "name": "NetBird",
-      "slug": "netbird",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/netbird",
+      "name": "NetFoundry",
+      "slug": "netfoundry",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/netfoundry",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
@@ -522,17 +522,17 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -556,9 +556,9 @@
       }
     },
     {
-      "name": "NetFoundry",
-      "slug": "netfoundry",
-      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/netfoundry",
+      "name": "NetBird",
+      "slug": "netbird",
+      "url": "https://devtune.ai/verticals/developer-tunnels-localhost-ingress/netbird",
       "presence": {
         "rate": 0,
         "rank": {
@@ -585,17 +585,17 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -648,17 +648,17 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
