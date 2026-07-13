@@ -9,38 +9,38 @@
     "name": "Documentation & Developer Portals",
     "url": "https://devtune.ai/verticals/documentation-developer-portals"
   },
-  "dataUrl": "https://devtune.ai/verticals/documentation-developer-portals/data/2026-07-06.json",
+  "dataUrl": "https://devtune.ai/verticals/documentation-developer-portals/data/2026-07-13.json",
   "dataWindow": {
-    "start": "2026-07-03",
-    "end": "2026-07-03"
+    "start": "2026-07-10",
+    "end": "2026-07-10"
   },
-  "asOf": "2026-07-06",
-  "generatedAt": "2026-11-24T08:27:39.932Z",
+  "asOf": "2026-07-13",
+  "generatedAt": "2026-11-24T08:28:11.607Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Documentation & Developer Portals AI Search Visibility Rankings, https://devtune.ai/verticals/documentation-developer-portals, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-03). Documentation & Developer Portals AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/documentation-developer-portals",
-    "html": "DevTune. (2026-07-03). <cite>Documentation &amp; Developer Portals AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/documentation-developer-portals\">https://devtune.ai/verticals/documentation-developer-portals</a>",
-    "bibtex": "@misc{devtune-documentation-developer-portals-2026,\n  author = {DevTune},\n  title = {{Documentation \\& Developer Portals AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-03},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/documentation-developer-portals},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-10). Documentation & Developer Portals AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/documentation-developer-portals",
+    "html": "DevTune. (2026-07-10). <cite>Documentation &amp; Developer Portals AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/documentation-developer-portals\">https://devtune.ai/verticals/documentation-developer-portals</a>",
+    "bibtex": "@misc{devtune-documentation-developer-portals-2026,\n  author = {DevTune},\n  title = {{Documentation \\& Developer Portals AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/documentation-developer-portals},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-07-03"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-03"
+      "responsesThrough": "2026-07-10"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-07-10"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-03"
+      "responsesThrough": "2026-07-10"
     }
   ],
   "counts": {
@@ -56,107 +56,44 @@
       "slug": "mintlify",
       "url": "https://devtune.ai/verticals/documentation-developer-portals/mintlify",
       "presence": {
-        "rate": 36,
+        "rate": 44,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
+          "low": 34.94343256402256,
+          "high": 53.474453951212276
         }
       },
       "brandMention": {
-        "rate": 52,
+        "rate": 54.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
+          "low": 45.21288439463637,
+          "high": 63.79542609351433
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 40,
-          "citedPrompts": 10
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 48,
-          "citedPrompts": 12
+          "presenceRate": 64,
+          "citedPrompts": 16
         },
-        {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 76
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 68
-          }
-        ],
-        "spread": 64
-      }
-    },
-    {
-      "name": "GitBook",
-      "slug": "gitbook",
-      "url": "https://devtune.ai/verticals/documentation-developer-portals/gitbook",
-      "presence": {
-        "rate": 24,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
-        }
-      },
-      "brandMention": {
-        "rate": 53.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 43.90670955189737,
-          "high": 62.52779793963883
-        }
-      },
-      "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 32,
           "citedPrompts": 8
         },
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
@@ -171,10 +108,73 @@
           },
           {
             "id": "google-ai",
-            "rate": 56.00000000000001
+            "rate": 60
           }
         ],
         "spread": 48
+      }
+    },
+    {
+      "name": "GitBook",
+      "slug": "gitbook",
+      "url": "https://devtune.ai/verticals/documentation-developer-portals/gitbook",
+      "presence": {
+        "rate": 28.000000000000004,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
+        }
+      },
+      "brandMention": {
+        "rate": 45.33333333333333,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 68
+          },
+          {
+            "id": "perplexity",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 40
       }
     },
     {
@@ -182,15 +182,15 @@
       "slug": "fern",
       "url": "https://devtune.ai/verticals/documentation-developer-portals/fern",
       "presence": {
-        "rate": 17.333333333333336,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 3,
-          "joint": true,
+          "joint": false,
           "of": 11
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "brandMention": {
@@ -207,19 +207,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
@@ -241,89 +241,26 @@
       }
     },
     {
-      "name": "Redocly",
-      "slug": "redocly",
-      "url": "https://devtune.ai/verticals/documentation-developer-portals/redocly",
+      "name": "Docusaurus",
+      "slug": "docusaurus",
+      "url": "https://devtune.ai/verticals/documentation-developer-portals/docusaurus",
       "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 24,
+        "rate": 6.666666666666667,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 36
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 28
-      }
-    },
-    {
-      "name": "Docusaurus",
-      "slug": "docusaurus",
-      "url": "https://devtune.ai/verticals/documentation-developer-portals/docusaurus",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 11,
-          "joint": false,
+          "position": 7,
+          "joint": true,
           "of": 11
         },
         "range90": {
@@ -333,19 +270,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -371,9 +308,72 @@
       "slug": "readme",
       "url": "https://devtune.ai/verticals/documentation-developer-portals/readme",
       "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 53.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 43.90670955189737,
+          "high": 62.52779793963883
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 68
+          }
+        ],
+        "spread": 32
+      }
+    },
+    {
+      "name": "Redocly",
+      "slug": "redocly",
+      "url": "https://devtune.ai/verticals/documentation-developer-portals/redocly",
+      "presence": {
         "rate": 4,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 11
         },
@@ -383,27 +383,27 @@
         }
       },
       "brandMention": {
-        "rate": 44,
+        "rate": 25.333333333333336,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
@@ -415,18 +415,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 60
+            "rate": 28.000000000000004
           }
         ],
-        "spread": 36
+        "spread": 32
       }
     },
     {
@@ -434,72 +434,9 @@
       "slug": "bumpsh",
       "url": "https://devtune.ai/verticals/documentation-developer-portals/bumpsh",
       "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "Stainless",
-      "slug": "stainless",
-      "url": "https://devtune.ai/verticals/documentation-developer-portals/stainless",
-      "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 11
         },
@@ -522,14 +459,77 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "Stainless",
+      "slug": "stainless",
+      "url": "https://devtune.ai/verticals/documentation-developer-portals/stainless",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
@@ -541,18 +541,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 4
           },
           {
             "id": "google-ai",
             "rate": 4
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
@@ -562,7 +562,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 11
         },
@@ -585,12 +585,12 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -604,7 +604,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -612,7 +612,7 @@
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
         "spread": 8
@@ -625,7 +625,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 11
         },
@@ -635,25 +635,25 @@
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -667,18 +667,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 16
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 8
           }
         ],
-        "spread": 12
+        "spread": 16
       }
     },
     {
@@ -688,7 +688,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 11
         },
@@ -698,25 +698,25 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -738,10 +738,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     }
   ],

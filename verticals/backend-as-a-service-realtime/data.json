@@ -9,151 +9,88 @@
     "name": "Backend-as-a-Service & Realtime",
     "url": "https://devtune.ai/verticals/backend-as-a-service-realtime"
   },
-  "dataUrl": "https://devtune.ai/verticals/backend-as-a-service-realtime/data/2026-07-06.json",
+  "dataUrl": "https://devtune.ai/verticals/backend-as-a-service-realtime/data/2026-07-13.json",
   "dataWindow": {
-    "start": "2026-07-06",
-    "end": "2026-07-06"
+    "start": "2026-07-13",
+    "end": "2026-07-13"
   },
-  "asOf": "2026-07-06",
-  "generatedAt": "2026-11-24T08:27:57.780Z",
+  "asOf": "2026-07-13",
+  "generatedAt": "2026-11-24T08:28:28.411Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Backend-as-a-Service & Realtime AI Search Visibility Rankings, https://devtune.ai/verticals/backend-as-a-service-realtime, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-06). Backend-as-a-Service & Realtime AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/backend-as-a-service-realtime",
-    "html": "DevTune. (2026-07-06). <cite>Backend-as-a-Service &amp; Realtime AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/backend-as-a-service-realtime\">https://devtune.ai/verticals/backend-as-a-service-realtime</a>",
-    "bibtex": "@misc{devtune-backend-as-a-service-realtime-2026,\n  author = {DevTune},\n  title = {{Backend-as-a-Service \\& Realtime AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-06},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/backend-as-a-service-realtime},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-13). Backend-as-a-Service & Realtime AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/backend-as-a-service-realtime",
+    "html": "DevTune. (2026-07-13). <cite>Backend-as-a-Service &amp; Realtime AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/backend-as-a-service-realtime\">https://devtune.ai/verticals/backend-as-a-service-realtime</a>",
+    "bibtex": "@misc{devtune-backend-as-a-service-realtime-2026,\n  author = {DevTune},\n  title = {{Backend-as-a-Service \\& Realtime AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-13},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/backend-as-a-service-realtime},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-07-06"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-06"
+      "responsesThrough": "2026-07-13"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-07-13"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-06"
+      "responsesThrough": "2026-07-13"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 75,
+    "answers": 73,
     "brands": 10,
     "brandsRanked": 10
   },
   "brands": [
     {
-      "name": "Back4App",
-      "slug": "back4app",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/back4app",
-      "presence": {
-        "rate": 30.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
-        }
-      },
-      "brandMention": {
-        "rate": 18.666666666666668,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 72,
-          "citedPrompts": 18
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 44
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 40
-      }
-    },
-    {
       "name": "Supabase",
       "slug": "supabase",
       "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/supabase",
       "presence": {
-        "rate": 30.666666666666664,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
-        "rate": 88,
+        "rate": 86.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 80.46982911808959,
-          "high": 92.88355628542321
+          "low": 78.91898486746241,
+          "high": 91.8605975394359
         }
       },
       "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 60,
+          "citedPrompts": 15
+        },
         {
           "id": "google-ai",
           "presenceRate": 36,
           "citedPrompts": 9
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        },
-        {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
@@ -167,14 +104,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 64
+            "rate": 72
           },
           {
             "id": "google-ai",
-            "rate": 100
+            "rate": null
           }
         ],
-        "spread": 36
+        "spread": 28
       }
     },
     {
@@ -182,44 +119,44 @@
       "slug": "appwrite",
       "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/appwrite",
       "presence": {
-        "rate": 21.333333333333336,
+        "rate": 30.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
         }
       },
       "brandMention": {
-        "rate": 60,
+        "rate": 72,
         "rank": {
-          "position": 3,
+          "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
+          "low": 62.82008351352775,
+          "high": 79.64766593061124
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "chatgpt-search",
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
@@ -230,36 +167,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 44
+            "rate": 72
           },
           {
             "id": "google-ai",
-            "rate": 48
+            "rate": null
           }
         ],
-        "spread": 44
+        "spread": 16
       }
     },
     {
-      "name": "Convex",
-      "slug": "convex",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/convex",
+      "name": "Back4App",
+      "slug": "back4app",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/back4app",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
         "rate": 29.333333333333332,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 10
         },
@@ -268,16 +193,91 @@
           "high": 38.57968994766594
         }
       },
+      "brandMention": {
+        "rate": 12,
+        "rank": {
+          "position": 8,
+          "joint": false,
+          "of": 10
+        },
+        "range90": {
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
       "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 76,
+          "citedPrompts": 19
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 24.000000000000004
+      }
+    },
+    {
+      "name": "Convex",
+      "slug": "convex",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/convex",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 36,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
         },
         {
           "id": "perplexity",
@@ -289,18 +289,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 36
+            "rate": 48
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 36
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": null
           }
         ],
-        "spread": 36
+        "spread": 12
       }
     },
     {
@@ -308,39 +308,39 @@
       "slug": "firebase",
       "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/firebase",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 8,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
-        "rate": 74.66666666666667,
+        "rate": 72,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 65.646234302447,
-          "high": 81.96912113492097
+          "low": 62.82008351352775,
+          "high": 79.64766593061124
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "perplexity",
@@ -356,20 +356,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 52
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": null
           }
         ],
-        "spread": 44
+        "spread": 40
       }
     },
     {
-      "name": "Hasura",
-      "slug": "hasura",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/hasura",
+      "name": "PocketBase",
+      "slug": "pocketbase",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/pocketbase",
       "presence": {
         "rate": 5.333333333333334,
         "rank": {
@@ -383,277 +383,88 @@
         }
       },
       "brandMention": {
-        "rate": 22.666666666666664,
+        "rate": 45.33333333333333,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
+            "rate": 68
+          },
+          {
+            "id": "perplexity",
             "rate": 32
           },
           {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
             "id": "google-ai",
-            "rate": 24
+            "rate": null
           }
         ],
-        "spread": 20
+        "spread": 36
       }
     },
     {
-      "name": "PocketBase",
-      "slug": "pocketbase",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/pocketbase",
+      "name": "Hasura",
+      "slug": "hasura",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/hasura",
       "presence": {
-        "rate": 4,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 44,
+        "rate": 34.66666666666667,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
+          "low": 26.3035922373613,
+          "high": 44.097673301572144
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 68
-      }
-    },
-    {
-      "name": "8base",
-      "slug": "8base",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/8base",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Amplication",
-      "slug": "amplication",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/amplication",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Nhost",
-      "slug": "nhost",
-      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/nhost",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 29.333333333333332,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -671,14 +482,203 @@
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 24
+            "rate": null
           }
         ],
-        "spread": 32
+        "spread": 24
+      }
+    },
+    {
+      "name": "Nhost",
+      "slug": "nhost",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/nhost",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 33.33333333333333,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 44
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 20
+      }
+    },
+    {
+      "name": "8base",
+      "slug": "8base",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/8base",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Amplication",
+      "slug": "amplication",
+      "url": "https://devtune.ai/verticals/backend-as-a-service-realtime/amplication",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
       }
     }
   ],

@@ -9,131 +9,68 @@
     "name": "Agent Authentication & Identity for AI",
     "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai"
   },
-  "dataUrl": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/data/2026-07-06.json",
+  "dataUrl": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/data/2026-07-13.json",
   "dataWindow": {
-    "start": "2026-07-01",
-    "end": "2026-07-01"
+    "start": "2026-07-08",
+    "end": "2026-07-08"
   },
-  "asOf": "2026-07-06",
-  "generatedAt": "2026-11-24T08:27:55.310Z",
+  "asOf": "2026-07-13",
+  "generatedAt": "2026-11-24T08:28:26.267Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Agent Authentication & Identity for AI AI Search Visibility Rankings, https://devtune.ai/verticals/agent-authentication-identity-for-ai, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-01). Agent Authentication & Identity for AI AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/agent-authentication-identity-for-ai",
-    "html": "DevTune. (2026-07-01). <cite>Agent Authentication &amp; Identity for AI AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/agent-authentication-identity-for-ai\">https://devtune.ai/verticals/agent-authentication-identity-for-ai</a>",
-    "bibtex": "@misc{devtune-agent-authentication-identity-for-ai-2026,\n  author = {DevTune},\n  title = {{Agent Authentication \\& Identity for AI AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-01},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/agent-authentication-identity-for-ai},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-08). Agent Authentication & Identity for AI AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/agent-authentication-identity-for-ai",
+    "html": "DevTune. (2026-07-08). <cite>Agent Authentication &amp; Identity for AI AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/agent-authentication-identity-for-ai\">https://devtune.ai/verticals/agent-authentication-identity-for-ai</a>",
+    "bibtex": "@misc{devtune-agent-authentication-identity-for-ai-2026,\n  author = {DevTune},\n  title = {{Agent Authentication \\& Identity for AI AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-08},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/agent-authentication-identity-for-ai},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-07-01"
+      "responsesThrough": "2026-07-08"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-01"
+      "responsesThrough": "2026-07-08"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-01"
+      "responsesThrough": "2026-07-08"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 70,
+    "answers": 73,
     "brands": 13,
     "brandsRanked": 13
   },
   "brands": [
     {
-      "name": "Stytch",
-      "slug": "stytch",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/stytch",
-      "presence": {
-        "rate": 16,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "brandMention": {
-        "rate": 20,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 24
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
       "name": "Auth0",
       "slug": "auth0",
       "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/auth0",
       "presence": {
-        "rate": 13.333333333333334,
+        "rate": 29.333333333333332,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 11,
           "joint": true,
           "of": 13
         },
@@ -145,18 +82,18 @@
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 36,
+          "citedPrompts": 9
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -182,51 +119,51 @@
       "slug": "workos",
       "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/workos",
       "presence": {
-        "rate": 9.333333333333334,
+        "rate": 26.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "brandMention": {
-        "rate": 13.333333333333334,
+        "rate": 25.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 24
           },
           {
             "id": "perplexity",
@@ -237,98 +174,35 @@
             "rate": null
           }
         ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Descope",
-      "slug": "descope",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/descope",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
         "spread": 4
       }
     },
     {
-      "name": "Nango",
-      "slug": "nango",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/nango",
+      "name": "Stytch",
+      "slug": "stytch",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/stytch",
       "presence": {
-        "rate": 8,
+        "rate": 20,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
         }
       },
       "brandMention": {
-        "rate": 17.333333333333336,
+        "rate": 16,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "platforms": [
@@ -339,13 +213,13 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
@@ -367,43 +241,43 @@
       }
     },
     {
-      "name": "Arcade.dev",
-      "slug": "arcadedev",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/arcadedev",
+      "name": "Composio",
+      "slug": "composio",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/composio",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 16,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 17.333333333333336,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
         }
       },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "chatgpt-search",
@@ -415,11 +289,11 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 8
           },
           {
             "id": "google-ai",
@@ -430,22 +304,10 @@
       }
     },
     {
-      "name": "Composio",
-      "slug": "composio",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/composio",
+      "name": "Nango",
+      "slug": "nango",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/nango",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
         "rate": 14.666666666666666,
         "rank": {
           "position": 1,
@@ -457,11 +319,23 @@
           "high": 22.612615289518928
         }
       },
+      "brandMention": {
+        "rate": 25.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
+        }
+      },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "perplexity",
@@ -470,19 +344,19 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 16
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 16
           },
           {
             "id": "google-ai",
@@ -493,19 +367,19 @@
       }
     },
     {
-      "name": "Merge",
-      "slug": "merge",
-      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/merge",
+      "name": "Descope",
+      "slug": "descope",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/descope",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 1,
+          "position": 6,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
@@ -523,13 +397,139 @@
       "platforms": [
         {
           "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Arcade.dev",
+      "slug": "arcadedev",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/arcadedev",
+      "presence": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
           "presenceRate": 12,
           "citedPrompts": 3
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Merge",
+      "slug": "merge",
+      "url": "https://devtune.ai/verticals/agent-authentication-identity-for-ai/merge",
+      "presence": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
@@ -562,7 +562,7 @@
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 9,
+          "position": 6,
           "joint": true,
           "of": 13
         },
@@ -572,15 +572,15 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
@@ -604,7 +604,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "perplexity",
@@ -615,7 +615,7 @@
             "rate": null
           }
         ],
-        "spread": 8
+        "spread": 12
       }
     },
     {
@@ -625,7 +625,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 10,
           "joint": true,
           "of": 13
         },
@@ -688,7 +688,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 10,
           "joint": true,
           "of": 13
         },
@@ -700,7 +700,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 11,
           "joint": true,
           "of": 13
         },
@@ -751,7 +751,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 10,
           "joint": true,
           "of": 13
         },
@@ -761,15 +761,15 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 2.666666666666667,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
@@ -814,7 +814,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 10,
           "joint": true,
           "of": 13
         },
@@ -826,7 +826,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 11,
           "joint": true,
           "of": 13
         },

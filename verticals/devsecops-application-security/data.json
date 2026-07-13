@@ -9,44 +9,44 @@
     "name": "DevSecOps & Application Security",
     "url": "https://devtune.ai/verticals/devsecops-application-security"
   },
-  "dataUrl": "https://devtune.ai/verticals/devsecops-application-security/data/2026-07-06.json",
+  "dataUrl": "https://devtune.ai/verticals/devsecops-application-security/data/2026-07-13.json",
   "dataWindow": {
-    "start": "2026-07-02",
-    "end": "2026-07-02"
+    "start": "2026-07-09",
+    "end": "2026-07-09"
   },
-  "asOf": "2026-07-06",
-  "generatedAt": "2026-11-24T08:27:39.335Z",
+  "asOf": "2026-07-13",
+  "generatedAt": "2026-11-24T08:28:11.008Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, DevSecOps & Application Security AI Search Visibility Rankings, https://devtune.ai/verticals/devsecops-application-security, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-02). DevSecOps & Application Security AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/devsecops-application-security",
-    "html": "DevTune. (2026-07-02). <cite>DevSecOps &amp; Application Security AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/devsecops-application-security\">https://devtune.ai/verticals/devsecops-application-security</a>",
-    "bibtex": "@misc{devtune-devsecops-application-security-2026,\n  author = {DevTune},\n  title = {{DevSecOps \\& Application Security AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-02},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/devsecops-application-security},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-09). DevSecOps & Application Security AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/devsecops-application-security",
+    "html": "DevTune. (2026-07-09). <cite>DevSecOps &amp; Application Security AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/devsecops-application-security\">https://devtune.ai/verticals/devsecops-application-security</a>",
+    "bibtex": "@misc{devtune-devsecops-application-security-2026,\n  author = {DevTune},\n  title = {{DevSecOps \\& Application Security AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/devsecops-application-security},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-02"
+      "responsesThrough": "2026-07-09"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-02"
+      "responsesThrough": "2026-07-09"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-07-02"
+      "responsesThrough": "2026-07-09"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 59,
+    "answers": 75,
     "brands": 12,
     "brandsRanked": 12
   },
@@ -56,72 +56,72 @@
       "slug": "endor-labs",
       "url": "https://devtune.ai/verticals/devsecops-application-security/endor-labs",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 37.333333333333336,
         "rank": {
           "position": 1,
-          "joint": true,
+          "joint": false,
           "of": 12
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 20,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
         }
       },
       "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 28.000000000000004,
           "citedPrompts": 7
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 28.000000000000004
           }
         ],
-        "spread": 4
+        "spread": 20.000000000000004
       }
     },
     {
-      "name": "Jit",
-      "slug": "jit",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/jit",
+      "name": "Checkmarx",
+      "slug": "checkmarx",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/checkmarx",
       "presence": {
         "rate": 13.333333333333334,
         "rank": {
-          "position": 1,
+          "position": 2,
           "joint": true,
           "of": 12
         },
@@ -131,9 +131,72 @@
         }
       },
       "brandMention": {
+        "rate": 29.333333333333332,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 32
+          }
+        ],
+        "spread": 40
+      }
+    },
+    {
+      "name": "Jit",
+      "slug": "jit",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/jit",
+      "presence": {
+        "rate": 12,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
+      "brandMention": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 6,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -155,8 +218,8 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -171,10 +234,10 @@
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     },
     {
@@ -182,44 +245,44 @@
       "slug": "snyk",
       "url": "https://devtune.ai/verticals/devsecops-application-security/snyk",
       "presence": {
-        "rate": 12,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 1,
+          "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
-        "rate": 42.66666666666667,
+        "rate": 49.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 33.68883232637309,
-          "high": 52.15525119224726
+          "low": 40.02677152710584,
+          "high": 58.68632697458693
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -230,14 +293,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 68
           }
         ],
-        "spread": 44
+        "spread": 56
       }
     },
     {
@@ -245,34 +308,34 @@
       "slug": "wiz",
       "url": "https://devtune.ai/verticals/devsecops-application-security/wiz",
       "presence": {
-        "rate": 12,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 1,
+          "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
-        "rate": 12,
+        "rate": 16,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "chatgpt-search",
@@ -289,7 +352,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
+            "rate": 24
           },
           {
             "id": "perplexity",
@@ -297,10 +360,73 @@
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 20
           }
         ],
-        "spread": 16
+        "spread": 20
+      }
+    },
+    {
+      "name": "GitGuardian",
+      "slug": "gitguardian",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/gitguardian",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
       }
     },
     {
@@ -310,7 +436,7 @@
       "presence": {
         "rate": 4,
         "rank": {
-          "position": 5,
+          "position": 2,
           "joint": true,
           "of": 12
         },
@@ -320,15 +446,15 @@
         }
       },
       "brandMention": {
-        "rate": 9.333333333333334,
+        "rate": 8,
         "rank": {
-          "position": 6,
+          "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
@@ -356,24 +482,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 12
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
-      "name": "Checkmarx",
-      "slug": "checkmarx",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/checkmarx",
+      "name": "Semgrep",
+      "slug": "semgrep",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/semgrep",
       "presence": {
         "rate": 4,
         "rank": {
-          "position": 5,
+          "position": 2,
           "joint": true,
           "of": 12
         },
@@ -383,27 +509,27 @@
         }
       },
       "brandMention": {
-        "rate": 25.333333333333336,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
@@ -415,7 +541,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 56.00000000000001
+            "rate": 60
           },
           {
             "id": "perplexity",
@@ -423,32 +549,32 @@
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 32
           }
         ],
-        "spread": 48.00000000000001
+        "spread": 52
       }
     },
     {
-      "name": "GitGuardian",
-      "slug": "gitguardian",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/gitguardian",
+      "name": "Chainguard",
+      "slug": "chainguard",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/chainguard",
       "presence": {
-        "rate": 4,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 5,
+          "position": 9,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 6,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -460,13 +586,76 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "SonarSource",
+      "slug": "sonarsource",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/sonarsource",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 12,
+          "joint": false,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -478,7 +667,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -486,20 +675,32 @@
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
-      "name": "Semgrep",
-      "slug": "semgrep",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/semgrep",
+      "name": "Socket",
+      "slug": "socket",
+      "url": "https://devtune.ai/verticals/devsecops-application-security/socket",
       "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
         "rate": 4,
         "rank": {
-          "position": 5,
+          "position": 7,
           "joint": true,
           "of": 12
         },
@@ -508,51 +709,39 @@
           "high": 9.594196728855417
         }
       },
-      "brandMention": {
-        "rate": 24,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
-        }
-      },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
-          },
-          {
-            "id": "perplexity",
             "rate": 8
           },
           {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
             "id": "google-ai",
-            "rate": null
+            "rate": 4
           }
         ],
-        "spread": 40
+        "spread": 8
       }
     },
     {
@@ -560,15 +749,15 @@
       "slug": "veracode",
       "url": "https://devtune.ai/verticals/devsecops-application-security/veracode",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 9,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -591,69 +780,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 48
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 40
-      }
-    },
-    {
-      "name": "SonarSource",
-      "slug": "sonarsource",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/sonarsource",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 11,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -667,144 +793,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 36
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": null
+            "rate": 24
           }
         ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Chainguard",
-      "slug": "chainguard",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/chainguard",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 11,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Socket",
-      "slug": "socket",
-      "url": "https://devtune.ai/verticals/devsecops-application-security/socket",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 8
+        "spread": 32
       }
     }
   ],
