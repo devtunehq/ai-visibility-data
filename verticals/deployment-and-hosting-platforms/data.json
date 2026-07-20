@@ -9,38 +9,38 @@
     "name": "Deployment & Hosting Platforms",
     "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms"
   },
-  "dataUrl": "https://devtune.ai/verticals/deployment-and-hosting-platforms/data/2026-07-13.json",
+  "dataUrl": "https://devtune.ai/verticals/deployment-and-hosting-platforms/data/2026-07-20.json",
   "dataWindow": {
-    "start": "2026-07-10",
-    "end": "2026-07-10"
+    "start": "2026-07-17",
+    "end": "2026-07-17"
   },
-  "asOf": "2026-07-13",
-  "generatedAt": "2026-11-24T08:28:23.448Z",
+  "asOf": "2026-07-20",
+  "generatedAt": "2026-11-24T08:28:56.304Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Deployment & Hosting Platforms AI Search Visibility Rankings, https://devtune.ai/verticals/deployment-and-hosting-platforms, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-10). Deployment & Hosting Platforms AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/deployment-and-hosting-platforms",
-    "html": "DevTune. (2026-07-10). <cite>Deployment &amp; Hosting Platforms AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/deployment-and-hosting-platforms\">https://devtune.ai/verticals/deployment-and-hosting-platforms</a>",
-    "bibtex": "@misc{devtune-deployment-and-hosting-platforms-2026,\n  author = {DevTune},\n  title = {{Deployment \\& Hosting Platforms AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/deployment-and-hosting-platforms},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-17). Deployment & Hosting Platforms AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/deployment-and-hosting-platforms",
+    "html": "DevTune. (2026-07-17). <cite>Deployment &amp; Hosting Platforms AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/deployment-and-hosting-platforms\">https://devtune.ai/verticals/deployment-and-hosting-platforms</a>",
+    "bibtex": "@misc{devtune-deployment-and-hosting-platforms-2026,\n  author = {DevTune},\n  title = {{Deployment \\& Hosting Platforms AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-17},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/deployment-and-hosting-platforms},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-10"
+      "responsesThrough": "2026-07-17"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-07-10"
+      "responsesThrough": "2026-07-17"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-10"
+      "responsesThrough": "2026-07-17"
     }
   ],
   "counts": {
@@ -52,38 +52,38 @@
   },
   "brands": [
     {
-      "name": "Vercel",
-      "slug": "vercel",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/vercel",
+      "name": "Railway",
+      "slug": "railway",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/railway",
       "presence": {
-        "rate": 21.333333333333336,
+        "rate": 16,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 52,
         "rank": {
-          "position": 6,
+          "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 42.60698129172405,
+          "high": 61.25372320319769
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
@@ -92,26 +92,26 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
+          "presenceRate": 32,
+          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 72
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 24
           },
           {
             "id": "google-ai",
             "rate": null
           }
         ],
-        "spread": 0
+        "spread": 48
       }
     },
     {
@@ -131,15 +131,15 @@
         }
       },
       "brandMention": {
-        "rate": 58.666666666666664,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 49.17056161158639,
-          "high": 67.55915786640776
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
         }
       },
       "platforms": [
@@ -150,37 +150,37 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 32,
+          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 80
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 40
           },
           {
             "id": "google-ai",
             "rate": null
           }
         ],
-        "spread": 60
+        "spread": 40
       }
     },
     {
-      "name": "Cloudflare",
-      "slug": "cloudflare",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/cloudflare",
+      "name": "Vercel",
+      "slug": "vercel",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/vercel",
       "presence": {
         "rate": 14.666666666666666,
         "rank": {
@@ -208,8 +208,8 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -218,8 +218,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
@@ -238,132 +238,6 @@
           }
         ],
         "spread": 0
-      }
-    },
-    {
-      "name": "DigitalOcean",
-      "slug": "digitalocean",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/digitalocean",
-      "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 16,
-        "rank": {
-          "position": 5,
-          "joint": false,
-          "of": 12
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Railway",
-      "slug": "railway",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/railway",
-      "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 50.66666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 72
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 56
       }
     },
     {
@@ -371,9 +245,72 @@
       "slug": "fly-io",
       "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/fly-io",
       "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 36,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 40.00000000000001
+      }
+    },
+    {
+      "name": "Netlify",
+      "slug": "netlify",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/netlify",
+      "presence": {
         "rate": 6.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 1,
           "joint": true,
           "of": 12
         },
@@ -383,15 +320,15 @@
         }
       },
       "brandMention": {
-        "rate": 52,
+        "rate": 46.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
+          "low": 37.47220206036117,
+          "high": 56.09329044810263
         }
       },
       "platforms": [
@@ -415,91 +352,28 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
-          },
-          {
-            "id": "perplexity",
-            "rate": 32
-          },
-          {
-            "id": "google-ai",
-            "rate": null
-          }
-        ],
-        "spread": 44
-      }
-    },
-    {
-      "name": "Netlify",
-      "slug": "netlify",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/netlify",
-      "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 48,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 38.74627679680233,
-          "high": 57.39301870827595
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
             "rate": 56.00000000000001
           },
           {
             "id": "perplexity",
-            "rate": 32
+            "rate": 44
           },
           {
             "id": "google-ai",
             "rate": null
           }
         ],
-        "spread": 24.000000000000007
+        "spread": 12.000000000000007
       }
     },
     {
-      "name": "AWS Amplify",
-      "slug": "aws-amplify",
-      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/aws-amplify",
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/cloudflare",
       "presence": {
         "rate": 5.333333333333334,
         "rank": {
-          "position": 6,
+          "position": 1,
           "joint": true,
           "of": 12
         },
@@ -556,13 +430,139 @@
       }
     },
     {
+      "name": "DigitalOcean",
+      "slug": "digitalocean",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/digitalocean",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 20,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 20
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "AWS Amplify",
+      "slug": "aws-amplify",
+      "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/aws-amplify",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
       "name": "coolLabs",
       "slug": "coollabs",
       "url": "https://devtune.ai/verticals/deployment-and-hosting-platforms/coollabs",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -625,7 +625,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -688,7 +688,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 12
         },
@@ -751,7 +751,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 12
         },

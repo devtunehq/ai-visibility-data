@@ -9,74 +9,137 @@
     "name": "Cloud Development Environments (CDEs)",
     "url": "https://devtune.ai/verticals/cloud-development-environments-cdes"
   },
-  "dataUrl": "https://devtune.ai/verticals/cloud-development-environments-cdes/data/2026-07-13.json",
+  "dataUrl": "https://devtune.ai/verticals/cloud-development-environments-cdes/data/2026-07-20.json",
   "dataWindow": {
-    "start": "2026-07-13",
-    "end": "2026-07-13"
+    "start": "2026-07-20",
+    "end": "2026-07-20"
   },
-  "asOf": "2026-07-13",
-  "generatedAt": "2026-11-24T08:28:25.172Z",
+  "asOf": "2026-07-20",
+  "generatedAt": "2026-11-24T08:28:58.193Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Cloud Development Environments (CDEs) AI Search Visibility Rankings, https://devtune.ai/verticals/cloud-development-environments-cdes, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-13). Cloud Development Environments (CDEs) AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cloud-development-environments-cdes",
-    "html": "DevTune. (2026-07-13). <cite>Cloud Development Environments (CDEs) AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cloud-development-environments-cdes\">https://devtune.ai/verticals/cloud-development-environments-cdes</a>",
-    "bibtex": "@misc{devtune-cloud-development-environments-cdes-2026,\n  author = {DevTune},\n  title = {{Cloud Development Environments (CDEs) AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-13},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cloud-development-environments-cdes},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-20). Cloud Development Environments (CDEs) AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cloud-development-environments-cdes",
+    "html": "DevTune. (2026-07-20). <cite>Cloud Development Environments (CDEs) AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cloud-development-environments-cdes\">https://devtune.ai/verticals/cloud-development-environments-cdes</a>",
+    "bibtex": "@misc{devtune-cloud-development-environments-cdes-2026,\n  author = {DevTune},\n  title = {{Cloud Development Environments (CDEs) AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-20},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cloud-development-environments-cdes},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-13"
+      "responsesThrough": "2026-07-20"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-07-13"
+      "responsesThrough": "2026-07-20"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-13"
+      "responsesThrough": "2026-07-20"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 75,
+    "answers": 74,
     "brands": 11,
     "brandsRanked": 11
   },
   "brands": [
     {
+      "name": "GitHub Codespaces",
+      "slug": "github-codespaces",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/github-codespaces",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
       "name": "Gitpod",
       "slug": "gitpod",
       "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/gitpod",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 16,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
-        "rate": 72,
+        "rate": 69.33333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 62.82008351352775,
-          "high": 79.64766593061124
+          "low": 60.028931546955036,
+          "high": 77.29121190395499
         }
       },
       "platforms": [
@@ -92,26 +155,26 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 44,
+          "citedPrompts": 11
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 96
+            "rate": 92
           },
           {
             "id": "perplexity",
-            "rate": 40
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": null
           }
         ],
-        "spread": 56
+        "spread": 64
       }
     },
     {
@@ -119,44 +182,44 @@
       "slug": "coder",
       "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/coder",
       "presence": {
-        "rate": 18.666666666666668,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
-        "rate": 54.666666666666664,
+        "rate": 52,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 45.21288439463637,
-          "high": 63.79542609351433
+          "low": 42.60698129172405,
+          "high": 61.25372320319769
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 20,
+          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
@@ -171,73 +234,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 72
+            "rate": null
           }
         ],
         "spread": 84
-      }
-    },
-    {
-      "name": "GitHub Codespaces",
-      "slug": "github-codespaces",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/github-codespaces",
-      "presence": {
-        "rate": 17.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
       }
     },
     {
@@ -245,27 +245,27 @@
       "slug": "devpod",
       "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/devpod",
       "presence": {
-        "rate": 8,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 4,
+          "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 8,
+          "position": 9,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
@@ -276,13 +276,13 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
@@ -297,10 +297,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": null
           }
         ],
-        "spread": 20
+        "spread": 0
       }
     },
     {
@@ -308,6 +308,18 @@
       "slug": "codeanywhere",
       "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/codeanywhere",
       "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
         "rate": 5.333333333333334,
         "rank": {
           "position": 4,
@@ -319,28 +331,16 @@
           "high": 11.361121815053547
         }
       },
-      "brandMention": {
-        "rate": 4,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
@@ -360,7 +360,7 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": null
           }
         ],
         "spread": 8
@@ -371,15 +371,141 @@
       "slug": "stackblitz",
       "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/stackblitz",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "CodeSandbox",
+      "slug": "codesandbox",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/codesandbox",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 16,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Daytona",
+      "slug": "daytona",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/daytona",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -407,8 +533,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -419,42 +545,42 @@
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": null
           }
         ],
-        "spread": 24
+        "spread": 32
       }
     },
     {
-      "name": "CodeSandbox",
-      "slug": "codesandbox",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/codesandbox",
+      "name": "Firebase Studio",
+      "slug": "firebase-studio",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/firebase-studio",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
-        "rate": 22.666666666666664,
+        "rate": 50.66666666666667,
         "rank": {
-          "position": 4,
-          "joint": true,
+          "position": 3,
+          "joint": false,
           "of": 11
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 41.31367302541308,
+          "high": 59.97322847289417
         }
       },
       "platforms": [
@@ -470,96 +596,45 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 24
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 40
           },
           {
             "id": "google-ai",
-            "rate": 24
+            "rate": null
           }
         ],
-        "spread": 4
+        "spread": 28
       }
     },
     {
-      "name": "Replit",
-      "slug": "replit",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/replit",
+      "name": "Jetify",
+      "slug": "jetify",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/jetify",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 24.000000000000004
-      }
-    },
-    {
-      "name": "Daytona",
-      "slug": "daytona",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/daytona",
-      "presence": {
         "rate": 0,
         "rank": {
           "position": 9,
@@ -571,16 +646,67 @@
           "high": 3.4823876269568546
         }
       },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": null
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Replit",
+      "slug": "replit",
+      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/replit",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
       "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "platforms": [
@@ -608,137 +734,11 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 16
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 28.000000000000004
-      }
-    },
-    {
-      "name": "Firebase Studio",
-      "slug": "firebase-studio",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/firebase-studio",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 44,
-        "rank": {
-          "position": 3,
-          "joint": false,
-          "of": 11
-        },
-        "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 56.00000000000001
-          },
-          {
-            "id": "perplexity",
-            "rate": 44
-          },
-          {
-            "id": "google-ai",
-            "rate": 32
-          }
-        ],
-        "spread": 24.000000000000007
-      }
-    },
-    {
-      "name": "Jetify",
-      "slug": "jetify",
-      "url": "https://devtune.ai/verticals/cloud-development-environments-cdes/jetify",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
+            "rate": null
           }
         ],
         "spread": 0
