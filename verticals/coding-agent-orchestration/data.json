@@ -9,38 +9,38 @@
     "name": "Coding Agent Orchestration",
     "url": "https://devtune.ai/verticals/coding-agent-orchestration"
   },
-  "dataUrl": "https://devtune.ai/verticals/coding-agent-orchestration/data/2026-07-20.json",
+  "dataUrl": "https://devtune.ai/verticals/coding-agent-orchestration/data/2026-07-27.json",
   "dataWindow": {
-    "start": "2026-07-19",
-    "end": "2026-07-19"
+    "start": "2026-07-26",
+    "end": "2026-07-26"
   },
-  "asOf": "2026-07-20",
-  "generatedAt": "2026-11-24T08:29:06.736Z",
+  "asOf": "2026-07-27",
+  "generatedAt": "2026-11-24T08:29:39.349Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Coding Agent Orchestration AI Search Visibility Rankings, https://devtune.ai/verticals/coding-agent-orchestration, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-19). Coding Agent Orchestration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/coding-agent-orchestration",
-    "html": "DevTune. (2026-07-19). <cite>Coding Agent Orchestration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/coding-agent-orchestration\">https://devtune.ai/verticals/coding-agent-orchestration</a>",
-    "bibtex": "@misc{devtune-coding-agent-orchestration-2026,\n  author = {DevTune},\n  title = {{Coding Agent Orchestration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-19},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/coding-agent-orchestration},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-26). Coding Agent Orchestration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/coding-agent-orchestration",
+    "html": "DevTune. (2026-07-26). <cite>Coding Agent Orchestration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/coding-agent-orchestration\">https://devtune.ai/verticals/coding-agent-orchestration</a>",
+    "bibtex": "@misc{devtune-coding-agent-orchestration-2026,\n  author = {DevTune},\n  title = {{Coding Agent Orchestration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-26},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/coding-agent-orchestration},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-19"
-    },
-    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-19"
+      "responsesThrough": "2026-07-26"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-07-19"
+      "responsesThrough": "2026-07-26"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-07-26"
     }
   ],
   "counts": {
@@ -56,15 +56,15 @@
       "slug": "nimbalyst",
       "url": "https://devtune.ai/verticals/coding-agent-orchestration/nimbalyst",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 12,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "brandMention": {
@@ -81,17 +81,17 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 8,
           "citedPrompts": 2
         }
@@ -119,141 +119,15 @@
       "slug": "superset",
       "url": "https://devtune.ai/verticals/coding-agent-orchestration/superset",
       "presence": {
-        "rate": 4,
+        "rate": 2.666666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "Conductor",
-      "slug": "conductor",
-      "url": "https://devtune.ai/verticals/coding-agent-orchestration/conductor",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "HumanLayer",
-      "slug": "humanlayer",
-      "url": "https://devtune.ai/verticals/coding-agent-orchestration/humanlayer",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
@@ -270,10 +144,68 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Conductor",
+      "slug": "conductor",
+      "url": "https://devtune.ai/verticals/coding-agent-orchestration/conductor",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -281,6 +213,74 @@
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "HumanLayer",
+      "slug": "humanlayer",
+      "url": "https://devtune.ai/verticals/coding-agent-orchestration/humanlayer",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -297,10 +297,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
@@ -310,7 +310,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -322,7 +322,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 7
         },
@@ -333,17 +333,17 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -373,7 +373,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -385,7 +385,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 7
         },
@@ -396,17 +396,17 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -436,7 +436,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -448,7 +448,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 7
         },
@@ -459,17 +459,17 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
