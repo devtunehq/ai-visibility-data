@@ -9,44 +9,44 @@
     "name": "Mobile Development Platforms & Cross-Platform",
     "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform"
   },
-  "dataUrl": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/data/2026-07-27.json",
+  "dataUrl": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/data/2026-08-03.json",
   "dataWindow": {
-    "start": "2026-07-21",
-    "end": "2026-07-21"
+    "start": "2026-07-28",
+    "end": "2026-07-28"
   },
-  "asOf": "2026-07-27",
-  "generatedAt": "2026-11-24T08:29:32.004Z",
+  "asOf": "2026-08-03",
+  "generatedAt": "2026-11-24T08:30:23.344Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Mobile Development Platforms & Cross-Platform AI Search Visibility Rankings, https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-21). Mobile Development Platforms & Cross-Platform AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform",
-    "html": "DevTune. (2026-07-21). <cite>Mobile Development Platforms &amp; Cross-Platform AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform\">https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform</a>",
-    "bibtex": "@misc{devtune-mobile-development-platforms-and-cross-platform-2026,\n  author = {DevTune},\n  title = {{Mobile Development Platforms \\& Cross-Platform AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-21},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-07-28). Mobile Development Platforms & Cross-Platform AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform",
+    "html": "DevTune. (2026-07-28). <cite>Mobile Development Platforms &amp; Cross-Platform AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform\">https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform</a>",
+    "bibtex": "@misc{devtune-mobile-development-platforms-and-cross-platform-2026,\n  author = {DevTune},\n  title = {{Mobile Development Platforms \\& Cross-Platform AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-28},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-07-28"
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-21"
+      "responsesThrough": "2026-07-28"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-21"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-07-21"
+      "responsesThrough": "2026-07-28"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 73,
+    "answers": 75,
     "brands": 9,
     "brandsRanked": 9
   },
@@ -56,22 +56,73 @@
       "slug": "kotlin-multiplatform",
       "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/kotlin-multiplatform",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 34.66666666666667,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 9
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 26.3035922373613,
+          "high": 44.097673301572144
         }
       },
       "brandMention": {
-        "rate": 12,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 4,
           "joint": false,
+          "of": 9
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 48,
+          "citedPrompts": 12
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 44,
+          "citedPrompts": 11
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 28.000000000000004
+      }
+    },
+    {
+      "name": "Expo",
+      "slug": "expo",
+      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/expo",
+      "presence": {
+        "rate": 12,
+        "rank": {
+          "position": 2,
+          "joint": true,
           "of": 9
         },
         "range90": {
@@ -79,39 +130,114 @@
           "high": 19.530170881910415
         }
       },
+      "brandMention": {
+        "rate": 34.66666666666667,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 26.3035922373613,
+          "high": 44.097673301572144
+        }
+      },
       "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
         {
           "id": "google-ai",
           "presenceRate": 12,
           "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 52
           }
         ],
-        "spread": 16
+        "spread": 40
+      }
+    },
+    {
+      "name": "Ionic",
+      "slug": "ionic",
+      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/ionic",
+      "presence": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "brandMention": {
+        "rate": 44,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 34.94343256402256,
+          "high": 53.474453951212276
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 44
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 8
       }
     },
     {
@@ -144,26 +270,26 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 8,
           "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -178,135 +304,9 @@
       }
     },
     {
-      "name": "Ionic",
-      "slug": "ionic",
-      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/ionic",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 41.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 32.44084213359225,
-          "high": 50.829438388413614
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": null
-          },
-          {
-            "id": "perplexity",
-            "rate": 32
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": ".NET MAUI",
-      "slug": "net-maui",
-      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/net-maui",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 26.666666666666668,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": null
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Capacitor",
-      "slug": "capacitor",
-      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/capacitor",
+      "name": "NativeScript",
+      "slug": "nativescript",
+      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/nativescript",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -333,26 +333,26 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -367,76 +367,13 @@
       }
     },
     {
-      "name": "Expo",
-      "slug": "expo",
-      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/expo",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 38.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 29.965045596143597,
-          "high": 48.157628932633294
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": null
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 60
-          }
-        ],
-        "spread": 48
-      }
-    },
-    {
-      "name": "NativeScript",
-      "slug": "nativescript",
-      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/nativescript",
+      "name": "Capacitor",
+      "slug": "capacitor",
+      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/capacitor",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 2,
+          "position": 6,
           "joint": true,
           "of": 9
         },
@@ -459,17 +396,17 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -478,7 +415,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -499,7 +436,7 @@
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 2,
+          "position": 6,
           "joint": true,
           "of": 9
         },
@@ -522,6 +459,11 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -530,18 +472,13 @@
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -556,13 +493,76 @@
       }
     },
     {
+      "name": ".NET MAUI",
+      "slug": "net-maui",
+      "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/net-maui",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 30.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 60
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 44
+      }
+    },
+    {
       "name": "Tauri",
       "slug": "tauri",
       "url": "https://devtune.ai/verticals/mobile-development-platforms-and-cross-platform/tauri",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 2,
+          "position": 6,
           "joint": true,
           "of": 9
         },
@@ -585,6 +585,11 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -593,18 +598,13 @@
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "perplexity",
