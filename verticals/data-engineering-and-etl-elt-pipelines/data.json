@@ -9,38 +9,38 @@
     "name": "Data Engineering & ETL/ELT Pipelines",
     "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines"
   },
-  "dataUrl": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/data/2026-08-03.json",
+  "dataUrl": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/data/2026-08-10.json",
   "dataWindow": {
-    "start": "2026-07-28",
-    "end": "2026-07-28"
+    "start": "2026-08-04",
+    "end": "2026-08-04"
   },
-  "asOf": "2026-08-03",
-  "generatedAt": "2026-11-24T08:30:16.914Z",
+  "asOf": "2026-08-10",
+  "generatedAt": "2026-11-24T08:30:55.554Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Data Engineering & ETL/ELT Pipelines AI Search Visibility Rankings, https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-07-28). Data Engineering & ETL/ELT Pipelines AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines",
-    "html": "DevTune. (2026-07-28). <cite>Data Engineering &amp; ETL/ELT Pipelines AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines\">https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines</a>",
-    "bibtex": "@misc{devtune-data-engineering-and-etl-elt-pipelines-2026,\n  author = {DevTune},\n  title = {{Data Engineering \\& ETL/ELT Pipelines AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-07-28},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-04). Data Engineering & ETL/ELT Pipelines AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines",
+    "html": "DevTune. (2026-08-04). <cite>Data Engineering &amp; ETL/ELT Pipelines AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines\">https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines</a>",
+    "bibtex": "@misc{devtune-data-engineering-and-etl-elt-pipelines-2026,\n  author = {DevTune},\n  title = {{Data Engineering \\& ETL/ELT Pipelines AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-04},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-08-04"
+    },
+    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-07-28"
+      "responsesThrough": "2026-08-04"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-07-28"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-07-28"
+      "responsesThrough": "2026-08-04"
     }
   ],
   "counts": {
@@ -56,69 +56,6 @@
       "slug": "integrate-io",
       "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/integrate-io",
       "presence": {
-        "rate": 30.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
-        }
-      },
-      "brandMention": {
-        "rate": 17.333333333333336,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 36
-      }
-    },
-    {
-      "name": "Fivetran",
-      "slug": "fivetran",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/fivetran",
-      "presence": {
         "rate": 26.666666666666668,
         "rank": {
           "position": 1,
@@ -131,30 +68,93 @@
         }
       },
       "brandMention": {
-        "rate": 50.66666666666667,
+        "rate": 12,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 52,
+          "citedPrompts": 13
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 32
+          }
+        ],
+        "spread": 32
+      }
+    },
+    {
+      "name": "Dagster",
+      "slug": "dagster",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/dagster",
+      "presence": {
+        "rate": 22.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
           "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
         }
@@ -163,18 +163,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 68
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 56.00000000000001
+            "rate": 0
           }
         ],
-        "spread": 40
+        "spread": 4
       }
     },
     {
@@ -194,18 +194,23 @@
         }
       },
       "brandMention": {
-        "rate": 49.333333333333336,
+        "rate": 42.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
         {
           "id": "chatgpt-search",
           "presenceRate": 32,
@@ -213,13 +218,8 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -230,20 +230,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 56.00000000000001
+            "rate": 52
           }
         ],
-        "spread": 36
+        "spread": 52
       }
     },
     {
-      "name": "Dagster",
-      "slug": "dagster",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/dagster",
+      "name": "Fivetran",
+      "slug": "fivetran",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/fivetran",
       "presence": {
         "rate": 16,
         "rank": {
@@ -257,50 +257,50 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 40,
         "rank": {
-          "position": 7,
+          "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 16,
           "citedPrompts": 4
         },
         {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 60
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 52
           }
         ],
-        "spread": 4
+        "spread": 52
       }
     },
     {
@@ -308,68 +308,68 @@
       "slug": "matillion",
       "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/matillion",
       "presence": {
-        "rate": 16,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "brandMention": {
-        "rate": 25.333333333333336,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
-          "presenceRate": 40,
-          "citedPrompts": 10
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 40
+            "rate": 44
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 8
           },
           {
             "id": "google-ai",
             "rate": 12
           }
         ],
-        "spread": 28
+        "spread": 36
       }
     },
     {
-      "name": "dbt",
-      "slug": "dbt",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/dbt",
+      "name": "Hevo Data",
+      "slug": "hevo-data",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/hevo-data",
       "presence": {
         "rate": 8,
         "rank": {
@@ -383,30 +383,93 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 18.666666666666668,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 32
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 20
+          }
+        ],
+        "spread": 28
+      }
+    },
+    {
+      "name": "dbt",
+      "slug": "dbt",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/dbt",
+      "presence": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "brandMention": {
+        "rate": 4,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 12,
           "citedPrompts": 3
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -415,144 +478,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Hevo Data",
-      "slug": "hevo-data",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/hevo-data",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 24
-      }
-    },
-    {
-      "name": "Meltano",
-      "slug": "meltano",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/meltano",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
             "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
           }
         ],
-        "spread": 20
+        "spread": 12
       }
     },
     {
@@ -572,132 +509,6 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Astronomer",
-      "slug": "astronomer",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/astronomer",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Rivery",
-      "slug": "rivery",
-      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/rivery",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
         "rate": 4,
         "rank": {
           "position": 7,
@@ -711,17 +522,143 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
           "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Meltano",
+      "slug": "meltano",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/meltano",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Astronomer",
+      "slug": "astronomer",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/astronomer",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 10,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
+        {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -734,14 +671,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 16
           }
         ],
-        "spread": 0
+        "spread": 16
       }
     },
     {
@@ -751,8 +688,8 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 12,
-          "joint": false,
+          "position": 10,
+          "joint": true,
           "of": 12
         },
         "range90": {
@@ -774,17 +711,17 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -805,6 +742,69 @@
           }
         ],
         "spread": 4
+      }
+    },
+    {
+      "name": "Rivery",
+      "slug": "rivery",
+      "url": "https://devtune.ai/verticals/data-engineering-and-etl-elt-pipelines/rivery",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 10,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
       }
     }
   ],
