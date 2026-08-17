@@ -9,38 +9,38 @@
     "name": "AI Code Review & Code Quality",
     "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality"
   },
-  "dataUrl": "https://devtune.ai/verticals/ai-code-review-and-code-quality/data/2026-08-10.json",
+  "dataUrl": "https://devtune.ai/verticals/ai-code-review-and-code-quality/data/2026-08-17.json",
   "dataWindow": {
-    "start": "2026-08-09",
-    "end": "2026-08-09"
+    "start": "2026-08-16",
+    "end": "2026-08-16"
   },
-  "asOf": "2026-08-10",
-  "generatedAt": "2026-11-24T08:30:58.600Z",
+  "asOf": "2026-08-17",
+  "generatedAt": "2026-11-24T08:31:34.311Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, AI Code Review & Code Quality AI Search Visibility Rankings, https://devtune.ai/verticals/ai-code-review-and-code-quality, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-09). AI Code Review & Code Quality AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-code-review-and-code-quality",
-    "html": "DevTune. (2026-08-09). <cite>AI Code Review &amp; Code Quality AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-code-review-and-code-quality\">https://devtune.ai/verticals/ai-code-review-and-code-quality</a>",
-    "bibtex": "@misc{devtune-ai-code-review-and-code-quality-2026,\n  author = {DevTune},\n  title = {{AI Code Review \\& Code Quality AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-code-review-and-code-quality},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-16). AI Code Review & Code Quality AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-code-review-and-code-quality",
+    "html": "DevTune. (2026-08-16). <cite>AI Code Review &amp; Code Quality AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-code-review-and-code-quality\">https://devtune.ai/verticals/ai-code-review-and-code-quality</a>",
+    "bibtex": "@misc{devtune-ai-code-review-and-code-quality-2026,\n  author = {DevTune},\n  title = {{AI Code Review \\& Code Quality AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-16},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-code-review-and-code-quality},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-09"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-09"
+      "responsesThrough": "2026-08-16"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-09"
+      "responsesThrough": "2026-08-16"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-08-16"
     }
   ],
   "counts": {
@@ -56,51 +56,51 @@
       "slug": "greptile",
       "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/greptile",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
-        "rate": 29.333333333333332,
+        "rate": 25.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 36,
-          "citedPrompts": 9
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 44,
+          "citedPrompts": 11
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 44
+            "rate": 36
           },
           {
             "id": "perplexity",
@@ -108,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 40
           }
         ],
-        "spread": 44
+        "spread": 40
       }
     },
     {
@@ -119,21 +119,21 @@
       "slug": "sourcegraph",
       "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/sourcegraph",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 9,
           "joint": true,
           "of": 11
         },
@@ -144,19 +144,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 68,
+          "citedPrompts": 17
         }
       ],
       "mentionConsensus": {
@@ -178,55 +178,55 @@
       }
     },
     {
-      "name": "SonarSource",
-      "slug": "sonarsource",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/sonarsource",
+      "name": "Qodo",
+      "slug": "qodo",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/qodo",
       "presence": {
-        "rate": 20,
+        "rate": 25.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 36,
         "rank": {
-          "position": 4,
+          "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 44,
-          "citedPrompts": 11
+          "presenceRate": 36,
+          "citedPrompts": 9
         },
         {
           "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 32
+            "rate": 48
           },
           {
             "id": "perplexity",
@@ -234,10 +234,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 56.00000000000001
           }
         ],
-        "spread": 28
+        "spread": 52.00000000000001
       }
     },
     {
@@ -245,15 +245,15 @@
       "slug": "coderabbit",
       "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/coderabbit",
       "presence": {
-        "rate": 16,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "brandMention": {
@@ -270,43 +270,43 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 56.00000000000001
+            "rate": 52
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
             "rate": 60
           }
         ],
-        "spread": 60
+        "spread": 56
       }
     },
     {
-      "name": "Qodo",
-      "slug": "qodo",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/qodo",
+      "name": "SonarSource",
+      "slug": "sonarsource",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/sonarsource",
       "presence": {
         "rate": 14.666666666666666,
         "rank": {
@@ -320,56 +320,56 @@
         }
       },
       "brandMention": {
-        "rate": 33.33333333333333,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 1,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 25.097652013553795,
-          "high": 42.729810528765164
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 60
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": 4
           }
         ],
-        "spread": 60
+        "spread": 16
       }
     },
     {
-      "name": "Semgrep",
-      "slug": "semgrep",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/semgrep",
+      "name": "DeepSource",
+      "slug": "deepsource",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/deepsource",
       "presence": {
         "rate": 9.333333333333334,
         "rank": {
@@ -383,9 +383,135 @@
         }
       },
       "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Snyk",
+      "slug": "snyk",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/snyk",
+      "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 22.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 36
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 32
+      }
+    },
+    {
+      "name": "Semgrep",
+      "slug": "semgrep",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/semgrep",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 9,
           "joint": true,
           "of": 11
         },
@@ -396,17 +522,17 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -427,132 +553,6 @@
           }
         ],
         "spread": 0
-      }
-    },
-    {
-      "name": "DeepSource",
-      "slug": "deepsource",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/deepsource",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "Snyk",
-      "slug": "snyk",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/snyk",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 28.000000000000004
       }
     },
     {
@@ -572,30 +572,30 @@
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -604,24 +604,24 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 16
           }
         ],
         "spread": 12
       }
     },
     {
-      "name": "Graphite",
-      "slug": "graphite",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/graphite",
+      "name": "Code Climate",
+      "slug": "code-climate",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/code-climate",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -635,39 +635,39 @@
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 4,
         "rank": {
-          "position": 8,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -675,16 +675,16 @@
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 8
       }
     },
     {
-      "name": "Code Climate",
-      "slug": "code-climate",
-      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/code-climate",
+      "name": "Graphite",
+      "slug": "graphite",
+      "url": "https://devtune.ai/verticals/ai-code-review-and-code-quality/graphite",
       "presence": {
         "rate": 0,
         "rank": {
@@ -700,7 +700,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 9,
           "joint": true,
           "of": 11
         },
@@ -711,17 +711,17 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
