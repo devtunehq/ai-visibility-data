@@ -9,38 +9,38 @@
     "name": "Salesforce DevOps",
     "url": "https://devtune.ai/verticals/salesforce-devops"
   },
-  "dataUrl": "https://devtune.ai/verticals/salesforce-devops/data/2026-08-17.json",
+  "dataUrl": "https://devtune.ai/verticals/salesforce-devops/data/2026-08-24.json",
   "dataWindow": {
-    "start": "2026-08-14",
-    "end": "2026-08-14"
+    "start": "2026-08-21",
+    "end": "2026-08-21"
   },
-  "asOf": "2026-08-17",
-  "generatedAt": "2026-11-24T08:31:28.427Z",
+  "asOf": "2026-08-24",
+  "generatedAt": "2026-11-24T08:32:03.119Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Salesforce DevOps AI Search Visibility Rankings, https://devtune.ai/verticals/salesforce-devops, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-14). Salesforce DevOps AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/salesforce-devops",
-    "html": "DevTune. (2026-08-14). <cite>Salesforce DevOps AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/salesforce-devops\">https://devtune.ai/verticals/salesforce-devops</a>",
-    "bibtex": "@misc{devtune-salesforce-devops-2026,\n  author = {DevTune},\n  title = {{Salesforce DevOps AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-14},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/salesforce-devops},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-21). Salesforce DevOps AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/salesforce-devops",
+    "html": "DevTune. (2026-08-21). <cite>Salesforce DevOps AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/salesforce-devops\">https://devtune.ai/verticals/salesforce-devops</a>",
+    "bibtex": "@misc{devtune-salesforce-devops-2026,\n  author = {DevTune},\n  title = {{Salesforce DevOps AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-21},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/salesforce-devops},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-14"
-    },
-    {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-14"
+      "responsesThrough": "2026-08-21"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-14"
+      "responsesThrough": "2026-08-21"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-08-21"
     }
   ],
   "counts": {
@@ -52,19 +52,82 @@
   },
   "brands": [
     {
-      "name": "Gearset",
-      "slug": "gearset",
-      "url": "https://devtune.ai/verticals/salesforce-devops/gearset",
+      "name": "Flosum",
+      "slug": "flosum",
+      "url": "https://devtune.ai/verticals/salesforce-devops/flosum",
       "presence": {
-        "rate": 62.66666666666667,
+        "rate": 58.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 53.18858661147089,
-          "high": 71.26254185636672
+          "low": 49.17056161158639,
+          "high": 67.55915786640776
+        }
+      },
+      "brandMention": {
+        "rate": 60,
+        "rank": {
+          "position": 3,
+          "joint": false,
+          "of": 10
+        },
+        "range90": {
+          "low": 50.50306880161667,
+          "high": 68.80045367299196
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 52,
+          "citedPrompts": 13
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 64,
+          "citedPrompts": 16
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 60,
+          "citedPrompts": 15
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 80
+          },
+          {
+            "id": "perplexity",
+            "rate": 44
+          },
+          {
+            "id": "google-ai",
+            "rate": 56.00000000000001
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Gearset",
+      "slug": "gearset",
+      "url": "https://devtune.ai/verticals/salesforce-devops/gearset",
+      "presence": {
+        "rate": 44,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 34.94343256402256,
+          "high": 53.474453951212276
         }
       },
       "brandMention": {
@@ -82,99 +145,36 @@
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 60,
-          "citedPrompts": 15
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 80,
-          "citedPrompts": 20
+          "presenceRate": 76,
+          "citedPrompts": 19
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 92
           },
           {
             "id": "perplexity",
-            "rate": 52
+            "rate": 56.00000000000001
           },
           {
             "id": "google-ai",
-            "rate": 100
+            "rate": 92
           }
         ],
-        "spread": 48
-      }
-    },
-    {
-      "name": "Flosum",
-      "slug": "flosum",
-      "url": "https://devtune.ai/verticals/salesforce-devops/flosum",
-      "presence": {
-        "rate": 49.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
-        }
-      },
-      "brandMention": {
-        "rate": 53.333333333333336,
-        "rank": {
-          "position": 3,
-          "joint": false,
-          "of": 10
-        },
-        "range90": {
-          "low": 43.90670955189737,
-          "high": 62.52779793963883
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
-            "rate": 32
-          },
-          {
-            "id": "google-ai",
-            "rate": 48
-          }
-        ],
-        "spread": 48
+        "spread": 35.99999999999999
       }
     },
     {
@@ -182,44 +182,44 @@
       "slug": "copado",
       "url": "https://devtune.ai/verticals/salesforce-devops/copado",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 20,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
         }
       },
       "brandMention": {
-        "rate": 69.33333333333334,
+        "rate": 70.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 60.028931546955036,
-          "high": 77.29121190395499
+          "low": 61.420310052334074,
+          "high": 78.47363639519044
         }
       },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
+          "presenceRate": 36,
+          "citedPrompts": 9
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -230,14 +230,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 36
+            "rate": 44
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 80
           }
         ],
-        "spread": 52
+        "spread": 44
       }
     },
     {
@@ -245,44 +245,44 @@
       "slug": "blue-canvas",
       "url": "https://devtune.ai/verticals/salesforce-devops/blue-canvas",
       "presence": {
-        "rate": 12,
+        "rate": 14.666666666666666,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
         }
       },
       "brandMention": {
-        "rate": 13.333333333333334,
+        "rate": 16,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -293,14 +293,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 32
+            "rate": 36
           }
         ],
-        "spread": 32
+        "spread": 36
       }
     },
     {
@@ -320,15 +320,15 @@
         }
       },
       "brandMention": {
-        "rate": 4,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
@@ -338,14 +338,14 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 32,
+          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
@@ -356,14 +356,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 16
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 8
           }
         ],
-        "spread": 0
+        "spread": 12
       }
     },
     {
@@ -371,125 +371,62 @@
       "slug": "autorabit",
       "url": "https://devtune.ai/verticals/salesforce-devops/autorabit",
       "presence": {
-        "rate": 8,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
-        "rate": 29.333333333333332,
+        "rate": 36,
         "rank": {
           "position": 4,
           "joint": false,
           "of": 10
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
         }
       },
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 16,
           "citedPrompts": 4
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 40
+            "rate": 44
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 40
           }
         ],
         "spread": 20
-      }
-    },
-    {
-      "name": "Prodly",
-      "slug": "prodly",
-      "url": "https://devtune.ai/verticals/salesforce-devops/prodly",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 4
       }
     },
     {
@@ -497,21 +434,21 @@
       "slug": "opsera",
       "url": "https://devtune.ai/verticals/salesforce-devops/opsera",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 9,
+          "position": 8,
           "joint": true,
           "of": 10
         },
@@ -523,18 +460,18 @@
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -556,13 +493,13 @@
       }
     },
     {
-      "name": "Salto",
-      "slug": "salto",
-      "url": "https://devtune.ai/verticals/salesforce-devops/salto",
+      "name": "Prodly",
+      "slug": "prodly",
+      "url": "https://devtune.ai/verticals/salesforce-devops/prodly",
       "presence": {
         "rate": 5.333333333333334,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 10
         },
@@ -586,18 +523,18 @@
       "platforms": [
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -608,14 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 4
           }
         ],
-        "spread": 12
+        "spread": 4
       }
     },
     {
@@ -625,7 +562,7 @@
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 10
         },
@@ -635,15 +572,15 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 8,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
@@ -653,14 +590,14 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -675,10 +612,73 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
+      }
+    },
+    {
+      "name": "Salto",
+      "slug": "salto",
+      "url": "https://devtune.ai/verticals/salesforce-devops/salto",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
       }
     }
   ],

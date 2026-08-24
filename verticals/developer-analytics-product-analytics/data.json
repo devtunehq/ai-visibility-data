@@ -9,38 +9,38 @@
     "name": "Developer Analytics & Product Analytics",
     "url": "https://devtune.ai/verticals/developer-analytics-product-analytics"
   },
-  "dataUrl": "https://devtune.ai/verticals/developer-analytics-product-analytics/data/2026-08-17.json",
+  "dataUrl": "https://devtune.ai/verticals/developer-analytics-product-analytics/data/2026-08-24.json",
   "dataWindow": {
-    "start": "2026-08-15",
-    "end": "2026-08-15"
+    "start": "2026-08-22",
+    "end": "2026-08-22"
   },
-  "asOf": "2026-08-17",
-  "generatedAt": "2026-11-24T08:31:14.923Z",
+  "asOf": "2026-08-24",
+  "generatedAt": "2026-11-24T08:31:50.371Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Developer Analytics & Product Analytics AI Search Visibility Rankings, https://devtune.ai/verticals/developer-analytics-product-analytics, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-15). Developer Analytics & Product Analytics AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/developer-analytics-product-analytics",
-    "html": "DevTune. (2026-08-15). <cite>Developer Analytics &amp; Product Analytics AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/developer-analytics-product-analytics\">https://devtune.ai/verticals/developer-analytics-product-analytics</a>",
-    "bibtex": "@misc{devtune-developer-analytics-product-analytics-2026,\n  author = {DevTune},\n  title = {{Developer Analytics \\& Product Analytics AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-15},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/developer-analytics-product-analytics},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-22). Developer Analytics & Product Analytics AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/developer-analytics-product-analytics",
+    "html": "DevTune. (2026-08-22). <cite>Developer Analytics &amp; Product Analytics AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/developer-analytics-product-analytics\">https://devtune.ai/verticals/developer-analytics-product-analytics</a>",
+    "bibtex": "@misc{devtune-developer-analytics-product-analytics-2026,\n  author = {DevTune},\n  title = {{Developer Analytics \\& Product Analytics AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-22},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/developer-analytics-product-analytics},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-15"
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-08-22"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-15"
+      "responsesThrough": "2026-08-22"
     },
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-15"
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-08-22"
     }
   ],
   "counts": {
@@ -56,44 +56,44 @@
       "slug": "amplitude",
       "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/amplitude",
       "presence": {
-        "rate": 50.66666666666667,
+        "rate": 56.00000000000001,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 11
         },
         "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
+          "low": 46.52554604878774,
+          "high": 65.05656743597746
         }
       },
       "brandMention": {
-        "rate": 69.33333333333334,
+        "rate": 78.66666666666666,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 60.028931546955036,
-          "high": 77.29121190395499
+          "low": 69.95872756059237,
+          "high": 85.37803686661904
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 80,
-          "citedPrompts": 20
+          "id": "perplexity",
+          "presenceRate": 60,
+          "citedPrompts": 15
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
-          "id": "perplexity",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "id": "chatgpt-search",
+          "presenceRate": 84,
+          "citedPrompts": 21
         }
       ],
       "mentionConsensus": {
@@ -104,83 +104,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 36
+            "rate": 60
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": 84
           }
         ],
-        "spread": 56
+        "spread": 32
       }
     },
     {
       "name": "Pendo",
       "slug": "pendo",
       "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/pendo",
-      "presence": {
-        "rate": 28.000000000000004,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 20.352334069388775,
-          "high": 37.17991648647225
-        }
-      },
-      "brandMention": {
-        "rate": 22.666666666666664,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 44,
-          "citedPrompts": 11
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 28
-      }
-    },
-    {
-      "name": "PostHog",
-      "slug": "posthog",
-      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/posthog",
       "presence": {
         "rate": 24,
         "rank": {
@@ -194,95 +131,95 @@
         }
       },
       "brandMention": {
-        "rate": 57.333333333333336,
+        "rate": 28.000000000000004,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 47.844748807752744,
-          "high": 66.31116767362691
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "id": "perplexity",
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
           "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 28.000000000000004
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 68
+            "rate": 32
           }
         ],
-        "spread": 72
+        "spread": 8
       }
     },
     {
-      "name": "Mixpanel",
-      "slug": "mixpanel",
-      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/mixpanel",
+      "name": "PostHog",
+      "slug": "posthog",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/posthog",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "brandMention": {
-        "rate": 62.66666666666667,
+        "rate": 64,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 53.18858661147089,
-          "high": 71.26254185636672
+          "low": 54.541852565483204,
+          "high": 72.48307889896888
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 48,
-          "citedPrompts": 12
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
@@ -293,14 +230,77 @@
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
             "rate": 80
           }
         ],
-        "spread": 60
+        "spread": 56
+      }
+    },
+    {
+      "name": "Mixpanel",
+      "slug": "mixpanel",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/mixpanel",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "brandMention": {
+        "rate": 66.66666666666666,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 57.27018947123484,
+          "high": 74.9023479864462
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 88
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 76
+          }
+        ],
+        "spread": 52
       }
     },
     {
@@ -308,51 +308,51 @@
       "slug": "rudderstack",
       "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/rudderstack",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 8,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
-        "rate": 21.333333333333336,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 24
           },
           {
             "id": "perplexity",
@@ -360,73 +360,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 24
           }
         ],
-        "spread": 20.000000000000004
-      }
-    },
-    {
-      "name": "Heap",
-      "slug": "heap",
-      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/heap",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
+        "spread": 16
       }
     },
     {
@@ -434,21 +371,21 @@
       "slug": "segment",
       "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/segment",
       "presence": {
-        "rate": 8,
+        "rate": 6.666666666666667,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 9,
           "joint": true,
           "of": 11
         },
@@ -459,19 +396,19 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -497,44 +434,44 @@
       "slug": "fullstory",
       "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/fullstory",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 4,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -545,66 +482,66 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 12
           }
         ],
         "spread": 4
       }
     },
     {
-      "name": "June",
-      "slug": "june",
-      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/june",
+      "name": "Heap",
+      "slug": "heap",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/heap",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 4,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 0,
         "rank": {
           "position": 9,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -612,26 +549,26 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
-      "name": "mParticle",
-      "slug": "mparticle",
-      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/mparticle",
+      "name": "June",
+      "slug": "june",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/june",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 9,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -648,9 +585,9 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -658,7 +595,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -667,18 +604,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
             "rate": 8
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
@@ -700,7 +637,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 6,
+          "position": 9,
           "joint": true,
           "of": 11
         },
@@ -711,7 +648,7 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -721,7 +658,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -742,6 +679,69 @@
           }
         ],
         "spread": 0
+      }
+    },
+    {
+      "name": "mParticle",
+      "slug": "mparticle",
+      "url": "https://devtune.ai/verticals/developer-analytics-product-analytics/mparticle",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
       }
     }
   ],

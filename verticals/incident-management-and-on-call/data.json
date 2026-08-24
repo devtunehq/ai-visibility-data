@@ -9,38 +9,38 @@
     "name": "Incident Management & On-Call",
     "url": "https://devtune.ai/verticals/incident-management-and-on-call"
   },
-  "dataUrl": "https://devtune.ai/verticals/incident-management-and-on-call/data/2026-08-17.json",
+  "dataUrl": "https://devtune.ai/verticals/incident-management-and-on-call/data/2026-08-24.json",
   "dataWindow": {
-    "start": "2026-08-15",
-    "end": "2026-08-15"
+    "start": "2026-08-22",
+    "end": "2026-08-22"
   },
-  "asOf": "2026-08-17",
-  "generatedAt": "2026-11-24T08:31:33.705Z",
+  "asOf": "2026-08-24",
+  "generatedAt": "2026-11-24T08:32:08.151Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Incident Management & On-Call AI Search Visibility Rankings, https://devtune.ai/verticals/incident-management-and-on-call, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-15). Incident Management & On-Call AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/incident-management-and-on-call",
-    "html": "DevTune. (2026-08-15). <cite>Incident Management &amp; On-Call AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/incident-management-and-on-call\">https://devtune.ai/verticals/incident-management-and-on-call</a>",
-    "bibtex": "@misc{devtune-incident-management-and-on-call-2026,\n  author = {DevTune},\n  title = {{Incident Management \\& On-Call AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-15},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/incident-management-and-on-call},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-22). Incident Management & On-Call AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/incident-management-and-on-call",
+    "html": "DevTune. (2026-08-22). <cite>Incident Management &amp; On-Call AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/incident-management-and-on-call\">https://devtune.ai/verticals/incident-management-and-on-call</a>",
+    "bibtex": "@misc{devtune-incident-management-and-on-call-2026,\n  author = {DevTune},\n  title = {{Incident Management \\& On-Call AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-22},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/incident-management-and-on-call},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-15"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-15"
+      "responsesThrough": "2026-08-22"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-08-22"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-15"
+      "responsesThrough": "2026-08-22"
     }
   ],
   "counts": {
@@ -52,82 +52,19 @@
   },
   "brands": [
     {
-      "name": "incident.io",
-      "slug": "incident-io",
-      "url": "https://devtune.ai/verticals/incident-management-and-on-call/incident-io",
-      "presence": {
-        "rate": 70.66666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 61.420310052334074,
-          "high": 78.47363639519044
-        }
-      },
-      "brandMention": {
-        "rate": 64,
-        "rank": {
-          "position": 1,
-          "joint": false,
-          "of": 11
-        },
-        "range90": {
-          "low": 54.541852565483204,
-          "high": 72.48307889896888
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 76,
-          "citedPrompts": 19
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 84,
-          "citedPrompts": 21
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 92
-          },
-          {
-            "id": "perplexity",
-            "rate": 24
-          },
-          {
-            "id": "google-ai",
-            "rate": 76
-          }
-        ],
-        "spread": 68
-      }
-    },
-    {
       "name": "Rootly",
       "slug": "rootly",
       "url": "https://devtune.ai/verticals/incident-management-and-on-call/rootly",
       "presence": {
-        "rate": 58.666666666666664,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 49.17056161158639,
-          "high": 67.55915786640776
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
         }
       },
       "brandMention": {
@@ -144,19 +81,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 52,
-          "citedPrompts": 13
+          "id": "chatgpt-search",
+          "presenceRate": 68,
+          "citedPrompts": 17
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 84,
-          "citedPrompts": 21
+          "id": "perplexity",
+          "presenceRate": 68,
+          "citedPrompts": 17
         },
         {
           "id": "google-ai",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 52,
+          "citedPrompts": 13
         }
       ],
       "mentionConsensus": {
@@ -178,19 +115,82 @@
       }
     },
     {
+      "name": "incident.io",
+      "slug": "incident-io",
+      "url": "https://devtune.ai/verticals/incident-management-and-on-call/incident-io",
+      "presence": {
+        "rate": 46.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 37.47220206036117,
+          "high": 56.09329044810263
+        }
+      },
+      "brandMention": {
+        "rate": 69.33333333333334,
+        "rank": {
+          "position": 1,
+          "joint": false,
+          "of": 11
+        },
+        "range90": {
+          "low": 60.028931546955036,
+          "high": 77.29121190395499
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 72,
+          "citedPrompts": 18
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 88
+          },
+          {
+            "id": "perplexity",
+            "rate": 44
+          },
+          {
+            "id": "google-ai",
+            "rate": 76
+          }
+        ],
+        "spread": 44
+      }
+    },
+    {
       "name": "PagerDuty",
       "slug": "pagerduty",
       "url": "https://devtune.ai/verticals/incident-management-and-on-call/pagerduty",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "brandMention": {
@@ -207,19 +207,19 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 52,
+          "citedPrompts": 13
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
-        },
-        {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -270,14 +270,14 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -333,14 +333,14 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 36,
           "citedPrompts": 9
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
@@ -352,18 +352,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
+            "rate": 44
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 20
           },
           {
             "id": "google-ai",
-            "rate": 24
+            "rate": 16
           }
         ],
-        "spread": 40
+        "spread": 28
       }
     },
     {
@@ -371,15 +371,15 @@
       "slug": "better-stack",
       "url": "https://devtune.ai/verticals/incident-management-and-on-call/better-stack",
       "presence": {
-        "rate": 4,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
@@ -396,12 +396,75 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
         },
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Grafana",
+      "slug": "grafana",
+      "url": "https://devtune.ai/verticals/incident-management-and-on-call/grafana",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
           "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         },
@@ -415,70 +478,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Grafana",
-      "slug": "grafana",
-      "url": "https://devtune.ai/verticals/incident-management-and-on-call/grafana",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -522,19 +522,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -560,44 +560,107 @@
       "slug": "oneuptime",
       "url": "https://devtune.ai/verticals/incident-management-and-on-call/oneuptime",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Spike.sh",
+      "slug": "spike-sh",
+      "url": "https://devtune.ai/verticals/incident-management-and-on-call/spike-sh",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -612,10 +675,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 16
           }
         ],
-        "spread": 8
+        "spread": 16
       }
     },
     {
@@ -623,15 +686,15 @@
       "slug": "squadcast",
       "url": "https://devtune.ai/verticals/incident-management-and-on-call/squadcast",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -648,14 +711,14 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -679,69 +742,6 @@
           }
         ],
         "spread": 0
-      }
-    },
-    {
-      "name": "Spike.sh",
-      "slug": "spike-sh",
-      "url": "https://devtune.ai/verticals/incident-management-and-on-call/spike-sh",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
       }
     }
   ],

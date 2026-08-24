@@ -9,38 +9,38 @@
     "name": "Secrets Management & Vault",
     "url": "https://devtune.ai/verticals/secrets-management-and-vault"
   },
-  "dataUrl": "https://devtune.ai/verticals/secrets-management-and-vault/data/2026-08-17.json",
+  "dataUrl": "https://devtune.ai/verticals/secrets-management-and-vault/data/2026-08-24.json",
   "dataWindow": {
-    "start": "2026-08-15",
-    "end": "2026-08-15"
+    "start": "2026-08-22",
+    "end": "2026-08-22"
   },
-  "asOf": "2026-08-17",
-  "generatedAt": "2026-11-24T08:31:29.045Z",
+  "asOf": "2026-08-24",
+  "generatedAt": "2026-11-24T08:32:03.965Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Secrets Management & Vault AI Search Visibility Rankings, https://devtune.ai/verticals/secrets-management-and-vault, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-15). Secrets Management & Vault AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/secrets-management-and-vault",
-    "html": "DevTune. (2026-08-15). <cite>Secrets Management &amp; Vault AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/secrets-management-and-vault\">https://devtune.ai/verticals/secrets-management-and-vault</a>",
-    "bibtex": "@misc{devtune-secrets-management-and-vault-2026,\n  author = {DevTune},\n  title = {{Secrets Management \\& Vault AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-15},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/secrets-management-and-vault},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-08-22). Secrets Management & Vault AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/secrets-management-and-vault",
+    "html": "DevTune. (2026-08-22). <cite>Secrets Management &amp; Vault AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/secrets-management-and-vault\">https://devtune.ai/verticals/secrets-management-and-vault</a>",
+    "bibtex": "@misc{devtune-secrets-management-and-vault-2026,\n  author = {DevTune},\n  title = {{Secrets Management \\& Vault AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-22},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/secrets-management-and-vault},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-15"
-    },
-    {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-15"
+      "responsesThrough": "2026-08-22"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-08-22"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-15"
+      "responsesThrough": "2026-08-22"
     }
   ],
   "counts": {
@@ -52,167 +52,41 @@
   },
   "brands": [
     {
-      "name": "Infisical",
-      "slug": "infisical",
-      "url": "https://devtune.ai/verticals/secrets-management-and-vault/infisical",
-      "presence": {
-        "rate": 38.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 29.965045596143597,
-          "high": 48.157628932633294
-        }
-      },
-      "brandMention": {
-        "rate": 49.333333333333336,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 56.00000000000001
-          },
-          {
-            "id": "perplexity",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "google-ai",
-            "rate": 64
-          }
-        ],
-        "spread": 36
-      }
-    },
-    {
-      "name": "Akeyless",
-      "slug": "akeyless",
-      "url": "https://devtune.ai/verticals/secrets-management-and-vault/akeyless",
-      "presence": {
-        "rate": 36,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
-        }
-      },
-      "brandMention": {
-        "rate": 44,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 56.00000000000001
-          },
-          {
-            "id": "perplexity",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "google-ai",
-            "rate": 48
-          }
-        ],
-        "spread": 28.000000000000004
-      }
-    },
-    {
       "name": "HashiCorp",
       "slug": "hashicorp",
       "url": "https://devtune.ai/verticals/secrets-management-and-vault/hashicorp",
       "presence": {
-        "rate": 34.66666666666667,
+        "rate": 37.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
         }
       },
       "brandMention": {
-        "rate": 73.33333333333333,
+        "rate": 84,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 11
         },
         "range90": {
-          "low": 64.22859473618631,
-          "high": 80.81295770456714
+          "low": 75.87299363441458,
+          "high": 89.75898277925475
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "id": "google-ai",
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 12,
           "citedPrompts": 3
         },
@@ -226,63 +100,63 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 84
+            "rate": 88
           },
           {
             "id": "perplexity",
-            "rate": 56.00000000000001
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": 88
           }
         ],
-        "spread": 27.999999999999993
+        "spread": 12
       }
     },
     {
-      "name": "Doppler",
-      "slug": "doppler",
-      "url": "https://devtune.ai/verticals/secrets-management-and-vault/doppler",
+      "name": "Infisical",
+      "slug": "infisical",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault/infisical",
       "presence": {
-        "rate": 24,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
-        "rate": 48,
+        "rate": 54.666666666666664,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 38.74627679680233,
-          "high": 57.39301870827595
+          "low": 45.21288439463637,
+          "high": 63.79542609351433
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "perplexity",
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
@@ -293,14 +167,203 @@
           },
           {
             "id": "perplexity",
-            "rate": 40
+            "rate": 48
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 64
           }
         ],
-        "spread": 12
+        "spread": 16
+      }
+    },
+    {
+      "name": "Akeyless",
+      "slug": "akeyless",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault/akeyless",
+      "presence": {
+        "rate": 28.000000000000004,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
+        }
+      },
+      "brandMention": {
+        "rate": 42.66666666666667,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 64,
+          "citedPrompts": 16
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 44
+          },
+          {
+            "id": "perplexity",
+            "rate": 44
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Doppler",
+      "slug": "doppler",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault/doppler",
+      "presence": {
+        "rate": 26.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
+        }
+      },
+      "brandMention": {
+        "rate": 58.666666666666664,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 49.17056161158639,
+          "high": 67.55915786640776
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 48,
+          "citedPrompts": 12
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 60
+          },
+          {
+            "id": "google-ai",
+            "rate": 60
+          }
+        ],
+        "spread": 3.999999999999993
+      }
+    },
+    {
+      "name": "1Password",
+      "slug": "1password",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault/1password",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 29.333333333333332,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 20
+          }
+        ],
+        "spread": 44.00000000000001
       }
     },
     {
@@ -308,15 +371,15 @@
       "slug": "bitwarden",
       "url": "https://devtune.ai/verticals/secrets-management-and-vault/bitwarden",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 2.666666666666667,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
@@ -333,19 +396,19 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -371,107 +434,44 @@
       "slug": "cyberark",
       "url": "https://devtune.ai/verticals/secrets-management-and-vault/cyberark",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 25.333333333333336,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 34.66666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 64
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 32
-          }
-        ],
-        "spread": 56
-      }
-    },
-    {
-      "name": "1Password",
-      "slug": "1password",
-      "url": "https://devtune.ai/verticals/secrets-management-and-vault/1password",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 16,
-        "rank": {
-          "position": 6,
-          "joint": false,
-          "of": 11
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -482,14 +482,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 28.000000000000004
           }
         ],
-        "spread": 36
+        "spread": 24
       }
     },
     {
@@ -499,7 +499,7 @@
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 5,
+          "position": 7,
           "joint": true,
           "of": 11
         },
@@ -522,19 +522,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -562,7 +562,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 7,
           "joint": true,
           "of": 11
         },
@@ -585,12 +585,75 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Delinea",
+      "slug": "delinea",
+      "url": "https://devtune.ai/verticals/secrets-management-and-vault/delinea",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -608,7 +671,7 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -619,76 +682,13 @@
       }
     },
     {
-      "name": "Delinea",
-      "slug": "delinea",
-      "url": "https://devtune.ai/verticals/secrets-management-and-vault/delinea",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
       "name": "Fortanix",
       "slug": "fortanix",
       "url": "https://devtune.ai/verticals/secrets-management-and-vault/fortanix",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 7,
           "joint": true,
           "of": 11
         },
@@ -711,12 +711,12 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
