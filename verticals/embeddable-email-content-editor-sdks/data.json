@@ -9,44 +9,44 @@
     "name": "Embeddable Email & Content Editor SDKs",
     "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks"
   },
-  "dataUrl": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/data/2026-08-31.json",
+  "dataUrl": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/data/2026-09-07.json",
   "dataWindow": {
-    "start": "2026-08-31",
-    "end": "2026-08-31"
+    "start": "2026-09-07",
+    "end": "2026-09-07"
   },
-  "asOf": "2026-08-31",
-  "generatedAt": "2026-11-24T08:32:53.233Z",
+  "asOf": "2026-09-07",
+  "generatedAt": "2026-11-24T08:33:26.681Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Embeddable Email & Content Editor SDKs AI Search Visibility Rankings, https://devtune.ai/verticals/embeddable-email-content-editor-sdks, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-31). Embeddable Email & Content Editor SDKs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/embeddable-email-content-editor-sdks",
-    "html": "DevTune. (2026-08-31). <cite>Embeddable Email &amp; Content Editor SDKs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/embeddable-email-content-editor-sdks\">https://devtune.ai/verticals/embeddable-email-content-editor-sdks</a>",
-    "bibtex": "@misc{devtune-embeddable-email-content-editor-sdks-2026,\n  author = {DevTune},\n  title = {{Embeddable Email \\& Content Editor SDKs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-31},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/embeddable-email-content-editor-sdks},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-07). Embeddable Email & Content Editor SDKs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/embeddable-email-content-editor-sdks",
+    "html": "DevTune. (2026-09-07). <cite>Embeddable Email &amp; Content Editor SDKs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/embeddable-email-content-editor-sdks\">https://devtune.ai/verticals/embeddable-email-content-editor-sdks</a>",
+    "bibtex": "@misc{devtune-embeddable-email-content-editor-sdks-2026,\n  author = {DevTune},\n  title = {{Embeddable Email \\& Content Editor SDKs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-07},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/embeddable-email-content-editor-sdks},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-09-07"
+    },
+    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-31"
+      "responsesThrough": "2026-09-07"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-08-31"
-    },
-    {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-31"
+      "responsesThrough": "2026-09-07"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 55,
+    "answers": 75,
     "brands": 7,
     "brandsRanked": 7
   },
@@ -56,15 +56,78 @@
       "slug": "unlayer",
       "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/unlayer",
       "presence": {
-        "rate": 30.666666666666664,
+        "rate": 44,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
+          "low": 34.94343256402256,
+          "high": 53.474453951212276
+        }
+      },
+      "brandMention": {
+        "rate": 58.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 49.17056161158639,
+          "high": 67.55915786640776
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 64,
+          "citedPrompts": 16
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 44,
+          "citedPrompts": 11
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 64
+          },
+          {
+            "id": "google-ai",
+            "rate": 64
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "GrapesJS",
+      "slug": "grapesjs",
+      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/grapesjs",
+      "presence": {
+        "rate": 28.000000000000004,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
@@ -81,100 +144,100 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 52
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 60
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "GrapesJS",
-      "slug": "grapesjs",
-      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/grapesjs",
-      "presence": {
-        "rate": 20,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
-        "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
-        }
-      },
-      "brandMention": {
-        "rate": 28.000000000000004,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 20.352334069388775,
-          "high": 37.17991648647225
-        }
-      },
-      "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
+          "presenceRate": 60,
+          "citedPrompts": 15
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 64
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 32
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 24
           }
         ],
-        "spread": 48
+        "spread": 44
+      }
+    },
+    {
+      "name": "Beefree",
+      "slug": "beefree",
+      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/beefree",
+      "presence": {
+        "rate": 18.666666666666668,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
+        }
+      },
+      "brandMention": {
+        "rate": 33.33333333333333,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "perplexity",
+            "rate": 32
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 11.999999999999996
       }
     },
     {
@@ -182,21 +245,21 @@
       "slug": "ckeditor",
       "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/ckeditor",
       "presence": {
-        "rate": 13.333333333333334,
+        "rate": 16,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
         "rate": 26.666666666666668,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -207,6 +270,11 @@
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "chatgpt-search",
           "presenceRate": 32,
           "citedPrompts": 8
@@ -215,11 +283,6 @@
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -230,45 +293,50 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 16
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": 32
           }
         ],
-        "spread": 8
+        "spread": 16
       }
     },
     {
-      "name": "Beefree",
-      "slug": "beefree",
-      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/beefree",
+      "name": "Stripo",
+      "slug": "stripo",
+      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/stripo",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
-        "rate": 24,
+        "rate": 18.666666666666668,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
         {
           "id": "chatgpt-search",
           "presenceRate": 16,
@@ -276,11 +344,6 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -293,14 +356,14 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 16
           },
           {
             "id": "google-ai",
-            "rate": 36
+            "rate": 12
           }
         ],
-        "spread": 7.9999999999999964
+        "spread": 16.000000000000004
       }
     },
     {
@@ -308,21 +371,9 @@
       "slug": "chamaileon",
       "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/chamaileon",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
         "rate": 8,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -331,19 +382,31 @@
           "high": 14.732287793403115
         }
       },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
         }
@@ -356,77 +419,14 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 16
           },
           {
             "id": "google-ai",
             "rate": 12
           }
         ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Stripo",
-      "slug": "stripo",
-      "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/stripo",
-      "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 16,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 0
+        "spread": 12
       }
     },
     {
@@ -434,44 +434,44 @@
       "slug": "topol",
       "url": "https://devtune.ai/verticals/embeddable-email-content-editor-sdks/topol",
       "presence": {
-        "rate": 4,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 3,
-          "joint": true,
+          "position": 7,
+          "joint": false,
           "of": 7
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 8,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -482,14 +482,14 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 4
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     }
   ],

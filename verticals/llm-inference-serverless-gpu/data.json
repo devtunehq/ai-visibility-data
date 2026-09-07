@@ -9,125 +9,62 @@
     "name": "LLM Inference & Serverless GPU",
     "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu"
   },
-  "dataUrl": "https://devtune.ai/verticals/llm-inference-serverless-gpu/data/2026-08-31.json",
+  "dataUrl": "https://devtune.ai/verticals/llm-inference-serverless-gpu/data/2026-09-07.json",
   "dataWindow": {
-    "start": "2026-08-31",
-    "end": "2026-08-31"
+    "start": "2026-09-07",
+    "end": "2026-09-07"
   },
-  "asOf": "2026-08-31",
-  "generatedAt": "2026-11-24T08:32:48.180Z",
+  "asOf": "2026-09-07",
+  "generatedAt": "2026-11-24T08:33:22.395Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, LLM Inference & Serverless GPU AI Search Visibility Rankings, https://devtune.ai/verticals/llm-inference-serverless-gpu, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-31). LLM Inference & Serverless GPU AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/llm-inference-serverless-gpu",
-    "html": "DevTune. (2026-08-31). <cite>LLM Inference &amp; Serverless GPU AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/llm-inference-serverless-gpu\">https://devtune.ai/verticals/llm-inference-serverless-gpu</a>",
-    "bibtex": "@misc{devtune-llm-inference-serverless-gpu-2026,\n  author = {DevTune},\n  title = {{LLM Inference \\& Serverless GPU AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-31},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/llm-inference-serverless-gpu},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-07). LLM Inference & Serverless GPU AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/llm-inference-serverless-gpu",
+    "html": "DevTune. (2026-09-07). <cite>LLM Inference &amp; Serverless GPU AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/llm-inference-serverless-gpu\">https://devtune.ai/verticals/llm-inference-serverless-gpu</a>",
+    "bibtex": "@misc{devtune-llm-inference-serverless-gpu-2026,\n  author = {DevTune},\n  title = {{LLM Inference \\& Serverless GPU AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-07},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/llm-inference-serverless-gpu},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-08-31"
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-09-07"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-31"
+      "responsesThrough": "2026-09-07"
     },
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-08-31"
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-09-07"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 55,
+    "answers": 75,
     "brands": 10,
     "brandsRanked": 10
   },
   "brands": [
     {
-      "name": "RunPod",
-      "slug": "runpod",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/runpod",
-      "presence": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
-      "brandMention": {
-        "rate": 30.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 44,
-          "citedPrompts": 11
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 60
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 40
-      }
-    },
-    {
       "name": "Modal",
       "slug": "modal",
       "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/modal",
       "presence": {
-        "rate": 18.666666666666668,
+        "rate": 29.333333333333332,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
         }
       },
       "brandMention": {
@@ -144,9 +81,9 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "chatgpt-search",
@@ -154,9 +91,9 @@
           "citedPrompts": 10
         },
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         }
       ],
       "mentionConsensus": {
@@ -167,7 +104,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -178,19 +115,82 @@
       }
     },
     {
-      "name": "Baseten",
-      "slug": "baseten",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/baseten",
+      "name": "RunPod",
+      "slug": "runpod",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/runpod",
       "presence": {
-        "rate": 14.666666666666666,
+        "rate": 29.333333333333332,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
+        }
+      },
+      "brandMention": {
+        "rate": 45.33333333333333,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 44,
+          "citedPrompts": 11
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 52
+          },
+          {
+            "id": "perplexity",
+            "rate": 52
+          },
+          {
+            "id": "google-ai",
+            "rate": 32
+          }
+        ],
+        "spread": 20
+      }
+    },
+    {
+      "name": "Together AI",
+      "slug": "together-ai",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/together-ai",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
@@ -207,9 +207,72 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
           "id": "perplexity",
           "presenceRate": 12,
           "citedPrompts": 3
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 56.00000000000001
+          },
+          {
+            "id": "perplexity",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "google-ai",
+            "rate": 48
+          }
+        ],
+        "spread": 28.000000000000004
+      }
+    },
+    {
+      "name": "Baseten",
+      "slug": "baseten",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/baseten",
+      "presence": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "brandMention": {
+        "rate": 45.33333333333333,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
@@ -217,7 +280,7 @@
           "citedPrompts": 7
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -226,18 +289,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 68
+            "rate": 64
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 48
           }
         ],
-        "spread": 16
+        "spread": 40
       }
     },
     {
@@ -245,170 +308,44 @@
       "slug": "fireworks-ai",
       "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/fireworks-ai",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 12,
         "rank": {
-          "position": 1,
+          "position": 4,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "brandMention": {
-        "rate": 26.666666666666668,
+        "rate": 37.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
         {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 40
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Together AI",
-      "slug": "together-ai",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/together-ai",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 34.66666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 44
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 56.00000000000001
-          }
-        ],
-        "spread": 12.000000000000007
-      }
-    },
-    {
-      "name": "Replicate",
-      "slug": "replicate",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/replicate",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 22.666666666666664,
-        "rank": {
-          "position": 5,
-          "joint": false,
-          "of": 10
-        },
-        "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -419,24 +356,87 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 20
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 40
           }
         ],
-        "spread": 44
+        "spread": 32
       }
     },
     {
-      "name": "Cerebrium",
-      "slug": "cerebrium",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/cerebrium",
+      "name": "Replicate",
+      "slug": "replicate",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/replicate",
+      "presence": {
+        "rate": 12,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
+        }
+      },
+      "brandMention": {
+        "rate": 36,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 24
+          }
+        ],
+        "spread": 24
+      }
+    },
+    {
+      "name": "Beam",
+      "slug": "beam",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/beam",
       "presence": {
         "rate": 4,
         "rank": {
-          "position": 6,
+          "position": 4,
           "joint": true,
           "of": 10
         },
@@ -446,32 +446,32 @@
         }
       },
       "brandMention": {
-        "rate": 8,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -482,7 +482,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 12
           },
           {
             "id": "google-ai",
@@ -493,13 +493,76 @@
       }
     },
     {
-      "name": "Beam",
-      "slug": "beam",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/beam",
+      "name": "Cerebrium",
+      "slug": "cerebrium",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/cerebrium",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Sference",
+      "slug": "sference",
+      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/sference",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 10
         },
@@ -509,30 +572,30 @@
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 6,
+          "position": 8,
           "joint": true,
           "of": 10
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -541,15 +604,15 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
         "spread": 4
@@ -562,18 +625,6 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
           "position": 8,
           "joint": true,
           "of": 10
@@ -583,9 +634,21 @@
           "high": 3.4823876269568546
         }
       },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 10
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -595,7 +658,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -608,77 +671,14 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 4
           },
           {
             "id": "google-ai",
             "rate": 0
           }
         ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Sference",
-      "slug": "sference",
-      "url": "https://devtune.ai/verticals/llm-inference-serverless-gpu/sference",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 10
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
+        "spread": 4
       }
     }
   ],

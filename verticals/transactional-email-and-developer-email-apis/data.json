@@ -9,44 +9,44 @@
     "name": "Transactional Email & Developer Email APIs",
     "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis"
   },
-  "dataUrl": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/data/2026-08-31.json",
+  "dataUrl": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/data/2026-09-07.json",
   "dataWindow": {
-    "start": "2026-08-31",
-    "end": "2026-08-31"
+    "start": "2026-09-07",
+    "end": "2026-09-07"
   },
-  "asOf": "2026-08-31",
-  "generatedAt": "2026-11-24T08:32:38.585Z",
+  "asOf": "2026-09-07",
+  "generatedAt": "2026-11-24T08:33:13.610Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Transactional Email & Developer Email APIs AI Search Visibility Rankings, https://devtune.ai/verticals/transactional-email-and-developer-email-apis, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-08-31). Transactional Email & Developer Email APIs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/transactional-email-and-developer-email-apis",
-    "html": "DevTune. (2026-08-31). <cite>Transactional Email &amp; Developer Email APIs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/transactional-email-and-developer-email-apis\">https://devtune.ai/verticals/transactional-email-and-developer-email-apis</a>",
-    "bibtex": "@misc{devtune-transactional-email-and-developer-email-apis-2026,\n  author = {DevTune},\n  title = {{Transactional Email \\& Developer Email APIs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-08-31},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/transactional-email-and-developer-email-apis},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-07). Transactional Email & Developer Email APIs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/transactional-email-and-developer-email-apis",
+    "html": "DevTune. (2026-09-07). <cite>Transactional Email &amp; Developer Email APIs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/transactional-email-and-developer-email-apis\">https://devtune.ai/verticals/transactional-email-and-developer-email-apis</a>",
+    "bibtex": "@misc{devtune-transactional-email-and-developer-email-apis-2026,\n  author = {DevTune},\n  title = {{Transactional Email \\& Developer Email APIs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-07},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/transactional-email-and-developer-email-apis},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-08-31"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-08-31"
+      "responsesThrough": "2026-09-07"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-08-31"
+      "responsesThrough": "2026-09-07"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-09-07"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 50,
+    "answers": 75,
     "brands": 9,
     "brandsRanked": 9
   },
@@ -56,15 +56,15 @@
       "slug": "mailgun",
       "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/mailgun",
       "presence": {
-        "rate": 20,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
@@ -82,144 +82,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "SendGrid",
-      "slug": "sendgrid",
-      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/sendgrid",
-      "presence": {
-        "rate": 12,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 32,
           "citedPrompts": 8
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Amazon SES",
-      "slug": "amazon-ses",
-      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/amazon-ses",
-      "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -230,7 +104,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -245,78 +119,78 @@
       "slug": "resend",
       "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/resend",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
-        "rate": 46.666666666666664,
+        "rate": 64,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 9
         },
         "range90": {
-          "low": 37.47220206036117,
-          "high": 56.09329044810263
+          "low": 54.541852565483204,
+          "high": 72.48307889896888
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 72
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 64
           },
           {
             "id": "google-ai",
-            "rate": 64
+            "rate": 56.00000000000001
           }
         ],
-        "spread": 12
+        "spread": 15.999999999999993
       }
     },
     {
-      "name": "Mailtrap",
-      "slug": "mailtrap",
-      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/mailtrap",
+      "name": "SendGrid",
+      "slug": "sendgrid",
+      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/sendgrid",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 26.666666666666668,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "brandMention": {
@@ -334,16 +208,16 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "chatgpt-search",
+          "presenceRate": 44,
+          "citedPrompts": 11
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 8,
           "citedPrompts": 2
         }
@@ -356,7 +230,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -367,19 +241,19 @@
       }
     },
     {
-      "name": "Mailjet",
-      "slug": "mailjet",
-      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/mailjet",
+      "name": "Amazon SES",
+      "slug": "amazon-ses",
+      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/amazon-ses",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 22.666666666666664,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
         }
       },
       "brandMention": {
@@ -397,18 +271,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -419,7 +293,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -430,19 +304,19 @@
       }
     },
     {
-      "name": "SparkPost",
-      "slug": "sparkpost",
-      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/sparkpost",
+      "name": "Mailtrap",
+      "slug": "mailtrap",
+      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/mailtrap",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 16,
         "rank": {
           "position": 5,
-          "joint": true,
+          "joint": false,
           "of": 9
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
@@ -460,18 +334,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
@@ -482,7 +356,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -497,27 +371,27 @@
       "slug": "loops",
       "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/loops",
       "presence": {
-        "rate": 0,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
-        "rate": 4,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
@@ -527,25 +401,25 @@
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
@@ -556,13 +430,76 @@
       }
     },
     {
+      "name": "Mailjet",
+      "slug": "mailjet",
+      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/mailjet",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
       "name": "Plunk",
       "slug": "plunk",
       "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/plunk",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 9
         },
@@ -590,12 +527,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -608,7 +545,70 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "SparkPost",
+      "slug": "sparkpost",
+      "url": "https://devtune.ai/verticals/transactional-email-and-developer-email-apis/sparkpost",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
           },
           {
             "id": "google-ai",
