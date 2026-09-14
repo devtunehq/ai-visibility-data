@@ -9,38 +9,38 @@
     "name": "AI/ML Infrastructure & LLM Tools",
     "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools"
   },
-  "dataUrl": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/data/2026-09-07.json",
+  "dataUrl": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/data/2026-09-14.json",
   "dataWindow": {
-    "start": "2026-09-07",
-    "end": "2026-09-07"
+    "start": "2026-09-14",
+    "end": "2026-09-14"
   },
-  "asOf": "2026-09-07",
-  "generatedAt": "2026-11-24T08:33:00.134Z",
+  "asOf": "2026-09-14",
+  "generatedAt": "2026-11-24T08:33:33.528Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, AI/ML Infrastructure & LLM Tools AI Search Visibility Rankings, https://devtune.ai/verticals/aiml-infrastructure-llm-tools, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-07). AI/ML Infrastructure & LLM Tools AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/aiml-infrastructure-llm-tools",
-    "html": "DevTune. (2026-09-07). <cite>AI/ML Infrastructure &amp; LLM Tools AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/aiml-infrastructure-llm-tools\">https://devtune.ai/verticals/aiml-infrastructure-llm-tools</a>",
-    "bibtex": "@misc{devtune-aiml-infrastructure-llm-tools-2026,\n  author = {DevTune},\n  title = {{AI/ML Infrastructure \\& LLM Tools AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-07},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/aiml-infrastructure-llm-tools},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-14). AI/ML Infrastructure & LLM Tools AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/aiml-infrastructure-llm-tools",
+    "html": "DevTune. (2026-09-14). <cite>AI/ML Infrastructure &amp; LLM Tools AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/aiml-infrastructure-llm-tools\">https://devtune.ai/verticals/aiml-infrastructure-llm-tools</a>",
+    "bibtex": "@misc{devtune-aiml-infrastructure-llm-tools-2026,\n  author = {DevTune},\n  title = {{AI/ML Infrastructure \\& LLM Tools AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-14},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/aiml-infrastructure-llm-tools},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-09-07"
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-09-14"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-07"
+      "responsesThrough": "2026-09-14"
     },
     {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-07"
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-09-14"
     }
   ],
   "counts": {
@@ -56,62 +56,62 @@
       "slug": "braintrust",
       "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/braintrust",
       "presence": {
-        "rate": 17.333333333333336,
+        "rate": 12,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "brandMention": {
-        "rate": 24,
+        "rate": 22.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "id": "perplexity",
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 20
           }
         ],
-        "spread": 12.000000000000004
+        "spread": 8.000000000000004
       }
     },
     {
@@ -119,15 +119,15 @@
       "slug": "langchain",
       "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/langchain",
       "presence": {
-        "rate": 10.666666666666668,
+        "rate": 8,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
@@ -144,135 +144,9 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 36
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "MLflow",
-      "slug": "mlflow",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/mlflow",
-      "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 18.666666666666668,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Langfuse",
-      "slug": "langfuse",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/langfuse",
-      "presence": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
-        }
-      },
-      "brandMention": {
-        "rate": 24,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -280,16 +154,16 @@
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 32
           },
           {
             "id": "perplexity",
@@ -300,7 +174,7 @@
             "rate": 24
           }
         ],
-        "spread": 8.000000000000004
+        "spread": 12
       }
     },
     {
@@ -322,7 +196,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 11,
+          "position": 12,
           "joint": true,
           "of": 13
         },
@@ -333,9 +207,9 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -343,9 +217,9 @@
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -367,19 +241,19 @@
       }
     },
     {
-      "name": "Weights & Biases",
-      "slug": "weights-biases",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/weights-biases",
+      "name": "MLflow",
+      "slug": "mlflow",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/mlflow",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
@@ -396,9 +270,9 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -406,9 +280,9 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -430,208 +304,19 @@
       }
     },
     {
-      "name": "Modal",
-      "slug": "modal",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/modal",
+      "name": "Weights & Biases",
+      "slug": "weights-biases",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/weights-biases",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 4,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 11,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Comet ML",
-      "slug": "comet-ml",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/comet-ml",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
           "low": 1.6095998879448896,
           "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Fireworks AI",
-      "slug": "fireworks-ai",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/fireworks-ai",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Helicone",
-      "slug": "helicone",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/helicone",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
         }
       },
       "brandMention": {
@@ -648,9 +333,9 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -658,37 +343,100 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
             "rate": 12
           },
           {
-            "id": "google-ai",
+            "id": "perplexity",
             "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": 20
           }
         ],
         "spread": 8
       }
     },
     {
-      "name": "Together AI",
-      "slug": "together-ai",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/together-ai",
+      "name": "Langfuse",
+      "slug": "langfuse",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/langfuse",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 22.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 12.000000000000004
+      }
+    },
+    {
+      "name": "Anyscale",
+      "slug": "anyscale",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/anyscale",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
@@ -698,20 +446,20 @@
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 7,
+          "position": 6,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -721,7 +469,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -730,40 +478,103 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 0
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 0
           },
           {
             "id": "google-ai",
             "rate": 16
           }
         ],
-        "spread": 8
+        "spread": 16
       }
     },
     {
-      "name": "Anyscale",
-      "slug": "anyscale",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/anyscale",
+      "name": "Comet ML",
+      "slug": "comet-ml",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/comet-ml",
       "presence": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Modal",
+      "slug": "modal",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/modal",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 11,
+          "position": 12,
           "joint": true,
           "of": 13
         },
@@ -774,7 +585,7 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -784,9 +595,9 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -808,25 +619,25 @@
       }
     },
     {
-      "name": "Replicate",
-      "slug": "replicate",
-      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/replicate",
+      "name": "Together AI",
+      "slug": "together-ai",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/together-ai",
       "presence": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
         "rate": 9.333333333333334,
         "rank": {
-          "position": 7,
+          "position": 6,
           "joint": true,
           "of": 13
         },
@@ -837,7 +648,7 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -847,7 +658,70 @@
           "citedPrompts": 0
         },
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/fireworks-ai",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 8,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "platforms": [
+        {
           "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -860,14 +734,140 @@
           },
           {
             "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
             "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Helicone",
+      "slug": "helicone",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/helicone",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
           },
           {
             "id": "google-ai",
             "rate": 8
           }
         ],
-        "spread": 4
+        "spread": 8
+      }
+    },
+    {
+      "name": "Replicate",
+      "slug": "replicate",
+      "url": "https://devtune.ai/verticals/aiml-infrastructure-llm-tools/replicate",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 12
       }
     }
   ],

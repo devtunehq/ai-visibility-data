@@ -9,44 +9,44 @@
     "name": "MLOps & Experiment Tracking",
     "url": "https://devtune.ai/verticals/mlops-experiment-tracking"
   },
-  "dataUrl": "https://devtune.ai/verticals/mlops-experiment-tracking/data/2026-09-07.json",
+  "dataUrl": "https://devtune.ai/verticals/mlops-experiment-tracking/data/2026-09-14.json",
   "dataWindow": {
-    "start": "2026-09-02",
-    "end": "2026-09-02"
+    "start": "2026-09-09",
+    "end": "2026-09-09"
   },
-  "asOf": "2026-09-07",
-  "generatedAt": "2026-11-24T08:33:23.516Z",
+  "asOf": "2026-09-14",
+  "generatedAt": "2026-11-24T08:33:55.968Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, MLOps & Experiment Tracking AI Search Visibility Rankings, https://devtune.ai/verticals/mlops-experiment-tracking, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-02). MLOps & Experiment Tracking AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/mlops-experiment-tracking",
-    "html": "DevTune. (2026-09-02). <cite>MLOps &amp; Experiment Tracking AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/mlops-experiment-tracking\">https://devtune.ai/verticals/mlops-experiment-tracking</a>",
-    "bibtex": "@misc{devtune-mlops-experiment-tracking-2026,\n  author = {DevTune},\n  title = {{MLOps \\& Experiment Tracking AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-02},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/mlops-experiment-tracking},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-09). MLOps & Experiment Tracking AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/mlops-experiment-tracking",
+    "html": "DevTune. (2026-09-09). <cite>MLOps &amp; Experiment Tracking AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/mlops-experiment-tracking\">https://devtune.ai/verticals/mlops-experiment-tracking</a>",
+    "bibtex": "@misc{devtune-mlops-experiment-tracking-2026,\n  author = {DevTune},\n  title = {{MLOps \\& Experiment Tracking AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/mlops-experiment-tracking},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-09-09"
+    },
+    {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-02"
+      "responsesThrough": "2026-09-09"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-02"
-    },
-    {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-09-02"
+      "responsesThrough": "2026-09-09"
     }
   ],
   "counts": {
     "prompts": 25,
     "promptPlatformPairs": 75,
-    "answers": 60,
+    "answers": 75,
     "brands": 6,
     "brandsRanked": 6
   },
@@ -56,44 +56,44 @@
       "slug": "mlflow",
       "url": "https://devtune.ai/verticals/mlops-experiment-tracking/mlflow",
       "presence": {
-        "rate": 32,
+        "rate": 48,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 6
         },
         "range90": {
-          "low": 23.899306050357115,
-          "high": 41.35435349534736
+          "low": 38.74627679680233,
+          "high": 57.39301870827595
         }
       },
       "brandMention": {
-        "rate": 77.33333333333333,
+        "rate": 97.33333333333334,
         "rank": {
           "position": 1,
-          "joint": true,
+          "joint": false,
           "of": 6
         },
         "range90": {
-          "low": 68.5107495429468,
-          "high": 84.2522118876501
+          "low": 92.256341233185,
+          "high": 99.11366514662919
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 60,
+          "citedPrompts": 15
+        },
+        {
           "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 72,
-          "citedPrompts": 18
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 80,
+          "citedPrompts": 20
         }
       ],
       "mentionConsensus": {
@@ -104,7 +104,7 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 100
           },
           {
             "id": "google-ai",
@@ -119,62 +119,62 @@
       "slug": "weights-biases",
       "url": "https://devtune.ai/verticals/mlops-experiment-tracking/weights-biases",
       "presence": {
-        "rate": 12,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 6
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
-        "rate": 64,
+        "rate": 70.66666666666667,
         "rank": {
-          "position": 1,
-          "joint": true,
+          "position": 2,
+          "joint": false,
           "of": 6
         },
         "range90": {
-          "low": 54.541852565483204,
-          "high": 72.48307889896888
+          "low": 61.420310052334074,
+          "high": 78.47363639519044
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 40,
+          "citedPrompts": 10
+        },
+        {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 80
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 68
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": 76
           }
         ],
-        "spread": 0
+        "spread": 8
       }
     },
     {
@@ -182,30 +182,35 @@
       "slug": "clearml",
       "url": "https://devtune.ai/verticals/mlops-experiment-tracking/clearml",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 16,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 6
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
-        "rate": 30.666666666666664,
+        "rate": 37.333333333333336,
         "rank": {
           "position": 3,
           "joint": false,
           "of": 6
         },
         "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
         }
       },
       "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
         {
           "id": "google-ai",
           "presenceRate": 0,
@@ -213,31 +218,26 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 44,
+          "citedPrompts": 11
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 44
+            "rate": 64
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 20
           }
         ],
-        "spread": 15.999999999999996
+        "spread": 44
       }
     },
     {
@@ -245,30 +245,98 @@
       "slug": "comet-ml",
       "url": "https://devtune.ai/verticals/mlops-experiment-tracking/comet-ml",
       "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 6
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 6
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 6
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 28.000000000000004
+      }
+    },
+    {
+      "name": "ZenML",
+      "slug": "zenml",
+      "url": "https://devtune.ai/verticals/mlops-experiment-tracking/zenml",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 6
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 6,
+          "joint": false,
+          "of": 6
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
         {
           "id": "google-ai",
           "presenceRate": 0,
@@ -276,11 +344,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -293,74 +356,11 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 32
-          }
-        ],
-        "spread": 32
-      }
-    },
-    {
-      "name": "ZenML",
-      "slug": "zenml",
-      "url": "https://devtune.ai/verticals/mlops-experiment-tracking/zenml",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 6
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 4,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 6
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": null
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
         "spread": 0
@@ -383,18 +383,23 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 6
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
         {
           "id": "google-ai",
           "presenceRate": 0,
@@ -402,11 +407,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -419,14 +419,14 @@
           },
           {
             "id": "perplexity",
-            "rate": null
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 4
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     }
   ],

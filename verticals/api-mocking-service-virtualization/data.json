@@ -9,38 +9,38 @@
     "name": "API Mocking & Service Virtualization",
     "url": "https://devtune.ai/verticals/api-mocking-service-virtualization"
   },
-  "dataUrl": "https://devtune.ai/verticals/api-mocking-service-virtualization/data/2026-09-07.json",
+  "dataUrl": "https://devtune.ai/verticals/api-mocking-service-virtualization/data/2026-09-14.json",
   "dataWindow": {
-    "start": "2026-09-06",
-    "end": "2026-09-06"
+    "start": "2026-09-13",
+    "end": "2026-09-13"
   },
-  "asOf": "2026-09-07",
-  "generatedAt": "2026-11-24T08:33:19.678Z",
+  "asOf": "2026-09-14",
+  "generatedAt": "2026-11-24T08:33:52.719Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, API Mocking & Service Virtualization AI Search Visibility Rankings, https://devtune.ai/verticals/api-mocking-service-virtualization, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-06). API Mocking & Service Virtualization AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/api-mocking-service-virtualization",
-    "html": "DevTune. (2026-09-06). <cite>API Mocking &amp; Service Virtualization AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/api-mocking-service-virtualization\">https://devtune.ai/verticals/api-mocking-service-virtualization</a>",
-    "bibtex": "@misc{devtune-api-mocking-service-virtualization-2026,\n  author = {DevTune},\n  title = {{API Mocking \\& Service Virtualization AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-06},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/api-mocking-service-virtualization},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-13). API Mocking & Service Virtualization AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/api-mocking-service-virtualization",
+    "html": "DevTune. (2026-09-13). <cite>API Mocking &amp; Service Virtualization AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/api-mocking-service-virtualization\">https://devtune.ai/verticals/api-mocking-service-virtualization</a>",
+    "bibtex": "@misc{devtune-api-mocking-service-virtualization-2026,\n  author = {DevTune},\n  title = {{API Mocking \\& Service Virtualization AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-13},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/api-mocking-service-virtualization},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-09-13"
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-06"
+      "responsesThrough": "2026-09-13"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-06"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-09-06"
+      "responsesThrough": "2026-09-13"
     }
   ],
   "counts": {
@@ -56,59 +56,59 @@
       "slug": "wiremock",
       "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/wiremock",
       "presence": {
-        "rate": 48,
+        "rate": 29.333333333333332,
         "rank": {
           "position": 1,
-          "joint": false,
+          "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 38.74627679680233,
-          "high": 57.39301870827595
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
         }
       },
       "brandMention": {
-        "rate": 88,
+        "rate": 84,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 9
         },
         "range90": {
-          "low": 80.46982911808959,
-          "high": 92.88355628542321
+          "low": 75.87299363441458,
+          "high": 89.75898277925475
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 96
+            "rate": 88
           },
           {
             "id": "perplexity",
-            "rate": 84
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 88
           }
         ],
         "spread": 12
@@ -119,51 +119,51 @@
       "slug": "mockoon",
       "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/mockoon",
       "presence": {
-        "rate": 24,
+        "rate": 14.666666666666666,
         "rank": {
-          "position": 2,
+          "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
         }
       },
       "brandMention": {
-        "rate": 46.666666666666664,
+        "rate": 45.33333333333333,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 37.47220206036117,
-          "high": 56.09329044810263
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 44
+            "rate": 40
           },
           {
             "id": "perplexity",
@@ -174,69 +174,6 @@
             "rate": 44
           }
         ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Apidog",
-      "slug": "apidog",
-      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/apidog",
-      "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
         "spread": 12
       }
     },
@@ -245,135 +182,9 @@
       "slug": "beeceptor",
       "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/beeceptor",
       "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 18.666666666666668,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 16.000000000000004
-      }
-    },
-    {
-      "name": "Stoplight",
-      "slug": "stoplight",
-      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/stoplight",
-      "presence": {
-        "rate": 12,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "brandMention": {
-        "rate": 28.000000000000004,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 20.352334069388775,
-          "high": 37.17991648647225
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 32
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 32
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "Postman",
-      "slug": "postman",
-      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/postman",
-      "presence": {
         "rate": 9.333333333333334,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 9
         },
@@ -383,18 +194,23 @@
         }
       },
       "brandMention": {
-        "rate": 33.33333333333333,
+        "rate": 21.333333333333336,
         "rank": {
-          "position": 2,
+          "position": 4,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 25.097652013553795,
-          "high": 42.729810528765164
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
         {
           "id": "perplexity",
           "presenceRate": 8,
@@ -402,11 +218,195 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 28
+      }
+    },
+    {
+      "name": "Apidog",
+      "slug": "apidog",
+      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/apidog",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
         },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "platforms": [
         {
           "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 20
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "Stoplight",
+      "slug": "stoplight",
+      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/stoplight",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 24,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 20
+          },
+          {
+            "id": "perplexity",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "google-ai",
+            "rate": 24
+          }
+        ],
+        "spread": 8.000000000000004
+      }
+    },
+    {
+      "name": "Postman",
+      "slug": "postman",
+      "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/postman",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 42.66666666666667,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -415,18 +415,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 36
+            "rate": 40
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 32
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 56.00000000000001
           }
         ],
-        "spread": 24
+        "spread": 24.000000000000007
       }
     },
     {
@@ -436,7 +436,7 @@
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 9
         },
@@ -448,7 +448,7 @@
       "brandMention": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 7,
+          "position": 8,
           "joint": true,
           "of": 9
         },
@@ -459,6 +459,11 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
@@ -467,11 +472,6 @@
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -499,7 +499,7 @@
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 9
         },
@@ -511,7 +511,7 @@
       "brandMention": {
         "rate": 10.666666666666668,
         "rank": {
-          "position": 7,
+          "position": 4,
           "joint": true,
           "of": 9
         },
@@ -522,19 +522,19 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -545,14 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 12
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     },
     {
@@ -560,30 +560,35 @@
       "slug": "karate",
       "url": "https://devtune.ai/verticals/api-mocking-service-virtualization/karate",
       "presence": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 9,
-          "joint": false,
+          "position": 3,
+          "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 9,
-          "joint": false,
+          "position": 8,
+          "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -591,11 +596,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -612,10 +612,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     }
   ],
