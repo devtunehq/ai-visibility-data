@@ -9,38 +9,38 @@
     "name": "Workflow Orchestration & Durable Execution",
     "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution"
   },
-  "dataUrl": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/data/2026-09-14.json",
+  "dataUrl": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/data/2026-09-21.json",
   "dataWindow": {
-    "start": "2026-09-10",
-    "end": "2026-09-10"
+    "start": "2026-09-17",
+    "end": "2026-09-17"
   },
-  "asOf": "2026-09-14",
-  "generatedAt": "2026-11-24T08:33:48.393Z",
+  "asOf": "2026-09-21",
+  "generatedAt": "2026-11-24T08:34:23.795Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Workflow Orchestration & Durable Execution AI Search Visibility Rankings, https://devtune.ai/verticals/workflow-orchestration-and-durable-execution, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-10). Workflow Orchestration & Durable Execution AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/workflow-orchestration-and-durable-execution",
-    "html": "DevTune. (2026-09-10). <cite>Workflow Orchestration &amp; Durable Execution AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/workflow-orchestration-and-durable-execution\">https://devtune.ai/verticals/workflow-orchestration-and-durable-execution</a>",
-    "bibtex": "@misc{devtune-workflow-orchestration-and-durable-execution-2026,\n  author = {DevTune},\n  title = {{Workflow Orchestration \\& Durable Execution AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/workflow-orchestration-and-durable-execution},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-17). Workflow Orchestration & Durable Execution AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/workflow-orchestration-and-durable-execution",
+    "html": "DevTune. (2026-09-17). <cite>Workflow Orchestration &amp; Durable Execution AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/workflow-orchestration-and-durable-execution\">https://devtune.ai/verticals/workflow-orchestration-and-durable-execution</a>",
+    "bibtex": "@misc{devtune-workflow-orchestration-and-durable-execution-2026,\n  author = {DevTune},\n  title = {{Workflow Orchestration \\& Durable Execution AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-17},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/workflow-orchestration-and-durable-execution},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-10"
+      "responsesThrough": "2026-09-17"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-10"
+      "responsesThrough": "2026-09-17"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-10"
+      "responsesThrough": "2026-09-17"
     }
   ],
   "counts": {
@@ -56,51 +56,51 @@
       "slug": "temporal",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/temporal",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 40,
         "rank": {
           "position": 1,
-          "joint": false,
-          "of": 11
-        },
-        "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 7,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 76,
-          "citedPrompts": 19
+          "presenceRate": 68,
+          "citedPrompts": 17
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 36,
+          "citedPrompts": 9
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
+            "rate": 12
           },
           {
             "id": "perplexity",
@@ -111,7 +111,7 @@
             "rate": 0
           }
         ],
-        "spread": 20
+        "spread": 12
       }
     },
     {
@@ -119,39 +119,39 @@
       "slug": "inngest",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/inngest",
       "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 49.333333333333336,
+        "rate": 30.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
+        }
+      },
+      "brandMention": {
+        "rate": 45.33333333333333,
+        "rank": {
+          "position": 1,
+          "joint": false,
+          "of": 11
+        },
+        "range90": {
+          "low": 36.204573906485685,
+          "high": 54.78711560536363
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
@@ -171,73 +171,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 48
+            "rate": 36
           }
         ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "Restate",
-      "slug": "restate",
-      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/restate",
-      "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 37.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 28.737458143633287,
-          "high": 46.81141338852913
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 64
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 44
+        "spread": 24
       }
     },
     {
@@ -245,15 +182,15 @@
       "slug": "aws-step-functions",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/aws-step-functions",
       "presence": {
-        "rate": 5.333333333333334,
+        "rate": 22.666666666666664,
         "rank": {
-          "position": 2,
+          "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
         }
       },
       "brandMention": {
@@ -271,18 +208,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 40,
+          "citedPrompts": 10
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -304,31 +241,31 @@
       }
     },
     {
-      "name": "Orkes",
-      "slug": "orkes",
-      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/orkes",
+      "name": "Restate",
+      "slug": "restate",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/restate",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 14.666666666666666,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
+        }
+      },
+      "brandMention": {
+        "rate": 26.666666666666668,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
@@ -339,20 +276,20 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 44
           },
           {
             "id": "perplexity",
@@ -360,10 +297,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 28.000000000000004
           }
         ],
-        "spread": 4
+        "spread": 36
       }
     },
     {
@@ -371,15 +308,15 @@
       "slug": "prefect",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/prefect",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 2,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "brandMention": {
@@ -397,18 +334,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -434,21 +371,21 @@
       "slug": "trigger-dev",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/trigger-dev",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 2,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
         "rate": 22.666666666666664,
         "rank": {
-          "position": 3,
+          "position": 2,
           "joint": true,
           "of": 11
         },
@@ -460,13 +397,76 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 20
+          },
+          {
+            "id": "google-ai",
+            "rate": 24
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Hatchet",
+      "slug": "hatchet",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/hatchet",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
@@ -482,77 +482,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 24
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 12.000000000000004
-      }
-    },
-    {
-      "name": "Kestra",
-      "slug": "kestra",
-      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/kestra",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
             "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 24.000000000000004
       }
     },
     {
@@ -560,15 +497,15 @@
       "slug": "windmill",
       "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/windmill",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 8,
         "rank": {
-          "position": 8,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
@@ -586,18 +523,18 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -619,48 +556,48 @@
       }
     },
     {
-      "name": "Camunda",
-      "slug": "camunda",
-      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/camunda",
+      "name": "Kestra",
+      "slug": "kestra",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/kestra",
       "presence": {
-        "rate": 0,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 8,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
-        "rate": 10.666666666666668,
+        "rate": 12,
         "rank": {
-          "position": 3,
+          "position": 2,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -671,54 +608,54 @@
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "google-ai",
             "rate": 12
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
-      "name": "Hatchet",
-      "slug": "hatchet",
-      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/hatchet",
+      "name": "Camunda",
+      "slug": "camunda",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/camunda",
       "presence": {
-        "rate": 0,
+        "rate": 4,
         "rank": {
-          "position": 8,
+          "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 13.333333333333334,
+        "rate": 8,
         "rank": {
-          "position": 3,
+          "position": 6,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -730,15 +667,78 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
+            "rate": 8
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Orkes",
+      "slug": "orkes",
+      "url": "https://devtune.ai/verticals/workflow-orchestration-and-durable-execution/orkes",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
           }
         ],
         "spread": 16
