@@ -9,38 +9,38 @@
     "name": "AI Data Curation and Dataset Versioning",
     "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning"
   },
-  "dataUrl": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/data/2026-09-21.json",
+  "dataUrl": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/data/2026-09-28.json",
   "dataWindow": {
-    "start": "2026-09-18",
-    "end": "2026-09-18"
+    "start": "2026-09-25",
+    "end": "2026-09-25"
   },
-  "asOf": "2026-09-21",
-  "generatedAt": "2026-11-24T08:34:29.385Z",
+  "asOf": "2026-09-28",
+  "generatedAt": "2026-11-24T08:35:02.639Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, AI Data Curation and Dataset Versioning AI Search Visibility Rankings, https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-18). AI Data Curation and Dataset Versioning AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning",
-    "html": "DevTune. (2026-09-18). <cite>AI Data Curation and Dataset Versioning AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning\">https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning</a>",
-    "bibtex": "@misc{devtune-ai-data-curation-and-dataset-versioning-2026,\n  author = {DevTune},\n  title = {{AI Data Curation and Dataset Versioning AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-18},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-25). AI Data Curation and Dataset Versioning AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning",
+    "html": "DevTune. (2026-09-25). <cite>AI Data Curation and Dataset Versioning AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning\">https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning</a>",
+    "bibtex": "@misc{devtune-ai-data-curation-and-dataset-versioning-2026,\n  author = {DevTune},\n  title = {{AI Data Curation and Dataset Versioning AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-25},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-18"
-    },
-    {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-18"
+      "responsesThrough": "2026-09-25"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-18"
+      "responsesThrough": "2026-09-25"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-09-25"
     }
   ],
   "counts": {
@@ -68,32 +68,32 @@
         }
       },
       "brandMention": {
-        "rate": 62.66666666666667,
+        "rate": 61.33333333333333,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 7
         },
         "range90": {
-          "low": 53.18858661147089,
-          "high": 71.26254185636672
+          "low": 51.8423710673667,
+          "high": 70.0349544038564
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 64,
-          "citedPrompts": 16
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
         },
         {
           "id": "google-ai",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 36,
+          "citedPrompts": 9
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 68,
+          "citedPrompts": 17
         }
       ],
       "mentionConsensus": {
@@ -104,11 +104,11 @@
           },
           {
             "id": "perplexity",
-            "rate": 64
+            "rate": 56.00000000000001
           },
           {
             "id": "google-ai",
-            "rate": 56.00000000000001
+            "rate": 60
           }
         ],
         "spread": 11.999999999999993
@@ -119,18 +119,6 @@
       "slug": "voxel51",
       "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/voxel51",
       "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
         "rate": 14.666666666666666,
         "rank": {
           "position": 2,
@@ -142,46 +130,7 @@
           "high": 22.612615289518928
         }
       },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 36
-      }
-    },
-    {
-      "name": "Encord",
-      "slug": "encord",
-      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/encord",
-      "presence": {
+      "brandMention": {
         "rate": 9.333333333333334,
         "rank": {
           "position": 2,
@@ -193,18 +142,6 @@
           "high": 16.359698431485043
         }
       },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
       "platforms": [
         {
           "id": "perplexity",
@@ -212,12 +149,75 @@
           "citedPrompts": 3
         },
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "Encord",
+      "slug": "encord",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/encord",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -230,42 +230,42 @@
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 8
           },
           {
             "id": "google-ai",
             "rate": 16
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
-      "name": "Roboflow",
-      "slug": "roboflow",
-      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/roboflow",
+      "name": "DataChain",
+      "slug": "datachain",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/datachain",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 2,
+          "position": 4,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
@@ -275,14 +275,14 @@
           "citedPrompts": 1
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -297,20 +297,20 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
         "spread": 4
       }
     },
     {
-      "name": "Activeloop",
-      "slug": "activeloop",
-      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/activeloop",
+      "name": "Roboflow",
+      "slug": "roboflow",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/roboflow",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 7
         },
@@ -334,16 +334,16 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
           "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -352,7 +352,70 @@
         "platforms": [
           {
             "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
             "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Activeloop",
+      "slug": "activeloop",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/activeloop",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
           },
           {
             "id": "perplexity",
@@ -360,20 +423,20 @@
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 8
           }
         ],
-        "spread": 12
+        "spread": 8
       }
     },
     {
-      "name": "DataChain",
-      "slug": "datachain",
-      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/datachain",
+      "name": "Nomic AI",
+      "slug": "nomic-ai",
+      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/nomic-ai",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 7
         },
@@ -401,12 +464,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -427,69 +490,6 @@
           }
         ],
         "spread": 0
-      }
-    },
-    {
-      "name": "Nomic AI",
-      "slug": "nomic-ai",
-      "url": "https://devtune.ai/verticals/ai-data-curation-and-dataset-versioning/nomic-ai",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
       }
     }
   ],

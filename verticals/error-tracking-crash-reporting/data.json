@@ -9,38 +9,38 @@
     "name": "Error Tracking & Crash Reporting",
     "url": "https://devtune.ai/verticals/error-tracking-crash-reporting"
   },
-  "dataUrl": "https://devtune.ai/verticals/error-tracking-crash-reporting/data/2026-09-21.json",
+  "dataUrl": "https://devtune.ai/verticals/error-tracking-crash-reporting/data/2026-09-28.json",
   "dataWindow": {
-    "start": "2026-09-17",
-    "end": "2026-09-17"
+    "start": "2026-09-24",
+    "end": "2026-09-24"
   },
-  "asOf": "2026-09-21",
-  "generatedAt": "2026-11-24T08:34:04.171Z",
+  "asOf": "2026-09-28",
+  "generatedAt": "2026-11-24T08:34:39.616Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Error Tracking & Crash Reporting AI Search Visibility Rankings, https://devtune.ai/verticals/error-tracking-crash-reporting, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-17). Error Tracking & Crash Reporting AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/error-tracking-crash-reporting",
-    "html": "DevTune. (2026-09-17). <cite>Error Tracking &amp; Crash Reporting AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/error-tracking-crash-reporting\">https://devtune.ai/verticals/error-tracking-crash-reporting</a>",
-    "bibtex": "@misc{devtune-error-tracking-crash-reporting-2026,\n  author = {DevTune},\n  title = {{Error Tracking \\& Crash Reporting AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-17},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/error-tracking-crash-reporting},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-24). Error Tracking & Crash Reporting AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/error-tracking-crash-reporting",
+    "html": "DevTune. (2026-09-24). <cite>Error Tracking &amp; Crash Reporting AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/error-tracking-crash-reporting\">https://devtune.ai/verticals/error-tracking-crash-reporting</a>",
+    "bibtex": "@misc{devtune-error-tracking-crash-reporting-2026,\n  author = {DevTune},\n  title = {{Error Tracking \\& Crash Reporting AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-24},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/error-tracking-crash-reporting},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-17"
+      "responsesThrough": "2026-09-24"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-17"
+      "responsesThrough": "2026-09-24"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-17"
+      "responsesThrough": "2026-09-24"
     }
   ],
   "counts": {
@@ -56,44 +56,44 @@
       "slug": "sentry",
       "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/sentry",
       "presence": {
-        "rate": 53.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 43.90670955189737,
-          "high": 62.52779793963883
-        }
-      },
-      "brandMention": {
-        "rate": 100,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 11
         },
         "range90": {
-          "low": 96.51761237304316,
-          "high": 100
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
+        }
+      },
+      "brandMention": {
+        "rate": 98.66666666666667,
+        "rank": {
+          "position": 1,
+          "joint": false,
+          "of": 11
+        },
+        "range90": {
+          "low": 94.24179616420862,
+          "high": 99.70201321222005
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 96,
-          "citedPrompts": 24
+          "presenceRate": 88,
+          "citedPrompts": 22
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 60,
+          "citedPrompts": 15
         },
         {
           "id": "google-ai",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
@@ -108,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 100
+            "rate": 96
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     },
     {
@@ -119,34 +119,97 @@
       "slug": "bugsnag",
       "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/bugsnag",
       "presence": {
-        "rate": 38.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 29.965045596143597,
-          "high": 48.157628932633294
-        }
-      },
-      "brandMention": {
-        "rate": 65.33333333333333,
+        "rate": 42.66666666666667,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 55.90232669842785,
-          "high": 73.6964077626387
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
+        }
+      },
+      "brandMention": {
+        "rate": 68,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 58.645646504652646,
+          "high": 76.10069394964289
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 44,
-          "citedPrompts": 11
+          "presenceRate": 52,
+          "citedPrompts": 13
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 68,
+          "citedPrompts": 17
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 76
+          },
+          {
+            "id": "perplexity",
+            "rate": 64
+          },
+          {
+            "id": "google-ai",
+            "rate": 64
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Rollbar",
+      "slug": "rollbar",
+      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/rollbar",
+      "presence": {
+        "rate": 41.333333333333336,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 32.44084213359225,
+          "high": 50.829438388413614
+        }
+      },
+      "brandMention": {
+        "rate": 64,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 54.541852565483204,
+          "high": 72.48307889896888
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "chatgpt-search",
@@ -163,81 +226,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 72
           },
           {
             "id": "perplexity",
-            "rate": 60
+            "rate": 68
           },
           {
             "id": "google-ai",
-            "rate": 60
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Rollbar",
-      "slug": "rollbar",
-      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/rollbar",
-      "presence": {
-        "rate": 36,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
-        }
-      },
-      "brandMention": {
-        "rate": 60,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 72,
-          "citedPrompts": 18
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
             "rate": 52
-          },
-          {
-            "id": "google-ai",
-            "rate": 48
           }
         ],
-        "spread": 32
+        "spread": 20
       }
     },
     {
@@ -245,27 +245,27 @@
       "slug": "logrocket",
       "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/logrocket",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 8,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
@@ -276,8 +276,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -289,7 +289,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -301,69 +301,6 @@
           }
         ],
         "spread": 12
-      }
-    },
-    {
-      "name": "Airbrake",
-      "slug": "airbrake",
-      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/airbrake",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 4
       }
     },
     {
@@ -397,8 +334,8 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
@@ -407,42 +344,42 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
             "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 8
       }
     },
     {
-      "name": "TrackJS",
-      "slug": "trackjs",
-      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/trackjs",
+      "name": "Airbrake",
+      "slug": "airbrake",
+      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/airbrake",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -470,8 +407,8 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -482,11 +419,11 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
         "spread": 4
@@ -511,7 +448,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 8,
           "joint": true,
           "of": 11
         },
@@ -572,15 +509,15 @@
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
@@ -608,14 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 12
           }
         ],
-        "spread": 16
+        "spread": 12
       }
     },
     {
@@ -637,7 +574,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 8,
           "joint": true,
           "of": 11
         },
@@ -700,7 +637,70 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 9,
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "TrackJS",
+      "slug": "trackjs",
+      "url": "https://devtune.ai/verticals/error-tracking-crash-reporting/trackjs",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
           "joint": true,
           "of": 11
         },

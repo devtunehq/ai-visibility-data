@@ -9,38 +9,38 @@
     "name": "Databases & Data Infrastructure",
     "url": "https://devtune.ai/verticals/databases-data-infrastructure"
   },
-  "dataUrl": "https://devtune.ai/verticals/databases-data-infrastructure/data/2026-09-21.json",
+  "dataUrl": "https://devtune.ai/verticals/databases-data-infrastructure/data/2026-09-28.json",
   "dataWindow": {
-    "start": "2026-09-20",
-    "end": "2026-09-20"
+    "start": "2026-09-27",
+    "end": "2026-09-27"
   },
-  "asOf": "2026-09-21",
-  "generatedAt": "2026-11-24T08:34:15.710Z",
+  "asOf": "2026-09-28",
+  "generatedAt": "2026-11-24T08:34:49.784Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Databases & Data Infrastructure AI Search Visibility Rankings, https://devtune.ai/verticals/databases-data-infrastructure, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-20). Databases & Data Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/databases-data-infrastructure",
-    "html": "DevTune. (2026-09-20). <cite>Databases &amp; Data Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/databases-data-infrastructure\">https://devtune.ai/verticals/databases-data-infrastructure</a>",
-    "bibtex": "@misc{devtune-databases-data-infrastructure-2026,\n  author = {DevTune},\n  title = {{Databases \\& Data Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-20},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/databases-data-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-27). Databases & Data Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/databases-data-infrastructure",
+    "html": "DevTune. (2026-09-27). <cite>Databases &amp; Data Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/databases-data-infrastructure\">https://devtune.ai/verticals/databases-data-infrastructure</a>",
+    "bibtex": "@misc{devtune-databases-data-infrastructure-2026,\n  author = {DevTune},\n  title = {{Databases \\& Data Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-27},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/databases-data-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-20"
+      "responsesThrough": "2026-09-27"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-20"
+      "responsesThrough": "2026-09-27"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-20"
+      "responsesThrough": "2026-09-27"
     }
   ],
   "counts": {
@@ -52,101 +52,38 @@
   },
   "brands": [
     {
-      "name": "CockroachDB",
-      "slug": "cockroachdb",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/cockroachdb",
-      "presence": {
-        "rate": 12,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "brandMention": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
       "name": "Neon",
       "slug": "neon",
       "url": "https://devtune.ai/verticals/databases-data-infrastructure/neon",
       "presence": {
-        "rate": 12,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "brandMention": {
-        "rate": 34.66666666666667,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "google-ai",
@@ -163,7 +100,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 20
           },
           {
             "id": "perplexity",
@@ -171,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 32
           }
         ],
-        "spread": 15.999999999999996
+        "spread": 12
       }
     },
     {
@@ -194,15 +131,141 @@
         }
       },
       "brandMention": {
-        "rate": 24,
+        "rate": 26.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": 32
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "CockroachDB",
+      "slug": "cockroachdb",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/cockroachdb",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/mongodb",
+      "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 21.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "platforms": [
@@ -213,13 +276,13 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 20,
+          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
@@ -234,73 +297,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 20
           }
         ],
         "spread": 12.000000000000004
-      }
-    },
-    {
-      "name": "MongoDB",
-      "slug": "mongodb",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/mongodb",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 28.000000000000004,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 20.352334069388775,
-          "high": 37.17991648647225
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 16
       }
     },
     {
@@ -320,22 +320,22 @@
         }
       },
       "brandMention": {
-        "rate": 13.333333333333334,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
@@ -344,8 +344,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
@@ -356,20 +356,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 12
           }
         ],
         "spread": 4
       }
     },
     {
-      "name": "PingCAP",
-      "slug": "pingcap",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/pingcap",
+      "name": "PlanetScale",
+      "slug": "planetscale",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/planetscale",
       "presence": {
         "rate": 6.666666666666667,
         "rank": {
@@ -383,50 +383,50 @@
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 26.666666666666668,
         "rank": {
-          "position": 4,
+          "position": 1,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 36
           }
         ],
-        "spread": 8
+        "spread": 16
       }
     },
     {
@@ -446,198 +446,9 @@
         }
       },
       "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "PlanetScale",
-      "slug": "planetscale",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/planetscale",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 16,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Xata",
-      "slug": "xata",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/xata",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 4,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Redis",
-      "slug": "redis",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/redis",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
         "rate": 6.666666666666667,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 15
         },
@@ -649,8 +460,134 @@
       "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "PingCAP",
+      "slug": "pingcap",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/pingcap",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 12,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Redis",
+      "slug": "redis",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/redis",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -667,15 +604,15 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 12
           }
         ],
         "spread": 4
@@ -686,9 +623,72 @@
       "slug": "singlestore",
       "url": "https://devtune.ai/verticals/databases-data-infrastructure/singlestore",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 1,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Timescale",
+      "slug": "timescale",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/timescale",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 11,
           "joint": true,
           "of": 15
         },
@@ -698,15 +698,15 @@
         }
       },
       "brandMention": {
-        "rate": 4,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 10,
+          "position": 5,
           "joint": true,
           "of": 15
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
@@ -738,10 +738,136 @@
           },
           {
             "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Turso",
+      "slug": "turso",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/turso",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 8,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Xata",
+      "slug": "xata",
+      "url": "https://devtune.ai/verticals/databases-data-infrastructure/xata",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 12,
+          "joint": true,
+          "of": 15
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
             "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     },
     {
@@ -751,7 +877,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 12,
+          "position": 11,
           "joint": true,
           "of": 15
         },
@@ -763,7 +889,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 15
         },
@@ -814,7 +940,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 12,
+          "position": 11,
           "joint": true,
           "of": 15
         },
@@ -826,7 +952,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 15
         },
@@ -868,132 +994,6 @@
           }
         ],
         "spread": 0
-      }
-    },
-    {
-      "name": "Timescale",
-      "slug": "timescale",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/timescale",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 12,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Turso",
-      "slug": "turso",
-      "url": "https://devtune.ai/verticals/databases-data-infrastructure/turso",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 12,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 4,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 15
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 8
       }
     }
   ],
