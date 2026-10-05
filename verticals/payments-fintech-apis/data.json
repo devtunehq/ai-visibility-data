@@ -9,37 +9,37 @@
     "name": "Payments & Fintech APIs",
     "url": "https://devtune.ai/verticals/payments-fintech-apis"
   },
-  "dataUrl": "https://devtune.ai/verticals/payments-fintech-apis/data/2026-09-28.json",
+  "dataUrl": "https://devtune.ai/verticals/payments-fintech-apis/data/2026-10-05.json",
   "dataWindow": {
     "start": "2026-09-23",
-    "end": "2026-09-23"
+    "end": "2026-09-30"
   },
-  "asOf": "2026-09-28",
-  "generatedAt": "2026-11-24T08:35:06.318Z",
+  "asOf": "2026-10-05",
+  "generatedAt": "2026-11-24T08:36:01.705Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Payments & Fintech APIs AI Search Visibility Rankings, https://devtune.ai/verticals/payments-fintech-apis, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-23). Payments & Fintech APIs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/payments-fintech-apis",
-    "html": "DevTune. (2026-09-23). <cite>Payments &amp; Fintech APIs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/payments-fintech-apis\">https://devtune.ai/verticals/payments-fintech-apis</a>",
-    "bibtex": "@misc{devtune-payments-fintech-apis-2026,\n  author = {DevTune},\n  title = {{Payments \\& Fintech APIs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-23},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/payments-fintech-apis},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-09-30). Payments & Fintech APIs AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/payments-fintech-apis",
+    "html": "DevTune. (2026-09-30). <cite>Payments &amp; Fintech APIs AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/payments-fintech-apis\">https://devtune.ai/verticals/payments-fintech-apis</a>",
+    "bibtex": "@misc{devtune-payments-fintech-apis-2026,\n  author = {DevTune},\n  title = {{Payments \\& Fintech APIs AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-30},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/payments-fintech-apis},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-09-30"
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-23"
+      "responsesThrough": "2026-09-30"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-23"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
       "responsesThrough": "2026-09-23"
     }
   ],
@@ -56,44 +56,44 @@
       "slug": "stripe",
       "url": "https://devtune.ai/verticals/payments-fintech-apis/stripe",
       "presence": {
-        "rate": 58.666666666666664,
+        "rate": 64,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 13
         },
         "range90": {
-          "low": 49.17056161158639,
-          "high": 67.55915786640776
+          "low": 54.541852565483204,
+          "high": 72.48307889896888
         }
       },
       "brandMention": {
-        "rate": 92,
+        "rate": 89.33333333333333,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 13
         },
         "range90": {
-          "low": 85.2677122065969,
-          "high": 95.80708218675936
+          "low": 82.04249041288647,
+          "high": 93.8846979872408
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 88,
-          "citedPrompts": 22
+          "presenceRate": 96,
+          "citedPrompts": 24
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 72,
           "citedPrompts": 18
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -108,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 92
+            "rate": 84
           }
         ],
-        "spread": 8
+        "spread": 12
       }
     },
     {
@@ -119,44 +119,44 @@
       "slug": "adyen",
       "url": "https://devtune.ai/verticals/payments-fintech-apis/adyen",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 30.666666666666664,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
         }
       },
       "brandMention": {
-        "rate": 46.666666666666664,
+        "rate": 42.66666666666667,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 37.47220206036117,
-          "high": 56.09329044810263
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 40,
+          "citedPrompts": 10
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 44,
           "citedPrompts": 11
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -171,10 +171,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 40
           }
         ],
-        "spread": 12
+        "spread": 8
       }
     },
     {
@@ -182,44 +182,44 @@
       "slug": "chargebee",
       "url": "https://devtune.ai/verticals/payments-fintech-apis/chargebee",
       "presence": {
-        "rate": 18.666666666666668,
+        "rate": 24,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
         }
       },
       "brandMention": {
-        "rate": 41.333333333333336,
+        "rate": 36,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 32.44084213359225,
-          "high": 50.829438388413614
+          "low": 27.516921101031134,
+          "high": 45.458147434516796
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 32,
+          "citedPrompts": 8
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 24,
           "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -230,20 +230,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 44
+            "rate": 32
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 40
           }
         ],
         "spread": 8
       }
     },
     {
-      "name": "Orb",
-      "slug": "orb",
-      "url": "https://devtune.ai/verticals/payments-fintech-apis/orb",
+      "name": "Paddle",
+      "slug": "paddle",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis/paddle",
       "presence": {
         "rate": 10.666666666666668,
         "rank": {
@@ -257,18 +257,86 @@
         }
       },
       "brandMention": {
-        "rate": 16,
+        "rate": 20,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 20
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 16.000000000000004
+      }
+    },
+    {
+      "name": "Recurly",
+      "slug": "recurly",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis/recurly",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 18.666666666666668,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
         {
           "id": "perplexity",
           "presenceRate": 20,
@@ -276,20 +344,15 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 20
           },
           {
             "id": "perplexity",
@@ -300,14 +363,89 @@
             "rate": 16
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     },
     {
-      "name": "Paddle",
-      "slug": "paddle",
-      "url": "https://devtune.ai/verticals/payments-fintech-apis/paddle",
+      "name": "Braintree",
+      "slug": "braintree",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis/braintree",
       "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Orb",
+      "slug": "orb",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis/orb",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
         "rate": 9.333333333333334,
         "rank": {
           "position": 4,
@@ -319,82 +457,12 @@
           "high": 16.359698431485043
         }
       },
-      "brandMention": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
       "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 20
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Recurly",
-      "slug": "recurly",
-      "url": "https://devtune.ai/verticals/payments-fintech-apis/recurly",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 13
         },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 16,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "platforms": [
         {
           "id": "perplexity",
           "presenceRate": 4,
@@ -402,24 +470,19 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 4
           },
           {
             "id": "google-ai",
@@ -434,6 +497,69 @@
       "slug": "plaid",
       "url": "https://devtune.ai/verticals/payments-fintech-apis/plaid",
       "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 13
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Lago",
+      "slug": "lago",
+      "url": "https://devtune.ai/verticals/payments-fintech-apis/lago",
+      "presence": {
         "rate": 2.666666666666667,
         "rank": {
           "position": 4,
@@ -446,18 +572,23 @@
         }
       },
       "brandMention": {
-        "rate": 4,
+        "rate": 6.666666666666667,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
         {
           "id": "perplexity",
           "presenceRate": 4,
@@ -465,11 +596,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -486,136 +612,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 12
           }
         ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Braintree",
-      "slug": "braintree",
-      "url": "https://devtune.ai/verticals/payments-fintech-apis/braintree",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Lago",
-      "slug": "lago",
-      "url": "https://devtune.ai/verticals/payments-fintech-apis/lago",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 13
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 20
-          }
-        ],
-        "spread": 16
+        "spread": 8
       }
     },
     {
@@ -623,21 +623,21 @@
       "slug": "square",
       "url": "https://devtune.ai/verticals/payments-fintech-apis/square",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 8,
+          "position": 4,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
@@ -648,19 +648,19 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
           "presenceRate": 4,
           "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -688,7 +688,7 @@
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 8,
+          "position": 11,
           "joint": true,
           "of": 13
         },
@@ -700,7 +700,7 @@
       "brandMention": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
@@ -711,6 +711,11 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -719,11 +724,6 @@
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -751,7 +751,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 11,
           "joint": true,
           "of": 13
         },
@@ -761,18 +761,23 @@
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -780,11 +785,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -801,10 +801,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 16
           }
         ],
-        "spread": 20
+        "spread": 16
       }
     },
     {
@@ -814,7 +814,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 11,
           "joint": true,
           "of": 13
         },
@@ -826,7 +826,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 8,
+          "position": 7,
           "joint": true,
           "of": 13
         },
@@ -837,17 +837,17 @@
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }

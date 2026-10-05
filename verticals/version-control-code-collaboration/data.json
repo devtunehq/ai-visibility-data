@@ -9,33 +9,33 @@
     "name": "Version Control & Code Collaboration",
     "url": "https://devtune.ai/verticals/version-control-code-collaboration"
   },
-  "dataUrl": "https://devtune.ai/verticals/version-control-code-collaboration/data/2026-09-28.json",
+  "dataUrl": "https://devtune.ai/verticals/version-control-code-collaboration/data/2026-10-05.json",
   "dataWindow": {
     "start": "2026-09-24",
-    "end": "2026-09-24"
+    "end": "2026-10-01"
   },
-  "asOf": "2026-09-28",
-  "generatedAt": "2026-11-24T08:34:47.941Z",
+  "asOf": "2026-10-05",
+  "generatedAt": "2026-11-24T08:35:34.261Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Version Control & Code Collaboration AI Search Visibility Rankings, https://devtune.ai/verticals/version-control-code-collaboration, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-24). Version Control & Code Collaboration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/version-control-code-collaboration",
-    "html": "DevTune. (2026-09-24). <cite>Version Control &amp; Code Collaboration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/version-control-code-collaboration\">https://devtune.ai/verticals/version-control-code-collaboration</a>",
-    "bibtex": "@misc{devtune-version-control-code-collaboration-2026,\n  author = {DevTune},\n  title = {{Version Control \\& Code Collaboration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-24},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/version-control-code-collaboration},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-01). Version Control & Code Collaboration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/version-control-code-collaboration",
+    "html": "DevTune. (2026-10-01). <cite>Version Control &amp; Code Collaboration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/version-control-code-collaboration\">https://devtune.ai/verticals/version-control-code-collaboration</a>",
+    "bibtex": "@misc{devtune-version-control-code-collaboration-2026,\n  author = {DevTune},\n  title = {{Version Control \\& Code Collaboration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-01},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/version-control-code-collaboration},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-09-24"
-    },
-    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-24"
+      "responsesThrough": "2026-10-01"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-10-01"
     },
     {
       "id": "chatgpt-search",
@@ -56,39 +56,39 @@
       "slug": "github",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/github",
       "presence": {
-        "rate": 58.666666666666664,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 49.17056161158639,
-          "high": 67.55915786640776
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
         }
       },
       "brandMention": {
-        "rate": 92,
+        "rate": 89.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 85.2677122065969,
-          "high": 95.80708218675936
+          "low": 82.04249041288647,
+          "high": 93.8846979872408
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "id": "perplexity",
+          "presenceRate": 88,
+          "citedPrompts": 22
         },
         {
-          "id": "perplexity",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
         },
         {
           "id": "chatgpt-search",
@@ -104,14 +104,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 92
+            "rate": 88
           },
           {
             "id": "google-ai",
-            "rate": 96
+            "rate": 92
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     },
     {
@@ -119,39 +119,39 @@
       "slug": "gitlab",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/gitlab",
       "presence": {
-        "rate": 46.666666666666664,
+        "rate": 52,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 37.47220206036117,
-          "high": 56.09329044810263
+          "low": 42.60698129172405,
+          "high": 61.25372320319769
         }
       },
       "brandMention": {
-        "rate": 84,
+        "rate": 80,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 75.87299363441458,
-          "high": 89.75898277925475
+          "low": 71.41806710669958,
+          "high": 86.49250031712631
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 76,
+          "citedPrompts": 19
+        },
+        {
           "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 60,
-          "citedPrompts": 15
         },
         {
           "id": "chatgpt-search",
@@ -167,77 +167,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 84
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 88
+            "rate": 84
           }
         ],
         "spread": 8
-      }
-    },
-    {
-      "name": "Bitbucket",
-      "slug": "bitbucket",
-      "url": "https://devtune.ai/verticals/version-control-code-collaboration/bitbucket",
-      "presence": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "brandMention": {
-        "rate": 65.33333333333333,
-        "rank": {
-          "position": 3,
-          "joint": false,
-          "of": 7
-        },
-        "range90": {
-          "low": 55.90232669842785,
-          "high": 73.6964077626387
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 60
-          },
-          {
-            "id": "perplexity",
-            "rate": 72
-          },
-          {
-            "id": "google-ai",
-            "rate": 64
-          }
-        ],
-        "spread": 12
       }
     },
     {
@@ -270,14 +207,14 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
@@ -304,6 +241,69 @@
       }
     },
     {
+      "name": "Bitbucket",
+      "slug": "bitbucket",
+      "url": "https://devtune.ai/verticals/version-control-code-collaboration/bitbucket",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 50.66666666666667,
+        "rank": {
+          "position": 3,
+          "joint": false,
+          "of": 7
+        },
+        "range90": {
+          "low": 41.31367302541308,
+          "high": 59.97322847289417
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 60
+          },
+          {
+            "id": "perplexity",
+            "rate": 40
+          },
+          {
+            "id": "google-ai",
+            "rate": 52
+          }
+        ],
+        "spread": 20
+      }
+    },
+    {
       "name": "Sourcegraph",
       "slug": "sourcegraph",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/sourcegraph",
@@ -320,27 +320,27 @@
         }
       },
       "brandMention": {
-        "rate": 6.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
@@ -360,10 +360,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 4
           }
         ],
-        "spread": 8
+        "spread": 0
       }
     },
     {
@@ -373,7 +373,7 @@
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 3,
           "joint": true,
           "of": 7
         },
@@ -383,25 +383,25 @@
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 8,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -419,11 +419,11 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 12
           }
         ],
         "spread": 8
@@ -436,8 +436,8 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 6,
-          "joint": true,
+          "position": 7,
+          "joint": false,
           "of": 7
         },
         "range90": {
@@ -459,12 +459,12 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -482,14 +482,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 20
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     }
   ],

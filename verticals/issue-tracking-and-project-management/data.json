@@ -9,38 +9,38 @@
     "name": "Issue Tracking & Project Management",
     "url": "https://devtune.ai/verticals/issue-tracking-and-project-management"
   },
-  "dataUrl": "https://devtune.ai/verticals/issue-tracking-and-project-management/data/2026-09-28.json",
+  "dataUrl": "https://devtune.ai/verticals/issue-tracking-and-project-management/data/2026-10-05.json",
   "dataWindow": {
-    "start": "2026-09-27",
-    "end": "2026-09-27"
+    "start": "2026-10-04",
+    "end": "2026-10-04"
   },
-  "asOf": "2026-09-28",
-  "generatedAt": "2026-11-24T08:34:54.106Z",
+  "asOf": "2026-10-05",
+  "generatedAt": "2026-11-24T08:35:42.736Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Issue Tracking & Project Management AI Search Visibility Rankings, https://devtune.ai/verticals/issue-tracking-and-project-management, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-27). Issue Tracking & Project Management AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/issue-tracking-and-project-management",
-    "html": "DevTune. (2026-09-27). <cite>Issue Tracking &amp; Project Management AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/issue-tracking-and-project-management\">https://devtune.ai/verticals/issue-tracking-and-project-management</a>",
-    "bibtex": "@misc{devtune-issue-tracking-and-project-management-2026,\n  author = {DevTune},\n  title = {{Issue Tracking \\& Project Management AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-27},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/issue-tracking-and-project-management},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-04). Issue Tracking & Project Management AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/issue-tracking-and-project-management",
+    "html": "DevTune. (2026-10-04). <cite>Issue Tracking &amp; Project Management AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/issue-tracking-and-project-management\">https://devtune.ai/verticals/issue-tracking-and-project-management</a>",
+    "bibtex": "@misc{devtune-issue-tracking-and-project-management-2026,\n  author = {DevTune},\n  title = {{Issue Tracking \\& Project Management AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-04},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/issue-tracking-and-project-management},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-10-04"
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-27"
+      "responsesThrough": "2026-10-04"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-27"
-    },
-    {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-27"
+      "responsesThrough": "2026-10-04"
     }
   ],
   "counts": {
@@ -56,15 +56,15 @@
       "slug": "atlassian",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/atlassian",
       "presence": {
-        "rate": 44,
+        "rate": 40,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
         }
       },
       "brandMention": {
@@ -81,19 +81,19 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 72,
+          "citedPrompts": 18
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -119,62 +119,62 @@
       "slug": "linear",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/linear",
       "presence": {
-        "rate": 42.66666666666667,
+        "rate": 37.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 33.68883232637309,
-          "high": 52.15525119224726
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
         }
       },
       "brandMention": {
-        "rate": 77.33333333333333,
+        "rate": 76,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 12
         },
         "range90": {
-          "low": 68.5107495429468,
-          "high": 84.2522118876501
+          "low": 67.07344855417332,
+          "high": 83.1157098798091
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
           "presenceRate": 52,
           "citedPrompts": 13
         },
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "perplexity",
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 80
           },
           {
             "id": "perplexity",
-            "rate": 68
+            "rate": 72
           },
           {
             "id": "google-ai",
             "rate": 76
           }
         ],
-        "spread": 20
+        "spread": 8
       }
     },
     {
@@ -182,51 +182,51 @@
       "slug": "youtrack",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/youtrack",
       "presence": {
-        "rate": 18.666666666666668,
+        "rate": 24,
         "rank": {
-          "position": 3,
+          "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
         }
       },
       "brandMention": {
-        "rate": 18.666666666666668,
+        "rate": 16,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 36,
+          "citedPrompts": 9
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 36,
+          "citedPrompts": 9
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 36
+            "rate": 24
           },
           {
             "id": "perplexity",
@@ -234,26 +234,26 @@
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 16
           }
         ],
-        "spread": 28
+        "spread": 16
       }
     },
     {
-      "name": "monday.com",
-      "slug": "mondaycom",
-      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/mondaycom",
+      "name": "Shortcut",
+      "slug": "shortcut",
+      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/shortcut",
       "presence": {
-        "rate": 8,
+        "rate": 12,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "brandMention": {
@@ -270,19 +270,82 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "monday.com",
+      "slug": "mondaycom",
+      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/mondaycom",
+      "presence": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 12
         },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -308,125 +371,62 @@
       "slug": "plane",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/plane",
       "presence": {
-        "rate": 8,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
-        "rate": 17.333333333333336,
+        "rate": 14.666666666666666,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
         }
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 28.000000000000004
+            "rate": 36
           },
           {
             "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
             "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
           }
         ],
-        "spread": 20.000000000000004
-      }
-    },
-    {
-      "name": "Shortcut",
-      "slug": "shortcut",
-      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/shortcut",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
+        "spread": 36
       }
     },
     {
@@ -434,15 +434,15 @@
       "slug": "asana",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/asana",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 8,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
@@ -459,19 +459,19 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -497,30 +497,35 @@
       "slug": "clickup",
       "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/clickup",
       "presence": {
-        "rate": 6.666666666666667,
+        "rate": 8,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
-        "rate": 24,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
         {
           "id": "perplexity",
           "presenceRate": 8,
@@ -528,13 +533,8 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -545,77 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 8
           },
           {
             "id": "google-ai",
             "rate": 32
           }
         ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Zenhub",
-      "slug": "zenhub",
-      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/zenhub",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
+        "spread": 24
       }
     },
     {
@@ -648,17 +585,17 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -698,18 +635,23 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -717,11 +659,6 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -734,7 +671,7 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
@@ -774,6 +711,11 @@
       },
       "platforms": [
         {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
@@ -782,9 +724,67 @@
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Zenhub",
+      "slug": "zenhub",
+      "url": "https://devtune.ai/verticals/issue-tracking-and-project-management/zenhub",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 12
         },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
         {
           "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
