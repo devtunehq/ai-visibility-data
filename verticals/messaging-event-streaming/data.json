@@ -9,38 +9,38 @@
     "name": "Messaging & Event Streaming",
     "url": "https://devtune.ai/verticals/messaging-event-streaming"
   },
-  "dataUrl": "https://devtune.ai/verticals/messaging-event-streaming/data/2026-10-05.json",
+  "dataUrl": "https://devtune.ai/verticals/messaging-event-streaming/data/2026-10-12.json",
   "dataWindow": {
-    "start": "2026-09-29",
-    "end": "2026-09-29"
+    "start": "2026-10-06",
+    "end": "2026-10-06"
   },
-  "asOf": "2026-10-05",
-  "generatedAt": "2026-11-24T08:35:17.544Z",
+  "asOf": "2026-10-12",
+  "generatedAt": "2026-11-24T08:36:07.827Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Messaging & Event Streaming AI Search Visibility Rankings, https://devtune.ai/verticals/messaging-event-streaming, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-09-29). Messaging & Event Streaming AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/messaging-event-streaming",
-    "html": "DevTune. (2026-09-29). <cite>Messaging &amp; Event Streaming AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/messaging-event-streaming\">https://devtune.ai/verticals/messaging-event-streaming</a>",
-    "bibtex": "@misc{devtune-messaging-event-streaming-2026,\n  author = {DevTune},\n  title = {{Messaging \\& Event Streaming AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-09-29},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/messaging-event-streaming},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-06). Messaging & Event Streaming AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/messaging-event-streaming",
+    "html": "DevTune. (2026-10-06). <cite>Messaging &amp; Event Streaming AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/messaging-event-streaming\">https://devtune.ai/verticals/messaging-event-streaming</a>",
+    "bibtex": "@misc{devtune-messaging-event-streaming-2026,\n  author = {DevTune},\n  title = {{Messaging \\& Event Streaming AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-06},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/messaging-event-streaming},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-09-29"
+      "responsesThrough": "2026-10-06"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-29"
+      "responsesThrough": "2026-10-06"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-09-29"
+      "responsesThrough": "2026-10-06"
     }
   ],
   "counts": {
@@ -56,59 +56,59 @@
       "slug": "confluent",
       "url": "https://devtune.ai/verticals/messaging-event-streaming/confluent",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 40,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
         }
       },
       "brandMention": {
-        "rate": 56.00000000000001,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 46.52554604878774,
-          "high": 65.05656743597746
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 52,
-          "citedPrompts": 13
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 64,
+          "citedPrompts": 16
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": 56.00000000000001
+            "rate": 52
           },
           {
             "id": "google-ai",
-            "rate": 64
+            "rate": 68
           }
         ],
         "spread": 16
@@ -119,27 +119,27 @@
       "slug": "redpanda",
       "url": "https://devtune.ai/verticals/messaging-event-streaming/redpanda",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 32,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 23.899306050357115,
+          "high": 41.35435349534736
         }
       },
       "brandMention": {
-        "rate": 52,
+        "rate": 48,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
+          "low": 38.74627679680233,
+          "high": 57.39301870827595
         }
       },
       "platforms": [
@@ -150,13 +150,13 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -167,14 +167,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 40
+            "rate": 36
           },
           {
             "id": "google-ai",
-            "rate": 64
+            "rate": 56.00000000000001
           }
         ],
-        "spread": 24
+        "spread": 20.000000000000007
       }
     },
     {
@@ -182,15 +182,15 @@
       "slug": "nats",
       "url": "https://devtune.ai/verticals/messaging-event-streaming/nats",
       "presence": {
-        "rate": 14.666666666666666,
+        "rate": 13.333333333333334,
         "rank": {
-          "position": 1,
+          "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "brandMention": {
@@ -213,8 +213,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
@@ -245,18 +245,6 @@
       "slug": "ably",
       "url": "https://devtune.ai/verticals/messaging-event-streaming/ably",
       "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
         "rate": 5.333333333333334,
         "rank": {
           "position": 3,
@@ -266,6 +254,81 @@
         "range90": {
           "low": 2.4164777983612455,
           "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "PubNub",
+      "slug": "pubnub",
+      "url": "https://devtune.ai/verticals/messaging-event-streaming/pubnub",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 9
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
@@ -297,10 +360,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 4
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
@@ -310,7 +373,7 @@
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 9
         },
@@ -334,13 +397,13 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -367,13 +430,13 @@
       }
     },
     {
-      "name": "Upstash",
-      "slug": "upstash",
-      "url": "https://devtune.ai/verticals/messaging-event-streaming/upstash",
+      "name": "StreamNative",
+      "slug": "streamnative",
+      "url": "https://devtune.ai/verticals/messaging-event-streaming/streamnative",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 9
         },
@@ -397,69 +460,6 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 4
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "StreamNative",
-      "slug": "streamnative",
-      "url": "https://devtune.ai/verticals/messaging-event-streaming/streamnative",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 4,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 9
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -470,8 +470,8 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -493,19 +493,19 @@
       }
     },
     {
-      "name": "PubNub",
-      "slug": "pubnub",
-      "url": "https://devtune.ai/verticals/messaging-event-streaming/pubnub",
+      "name": "Upstash",
+      "slug": "upstash",
+      "url": "https://devtune.ai/verticals/messaging-event-streaming/upstash",
       "presence": {
-        "rate": 0,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
@@ -528,13 +528,13 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -560,27 +560,27 @@
       "slug": "warpstream",
       "url": "https://devtune.ai/verticals/messaging-event-streaming/warpstream",
       "presence": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 2.666666666666667,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 9
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "platforms": [
@@ -591,8 +591,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
@@ -604,7 +604,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "perplexity",
@@ -612,10 +612,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     }
   ],

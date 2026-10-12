@@ -9,38 +9,38 @@
     "name": "Infrastructure as Code",
     "url": "https://devtune.ai/verticals/infrastructure-as-code"
   },
-  "dataUrl": "https://devtune.ai/verticals/infrastructure-as-code/data/2026-10-05.json",
+  "dataUrl": "https://devtune.ai/verticals/infrastructure-as-code/data/2026-10-12.json",
   "dataWindow": {
-    "start": "2026-10-04",
-    "end": "2026-10-04"
+    "start": "2026-10-11",
+    "end": "2026-10-11"
   },
-  "asOf": "2026-10-05",
-  "generatedAt": "2026-11-24T08:35:22.675Z",
+  "asOf": "2026-10-12",
+  "generatedAt": "2026-11-24T08:36:10.642Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Infrastructure as Code AI Search Visibility Rankings, https://devtune.ai/verticals/infrastructure-as-code, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-10-04). Infrastructure as Code AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/infrastructure-as-code",
-    "html": "DevTune. (2026-10-04). <cite>Infrastructure as Code AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/infrastructure-as-code\">https://devtune.ai/verticals/infrastructure-as-code</a>",
-    "bibtex": "@misc{devtune-infrastructure-as-code-2026,\n  author = {DevTune},\n  title = {{Infrastructure as Code AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-04},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/infrastructure-as-code},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-11). Infrastructure as Code AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/infrastructure-as-code",
+    "html": "DevTune. (2026-10-11). <cite>Infrastructure as Code AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/infrastructure-as-code\">https://devtune.ai/verticals/infrastructure-as-code</a>",
+    "bibtex": "@misc{devtune-infrastructure-as-code-2026,\n  author = {DevTune},\n  title = {{Infrastructure as Code AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-11},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/infrastructure-as-code},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-10-04"
-    },
-    {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-10-04"
+      "responsesThrough": "2026-10-11"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-10-04"
+      "responsesThrough": "2026-10-11"
+    },
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-10-11"
     }
   ],
   "counts": {
@@ -56,62 +56,62 @@
       "slug": "pulumi",
       "url": "https://devtune.ai/verticals/infrastructure-as-code/pulumi",
       "presence": {
-        "rate": 57.333333333333336,
+        "rate": 32,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 47.844748807752744,
-          "high": 66.31116767362691
+          "low": 23.899306050357115,
+          "high": 41.35435349534736
         }
       },
       "brandMention": {
-        "rate": 84,
+        "rate": 82.66666666666667,
         "rank": {
           "position": 1,
-          "joint": false,
+          "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 75.87299363441458,
-          "high": 89.75898277925475
+          "low": 74.37416996995762,
+          "high": 88.68400344709724
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 36,
-          "citedPrompts": 9
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "presenceRate": 72,
+          "citedPrompts": 18
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 80
+            "rate": 84
           },
           {
             "id": "perplexity",
-            "rate": 72
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 100
+            "rate": 88
           }
         ],
-        "spread": 28
+        "spread": 12
       }
     },
     {
@@ -119,62 +119,62 @@
       "slug": "hashicorp",
       "url": "https://devtune.ai/verticals/infrastructure-as-code/hashicorp",
       "presence": {
-        "rate": 42.66666666666667,
+        "rate": 24,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 33.68883232637309,
-          "high": 52.15525119224726
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
         }
       },
       "brandMention": {
-        "rate": 36,
+        "rate": 53.333333333333336,
         "rank": {
           "position": 3,
-          "joint": true,
+          "joint": false,
           "of": 12
         },
         "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
+          "low": 43.90670955189737,
+          "high": 62.52779793963883
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "id": "perplexity",
+          "presenceRate": 72,
+          "citedPrompts": 18
         },
         {
-          "id": "perplexity",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
+            "rate": 92
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 16
           },
           {
             "id": "google-ai",
             "rate": 52
           }
         ],
-        "spread": 44
+        "spread": 76
       }
     },
     {
@@ -182,44 +182,44 @@
       "slug": "spacelift",
       "url": "https://devtune.ai/verticals/infrastructure-as-code/spacelift",
       "presence": {
-        "rate": 25.333333333333336,
+        "rate": 8,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
-        "rate": 33.33333333333333,
+        "rate": 32,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 25.097652013553795,
-          "high": 42.729810528765164
+          "low": 23.899306050357115,
+          "high": 41.35435349534736
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -234,10 +234,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 40
           }
         ],
-        "spread": 24
+        "spread": 20
       }
     },
     {
@@ -245,59 +245,59 @@
       "slug": "opentofu",
       "url": "https://devtune.ai/verticals/infrastructure-as-code/opentofu",
       "presence": {
-        "rate": 13.333333333333334,
+        "rate": 4,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 64,
+        "rate": 68,
         "rank": {
-          "position": 2,
-          "joint": false,
+          "position": 1,
+          "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 54.541852565483204,
-          "high": 72.48307889896888
+          "low": 58.645646504652646,
+          "high": 76.10069394964289
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 96
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 92
+            "rate": 80
           }
         ],
         "spread": 68
@@ -308,135 +308,9 @@
       "slug": "crossplane",
       "url": "https://devtune.ai/verticals/infrastructure-as-code/crossplane",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
-        "rate": 26.666666666666668,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 32
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 24
-      }
-    },
-    {
-      "name": "Scalr",
-      "slug": "scalr",
-      "url": "https://devtune.ai/verticals/infrastructure-as-code/scalr",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "env0",
-      "slug": "env0",
-      "url": "https://devtune.ai/verticals/infrastructure-as-code/env0",
-      "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 12
         },
@@ -446,60 +320,60 @@
         }
       },
       "brandMention": {
-        "rate": 21.333333333333336,
+        "rate": 25.333333333333336,
         "rank": {
-          "position": 3,
+          "position": 4,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 32
+            "rate": 28.000000000000004
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 40
           }
         ],
-        "spread": 28
+        "spread": 32
       }
     },
     {
-      "name": "Chef",
-      "slug": "chef",
-      "url": "https://devtune.ai/verticals/infrastructure-as-code/chef",
+      "name": "AWS CDK",
+      "slug": "aws-cdk",
+      "url": "https://devtune.ai/verticals/infrastructure-as-code/aws-cdk",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 12
         },
@@ -509,23 +383,18 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 0,
         "rank": {
-          "position": 7,
+          "position": 11,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
@@ -535,6 +404,11 @@
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -545,14 +419,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
@@ -562,7 +436,7 @@
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 5,
+          "position": 3,
           "joint": true,
           "of": 12
         },
@@ -572,23 +446,18 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
@@ -598,13 +467,18 @@
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "perplexity",
@@ -615,7 +489,70 @@
             "rate": 4
           }
         ],
-        "spread": 4
+        "spread": 0
+      }
+    },
+    {
+      "name": "Scalr",
+      "slug": "scalr",
+      "url": "https://devtune.ai/verticals/infrastructure-as-code/scalr",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 9.333333333333334,
+        "rank": {
+          "position": 7,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 8
       }
     },
     {
@@ -625,7 +562,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 9,
           "joint": true,
           "of": 12
         },
@@ -637,7 +574,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 7,
+          "position": 11,
           "joint": true,
           "of": 12
         },
@@ -648,17 +585,17 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
           "id": "chatgpt-search",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -682,13 +619,13 @@
       }
     },
     {
-      "name": "AWS CDK",
-      "slug": "aws-cdk",
-      "url": "https://devtune.ai/verticals/infrastructure-as-code/aws-cdk",
+      "name": "Chef",
+      "slug": "chef",
+      "url": "https://devtune.ai/verticals/infrastructure-as-code/chef",
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 9,
           "joint": true,
           "of": 12
         },
@@ -698,23 +635,18 @@
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 4,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
@@ -724,24 +656,92 @@
           "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
         "spread": 0
+      }
+    },
+    {
+      "name": "env0",
+      "slug": "env0",
+      "url": "https://devtune.ai/verticals/infrastructure-as-code/env0",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 9,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 22.666666666666664,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 15.747788112349886,
+          "high": 31.489250457053192
+        }
+      },
+      "platforms": [
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 36
       }
     },
     {
@@ -751,7 +751,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 5,
+          "position": 9,
           "joint": true,
           "of": 12
         },
@@ -761,23 +761,18 @@
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 7,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
         {
           "id": "chatgpt-search",
           "presenceRate": 0,
@@ -785,6 +780,11 @@
         },
         {
           "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -801,10 +801,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     }
   ],

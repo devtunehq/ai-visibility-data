@@ -9,38 +9,38 @@
     "name": "Headless CMS & Content Platforms",
     "url": "https://devtune.ai/verticals/headless-cms-content-platforms"
   },
-  "dataUrl": "https://devtune.ai/verticals/headless-cms-content-platforms/data/2026-10-05.json",
+  "dataUrl": "https://devtune.ai/verticals/headless-cms-content-platforms/data/2026-10-12.json",
   "dataWindow": {
-    "start": "2026-09-25",
-    "end": "2026-10-02"
+    "start": "2026-10-09",
+    "end": "2026-10-09"
   },
-  "asOf": "2026-10-05",
-  "generatedAt": "2026-11-24T08:35:35.230Z",
+  "asOf": "2026-10-12",
+  "generatedAt": "2026-11-24T08:36:16.859Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Headless CMS & Content Platforms AI Search Visibility Rankings, https://devtune.ai/verticals/headless-cms-content-platforms, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-10-02). Headless CMS & Content Platforms AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/headless-cms-content-platforms",
-    "html": "DevTune. (2026-10-02). <cite>Headless CMS &amp; Content Platforms AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/headless-cms-content-platforms\">https://devtune.ai/verticals/headless-cms-content-platforms</a>",
-    "bibtex": "@misc{devtune-headless-cms-content-platforms-2026,\n  author = {DevTune},\n  title = {{Headless CMS \\& Content Platforms AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-02},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/headless-cms-content-platforms},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-09). Headless CMS & Content Platforms AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/headless-cms-content-platforms",
+    "html": "DevTune. (2026-10-09). <cite>Headless CMS &amp; Content Platforms AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/headless-cms-content-platforms\">https://devtune.ai/verticals/headless-cms-content-platforms</a>",
+    "bibtex": "@misc{devtune-headless-cms-content-platforms-2026,\n  author = {DevTune},\n  title = {{Headless CMS \\& Content Platforms AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/headless-cms-content-platforms},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-10-02"
+      "responsesThrough": "2026-10-09"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-10-02"
+      "responsesThrough": "2026-10-09"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-25"
+      "responsesThrough": "2026-10-09"
     }
   ],
   "counts": {
@@ -56,51 +56,51 @@
       "slug": "sanity",
       "url": "https://devtune.ai/verticals/headless-cms-content-platforms/sanity",
       "presence": {
-        "rate": 45.33333333333333,
+        "rate": 28.000000000000004,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 36.204573906485685,
-          "high": 54.78711560536363
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
         }
       },
       "brandMention": {
-        "rate": 86.66666666666667,
+        "rate": 92,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 78.91898486746241,
-          "high": 91.8605975394359
+          "low": 85.2677122065969,
+          "high": 95.80708218675936
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 72,
-          "citedPrompts": 18
+          "presenceRate": 64,
+          "citedPrompts": 16
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 100
           },
           {
             "id": "perplexity",
@@ -108,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 88
+            "rate": 92
           }
         ],
-        "spread": 4
+        "spread": 16
       }
     },
     {
@@ -119,27 +119,27 @@
       "slug": "contentful",
       "url": "https://devtune.ai/verticals/headless-cms-content-platforms/contentful",
       "presence": {
-        "rate": 41.333333333333336,
+        "rate": 17.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 32.44084213359225,
-          "high": 50.829438388413614
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
         }
       },
       "brandMention": {
-        "rate": 82.66666666666667,
+        "rate": 85.33333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 74.37416996995762,
-          "high": 88.68400344709724
+          "low": 77.38738471048107,
+          "high": 90.81839469980275
         }
       },
       "platforms": [
@@ -150,13 +150,13 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -167,14 +167,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 72
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 88
           }
         ],
-        "spread": 20
+        "spread": 16
       }
     },
     {
@@ -182,27 +182,27 @@
       "slug": "storyblok",
       "url": "https://devtune.ai/verticals/headless-cms-content-platforms/storyblok",
       "presence": {
-        "rate": 37.333333333333336,
+        "rate": 17.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 28.737458143633287,
-          "high": 46.81141338852913
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
         }
       },
       "brandMention": {
-        "rate": 64,
+        "rate": 60,
         "rank": {
           "position": 3,
-          "joint": false,
+          "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 54.541852565483204,
-          "high": 72.48307889896888
+          "low": 50.50306880161667,
+          "high": 68.80045367299196
         }
       },
       "platforms": [
@@ -218,8 +218,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 60,
-          "citedPrompts": 15
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -230,11 +230,137 @@
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 44
           },
           {
             "id": "google-ai",
-            "rate": 68
+            "rate": 60
+          }
+        ],
+        "spread": 32
+      }
+    },
+    {
+      "name": "Prismic",
+      "slug": "prismic",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/prismic",
+      "presence": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "brandMention": {
+        "rate": 18.666666666666668,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 24.000000000000004
+      }
+    },
+    {
+      "name": "Strapi",
+      "slug": "strapi",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/strapi",
+      "presence": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "brandMention": {
+        "rate": 49.333333333333336,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 40.02677152710584,
+          "high": 58.68632697458693
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 64
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 48
           }
         ],
         "spread": 28
@@ -245,114 +371,51 @@
       "slug": "hygraph",
       "url": "https://devtune.ai/verticals/headless-cms-content-platforms/hygraph",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 12,
         "rank": {
-          "position": 4,
+          "position": 6,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "brandMention": {
-        "rate": 44,
+        "rate": 46.666666666666664,
         "rank": {
-          "position": 4,
+          "position": 3,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
+          "low": 37.47220206036117,
+          "high": 56.09329044810263
         }
       },
       "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
         },
         {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 40
-          }
-        ],
-        "spread": 60
-      }
-    },
-    {
-      "name": "Strapi",
-      "slug": "strapi",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/strapi",
-      "presence": {
-        "rate": 22.666666666666664,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
-        }
-      },
-      "brandMention": {
-        "rate": 44,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 60
+            "rate": 64
           },
           {
             "id": "perplexity",
@@ -360,45 +423,45 @@
           },
           {
             "id": "google-ai",
-            "rate": 44
+            "rate": 48
           }
         ],
-        "spread": 31.999999999999996
+        "spread": 36
       }
     },
     {
-      "name": "Contentstack",
-      "slug": "contentstack",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/contentstack",
+      "name": "Payload CMS",
+      "slug": "payload-cms",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/payload-cms",
       "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 17.333333333333336,
+        "rate": 8,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 16,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 20,
+          "citedPrompts": 5
         },
         {
           "id": "google-ai",
@@ -407,8 +470,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -419,14 +482,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 12
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 12
           }
         ],
-        "spread": 24
+        "spread": 28
       }
     },
     {
@@ -434,141 +497,15 @@
       "slug": "datocms",
       "url": "https://devtune.ai/verticals/headless-cms-content-platforms/datocms",
       "presence": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 12
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 20.000000000000004
-      }
-    },
-    {
-      "name": "Kontent.ai",
-      "slug": "kontentai",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/kontentai",
-      "presence": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
-        }
-      },
-      "brandMention": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Prismic",
-      "slug": "prismic",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/prismic",
-      "presence": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
@@ -581,69 +518,6 @@
         "range90": {
           "low": 11.315996552902774,
           "high": 25.625830030042373
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Payload CMS",
-      "slug": "payload-cms",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/payload-cms",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 7,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 10.666666666666668,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 6.1153020127592015,
-          "high": 17.957509587113528
         }
       },
       "platforms": [
@@ -667,28 +541,28 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 20
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 8
           }
         ],
-        "spread": 28.000000000000004
+        "spread": 16
       }
     },
     {
-      "name": "Builder.io",
-      "slug": "builderio",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/builderio",
+      "name": "Contentstack",
+      "slug": "contentstack",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/contentstack",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 7,
+          "position": 6,
           "joint": true,
           "of": 12
         },
@@ -698,10 +572,199 @@
         }
       },
       "brandMention": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 12
+          },
+          {
+            "id": "google-ai",
+            "rate": 16
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Builder.io",
+      "slug": "builderio",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/builderio",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 10,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Directus",
+      "slug": "directus",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/directus",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 10,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 17.333333333333336,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 24
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Kontent.ai",
+      "slug": "kontentai",
+      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/kontentai",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 10,
+          "joint": true,
+          "of": 12
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
         "rate": 4,
         "rank": {
-          "position": 12,
-          "joint": false,
+          "position": 11,
+          "joint": true,
           "of": 12
         },
         "range90": {
@@ -717,94 +780,31 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 12
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Directus",
-      "slug": "directus",
-      "url": "https://devtune.ai/verticals/headless-cms-content-platforms/directus",
-      "presence": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 12,
-          "joint": false,
-          "of": 12
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "brandMention": {
-        "rate": 17.333333333333336,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 12
-        },
-        "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 4
+        "spread": 12
       }
     }
   ],

@@ -9,38 +9,38 @@
     "name": "Search & Vector Databases",
     "url": "https://devtune.ai/verticals/search-vector-databases"
   },
-  "dataUrl": "https://devtune.ai/verticals/search-vector-databases/data/2026-10-05.json",
+  "dataUrl": "https://devtune.ai/verticals/search-vector-databases/data/2026-10-12.json",
   "dataWindow": {
-    "start": "2026-09-25",
-    "end": "2026-10-02"
+    "start": "2026-10-09",
+    "end": "2026-10-09"
   },
-  "asOf": "2026-10-05",
-  "generatedAt": "2026-11-24T08:35:20.463Z",
+  "asOf": "2026-10-12",
+  "generatedAt": "2026-11-24T08:36:09.587Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Search & Vector Databases AI Search Visibility Rankings, https://devtune.ai/verticals/search-vector-databases, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-10-02). Search & Vector Databases AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/search-vector-databases",
-    "html": "DevTune. (2026-10-02). <cite>Search &amp; Vector Databases AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/search-vector-databases\">https://devtune.ai/verticals/search-vector-databases</a>",
-    "bibtex": "@misc{devtune-search-vector-databases-2026,\n  author = {DevTune},\n  title = {{Search \\& Vector Databases AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-02},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/search-vector-databases},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-09). Search & Vector Databases AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/search-vector-databases",
+    "html": "DevTune. (2026-10-09). <cite>Search &amp; Vector Databases AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/search-vector-databases\">https://devtune.ai/verticals/search-vector-databases</a>",
+    "bibtex": "@misc{devtune-search-vector-databases-2026,\n  author = {DevTune},\n  title = {{Search \\& Vector Databases AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/search-vector-databases},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-10-02"
+      "responsesThrough": "2026-10-09"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-10-02"
+      "responsesThrough": "2026-10-09"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-09-25"
+      "responsesThrough": "2026-10-09"
     }
   ],
   "counts": {
@@ -56,141 +56,15 @@
       "slug": "elastic",
       "url": "https://devtune.ai/verticals/search-vector-databases/elastic",
       "presence": {
-        "rate": 34.66666666666667,
+        "rate": 17.333333333333336,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
-        }
-      },
-      "brandMention": {
-        "rate": 25.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 60,
-          "citedPrompts": 15
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 40
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 28
-      }
-    },
-    {
-      "name": "Weaviate",
-      "slug": "weaviate",
-      "url": "https://devtune.ai/verticals/search-vector-databases/weaviate",
-      "presence": {
-        "rate": 22.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
-        }
-      },
-      "brandMention": {
-        "rate": 36,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 48
-          },
-          {
-            "id": "perplexity",
-            "rate": 32
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 19.999999999999996
-      }
-    },
-    {
-      "name": "Typesense",
-      "slug": "typesense",
-      "url": "https://devtune.ai/verticals/search-vector-databases/typesense",
-      "presence": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
         }
       },
       "brandMention": {
@@ -208,8 +82,71 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 44,
+          "citedPrompts": 11
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 60
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Algolia",
+      "slug": "algolia",
+      "url": "https://devtune.ai/verticals/search-vector-databases/algolia",
+      "presence": {
+        "rate": 13.333333333333334,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
+        }
+      },
+      "brandMention": {
+        "rate": 32,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 23.899306050357115,
+          "high": 41.35435349534736
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "google-ai",
@@ -218,42 +155,42 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 40
+            "rate": 32
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 32
           },
           {
             "id": "google-ai",
-            "rate": 48
+            "rate": 32
           }
         ],
-        "spread": 24
+        "spread": 0
       }
     },
     {
-      "name": "Qdrant",
-      "slug": "qdrant",
-      "url": "https://devtune.ai/verticals/search-vector-databases/qdrant",
+      "name": "Typesense",
+      "slug": "typesense",
+      "url": "https://devtune.ai/verticals/search-vector-databases/typesense",
       "presence": {
-        "rate": 20,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "brandMention": {
@@ -271,71 +208,8 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 36
-          },
-          {
-            "id": "perplexity",
-            "rate": 32
-          },
-          {
-            "id": "google-ai",
-            "rate": 48
-          }
-        ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Meilisearch",
-      "slug": "meilisearch",
-      "url": "https://devtune.ai/verticals/search-vector-databases/meilisearch",
-      "presence": {
-        "rate": 16,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
-        }
-      },
-      "brandMention": {
-        "rate": 24,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "google-ai",
@@ -344,26 +218,152 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 20
+            "rate": 44
           },
           {
             "id": "perplexity",
-            "rate": 24
+            "rate": 28.000000000000004
           },
           {
             "id": "google-ai",
-            "rate": 28.000000000000004
+            "rate": 44
           }
         ],
-        "spread": 8.000000000000004
+        "spread": 15.999999999999996
+      }
+    },
+    {
+      "name": "Qdrant",
+      "slug": "qdrant",
+      "url": "https://devtune.ai/verticals/search-vector-databases/qdrant",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 44,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 34.94343256402256,
+          "high": 53.474453951212276
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 48
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Weaviate",
+      "slug": "weaviate",
+      "url": "https://devtune.ai/verticals/search-vector-databases/weaviate",
+      "presence": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 41.333333333333336,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 32.44084213359225,
+          "high": 50.829438388413614
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 40
+          },
+          {
+            "id": "google-ai",
+            "rate": 36
+          }
+        ],
+        "spread": 12
       }
     },
     {
@@ -371,15 +371,15 @@
       "slug": "pinecone",
       "url": "https://devtune.ai/verticals/search-vector-databases/pinecone",
       "presence": {
-        "rate": 16,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "brandMention": {
@@ -402,13 +402,13 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -419,24 +419,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 28.000000000000004
+            "rate": 36
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 44
           }
         ],
-        "spread": 23.999999999999996
+        "spread": 8
       }
     },
     {
-      "name": "Algolia",
-      "slug": "algolia",
-      "url": "https://devtune.ai/verticals/search-vector-databases/algolia",
+      "name": "Meilisearch",
+      "slug": "meilisearch",
+      "url": "https://devtune.ai/verticals/search-vector-databases/meilisearch",
       "presence": {
         "rate": 8,
         "rank": {
-          "position": 5,
+          "position": 1,
           "joint": true,
           "of": 11
         },
@@ -446,50 +446,50 @@
         }
       },
       "brandMention": {
-        "rate": 33.33333333333333,
+        "rate": 30.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 25.097652013553795,
-          "high": 42.729810528765164
+          "low": 22.708788096045012,
+          "high": 39.97106845304497
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 40
+            "rate": 36
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": 44
           }
         ],
-        "spread": 20
+        "spread": 32
       }
     },
     {
@@ -497,27 +497,27 @@
       "slug": "vespa",
       "url": "https://devtune.ai/verticals/search-vector-databases/vespa",
       "presence": {
-        "rate": 8,
+        "rate": 2.666666666666667,
         "rank": {
-          "position": 5,
+          "position": 8,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
         }
       },
       "brandMention": {
-        "rate": 0,
+        "rate": 9.333333333333334,
         "rank": {
-          "position": 10,
+          "position": 8,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
@@ -533,8 +533,134 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 28.000000000000004
+      }
+    },
+    {
+      "name": "Chroma",
+      "slug": "chroma",
+      "url": "https://devtune.ai/verticals/search-vector-databases/chroma",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Trieve",
+      "slug": "trieve",
+      "url": "https://devtune.ai/verticals/search-vector-databases/trieve",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 11,
+          "joint": false,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -560,34 +686,34 @@
       "slug": "zilliz",
       "url": "https://devtune.ai/verticals/search-vector-databases/zilliz",
       "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 12,
+        "rate": 0,
         "rank": {
           "position": 8,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 8,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -596,152 +722,26 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 8
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 16
           }
         ],
         "spread": 16
-      }
-    },
-    {
-      "name": "Chroma",
-      "slug": "chroma",
-      "url": "https://devtune.ai/verticals/search-vector-databases/chroma",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Trieve",
-      "slug": "trieve",
-      "url": "https://devtune.ai/verticals/search-vector-databases/trieve",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
       }
     }
   ],

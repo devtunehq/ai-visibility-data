@@ -9,38 +9,38 @@
     "name": "CI/CD & Build Systems",
     "url": "https://devtune.ai/verticals/cicd-build-systems"
   },
-  "dataUrl": "https://devtune.ai/verticals/cicd-build-systems/data/2026-10-05.json",
+  "dataUrl": "https://devtune.ai/verticals/cicd-build-systems/data/2026-10-12.json",
   "dataWindow": {
-    "start": "2026-10-03",
-    "end": "2026-10-03"
+    "start": "2026-10-10",
+    "end": "2026-10-10"
   },
-  "asOf": "2026-10-05",
-  "generatedAt": "2026-11-24T08:35:36.050Z",
+  "asOf": "2026-10-12",
+  "generatedAt": "2026-11-24T08:36:17.358Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, CI/CD & Build Systems AI Search Visibility Rankings, https://devtune.ai/verticals/cicd-build-systems, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-10-03). CI/CD & Build Systems AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cicd-build-systems",
-    "html": "DevTune. (2026-10-03). <cite>CI/CD &amp; Build Systems AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cicd-build-systems\">https://devtune.ai/verticals/cicd-build-systems</a>",
-    "bibtex": "@misc{devtune-cicd-build-systems-2026,\n  author = {DevTune},\n  title = {{CI/CD \\& Build Systems AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-03},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cicd-build-systems},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-10-10). CI/CD & Build Systems AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cicd-build-systems",
+    "html": "DevTune. (2026-10-10). <cite>CI/CD &amp; Build Systems AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cicd-build-systems\">https://devtune.ai/verticals/cicd-build-systems</a>",
+    "bibtex": "@misc{devtune-cicd-build-systems-2026,\n  author = {DevTune},\n  title = {{CI/CD \\& Build Systems AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-10},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cicd-build-systems},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-10-03"
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-10-10"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-10-03"
+      "responsesThrough": "2026-10-10"
     },
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-10-03"
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-10-10"
     }
   ],
   "counts": {
@@ -52,118 +52,55 @@
   },
   "brands": [
     {
-      "name": "Buildkite",
-      "slug": "buildkite",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/buildkite",
+      "name": "CircleCI",
+      "slug": "circleci",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/circleci",
       "presence": {
-        "rate": 33.33333333333333,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 25.097652013553795,
-          "high": 42.729810528765164
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "brandMention": {
-        "rate": 38.666666666666664,
+        "rate": 54.666666666666664,
         "rank": {
-          "position": 3,
+          "position": 2,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 29.965045596143597,
-          "high": 48.157628932633294
+          "low": 45.21288439463637,
+          "high": 63.79542609351433
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 60
-          },
-          {
-            "id": "perplexity",
-            "rate": 40
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 44
-      }
-    },
-    {
-      "name": "GitHub",
-      "slug": "github",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/github",
-      "presence": {
-        "rate": 30.666666666666664,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 22.708788096045012,
-          "high": 39.97106845304497
-        }
-      },
-      "brandMention": {
-        "rate": 72,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 62.82008351352775,
-          "high": 79.64766593061124
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 40,
-          "citedPrompts": 10
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 76
+            "rate": 64
           },
           {
             "id": "perplexity",
@@ -171,73 +108,73 @@
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 44
           }
         ],
-        "spread": 27.999999999999993
+        "spread": 20
       }
     },
     {
-      "name": "CircleCI",
-      "slug": "circleci",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/circleci",
+      "name": "GitHub",
+      "slug": "github",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/github",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 18.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 12.405197089739277,
+          "high": 27.11043248982035
         }
       },
       "brandMention": {
-        "rate": 52,
+        "rate": 86.66666666666667,
         "rank": {
-          "position": 3,
-          "joint": true,
+          "position": 1,
+          "joint": false,
           "of": 16
         },
         "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
+          "low": 78.91898486746241,
+          "high": 91.8605975394359
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 52,
           "citedPrompts": 13
         },
         {
-          "id": "perplexity",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 68
+            "rate": 100
           },
           {
             "id": "perplexity",
-            "rate": 36
+            "rate": 76
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 84
           }
         ],
-        "spread": 32
+        "spread": 24
       }
     },
     {
@@ -245,78 +182,204 @@
       "slug": "gitlab",
       "url": "https://devtune.ai/verticals/cicd-build-systems/gitlab",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 13.333333333333334,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "brandMention": {
-        "rate": 68,
+        "rate": 69.33333333333334,
         "rank": {
-          "position": 1,
+          "position": 2,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 58.645646504652646,
-          "high": 76.10069394964289
+          "low": 60.028931546955036,
+          "high": 77.29121190395499
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 48,
-          "citedPrompts": 12
-        },
-        {
           "id": "perplexity",
           "presenceRate": 36,
           "citedPrompts": 9
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 80
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 44
           },
           {
             "id": "google-ai",
-            "rate": 80
+            "rate": 84
           }
         ],
-        "spread": 32
+        "spread": 40
       }
     },
     {
-      "name": "Harness",
-      "slug": "harness",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/harness",
+      "name": "Buildkite",
+      "slug": "buildkite",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/buildkite",
       "presence": {
-        "rate": 9.333333333333334,
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "brandMention": {
+        "rate": 37.333333333333336,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 32,
+          "citedPrompts": 8
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 52
+          },
+          {
+            "id": "perplexity",
+            "rate": 32
+          },
+          {
+            "id": "google-ai",
+            "rate": 28.000000000000004
+          }
+        ],
+        "spread": 23.999999999999996
+      }
+    },
+    {
+      "name": "Semaphore",
+      "slug": "semaphore",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/semaphore",
+      "presence": {
+        "rate": 5.333333333333334,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Nx",
+      "slug": "nx",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/nx",
+      "presence": {
+        "rate": 4,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
@@ -333,19 +396,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -367,135 +430,9 @@
       }
     },
     {
-      "name": "Nx",
-      "slug": "nx",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/nx",
-      "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 14.666666666666666,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Turborepo",
-      "slug": "turborepo",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/turborepo",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 16
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Depot",
-      "slug": "depot",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/depot",
+      "name": "TeamCity",
+      "slug": "teamcity",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/teamcity",
       "presence": {
         "rate": 4,
         "rank": {
@@ -506,138 +443,12 @@
         "range90": {
           "low": 1.6095998879448896,
           "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
-      }
-    },
-    {
-      "name": "Semaphore",
-      "slug": "semaphore",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/semaphore",
-      "presence": {
-        "rate": 4,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
-        }
-      },
-      "brandMention": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 8
-      }
-    },
-    {
-      "name": "Azure Pipelines",
-      "slug": "azure-pipelines",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/azure-pipelines",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
         }
       },
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 11,
           "joint": true,
           "of": 16
         },
@@ -648,19 +459,397 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
+        {
+          "id": "google-ai",
+          "presenceRate": 12,
+          "citedPrompts": 3
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Depot",
+      "slug": "depot",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/depot",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Azure Pipelines",
+      "slug": "azure-pipelines",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/azure-pipelines",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
         {
           "id": "perplexity",
           "presenceRate": 4,
           "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Harness",
+      "slug": "harness",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/harness",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 8,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 12
+      }
+    },
+    {
+      "name": "Jenkins",
+      "slug": "jenkins",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/jenkins",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 34.66666666666667,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 26.3035922373613,
+          "high": 44.097673301572144
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": 32
+          }
+        ],
+        "spread": 24
+      }
+    },
+    {
+      "name": "Turborepo",
+      "slug": "turborepo",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/turborepo",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 10.666666666666668,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "CloudBees",
+      "slug": "cloudbees",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/cloudbees",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -686,15 +875,15 @@
       "slug": "dagger",
       "url": "https://devtune.ai/verticals/cicd-build-systems/dagger",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 0,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 16
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
@@ -711,19 +900,19 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
@@ -734,14 +923,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 8
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
@@ -749,261 +938,9 @@
       "slug": "earthly",
       "url": "https://devtune.ai/verticals/cicd-build-systems/earthly",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 0,
         "rank": {
           "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "TeamCity",
-      "slug": "teamcity",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/teamcity",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "CloudBees",
-      "slug": "cloudbees",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/cloudbees",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 14,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
-    },
-    {
-      "name": "Jenkins",
-      "slug": "jenkins",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/jenkins",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 14,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 34.66666666666667,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 16
-        },
-        "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 52
-          },
-          {
-            "id": "perplexity",
-            "rate": 16
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 36
-      }
-    },
-    {
-      "name": "Travis CI",
-      "slug": "travis-ci",
-      "url": "https://devtune.ai/verticals/cicd-build-systems/travis-ci",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 14,
           "joint": true,
           "of": 16
         },
@@ -1015,7 +952,7 @@
       "brandMention": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 10,
+          "position": 11,
           "joint": true,
           "of": 16
         },
@@ -1026,7 +963,7 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -1036,7 +973,70 @@
           "citedPrompts": 0
         },
         {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Travis CI",
+      "slug": "travis-ci",
+      "url": "https://devtune.ai/verticals/cicd-build-systems/travis-ci",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 16
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
           "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -1049,14 +1049,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 0
           },
           {
             "id": "google-ai",
             "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     }
   ],
