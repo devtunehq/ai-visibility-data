@@ -9,38 +9,38 @@
     "name": "Autonomous Coding Agents",
     "url": "https://devtune.ai/verticals/autonomous-coding-agents"
   },
-  "dataUrl": "https://devtune.ai/verticals/autonomous-coding-agents/data/2026-11-02.json",
+  "dataUrl": "https://devtune.ai/verticals/autonomous-coding-agents/data/2026-11-09.json",
   "dataWindow": {
-    "start": "2026-10-31",
-    "end": "2026-10-31"
+    "start": "2026-11-07",
+    "end": "2026-11-07"
   },
-  "asOf": "2026-11-02",
-  "generatedAt": "2026-11-24T08:38:12.791Z",
+  "asOf": "2026-11-09",
+  "generatedAt": "2026-11-24T08:38:46.319Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Autonomous Coding Agents AI Search Visibility Rankings, https://devtune.ai/verticals/autonomous-coding-agents, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-10-31). Autonomous Coding Agents AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/autonomous-coding-agents",
-    "html": "DevTune. (2026-10-31). <cite>Autonomous Coding Agents AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/autonomous-coding-agents\">https://devtune.ai/verticals/autonomous-coding-agents</a>",
-    "bibtex": "@misc{devtune-autonomous-coding-agents-2026,\n  author = {DevTune},\n  title = {{Autonomous Coding Agents AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-10-31},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/autonomous-coding-agents},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-07). Autonomous Coding Agents AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/autonomous-coding-agents",
+    "html": "DevTune. (2026-11-07). <cite>Autonomous Coding Agents AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/autonomous-coding-agents\">https://devtune.ai/verticals/autonomous-coding-agents</a>",
+    "bibtex": "@misc{devtune-autonomous-coding-agents-2026,\n  author = {DevTune},\n  title = {{Autonomous Coding Agents AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-07},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/autonomous-coding-agents},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-10-31"
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-11-07"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-10-31"
+      "responsesThrough": "2026-11-07"
     },
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "responsesThrough": "2026-10-31"
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-11-07"
     }
   ],
   "counts": {
@@ -52,72 +52,72 @@
   },
   "brands": [
     {
-      "name": "Cursor (Anysphere)",
-      "slug": "cursor-anysphere",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/cursor-anysphere",
+      "name": "Codex (OpenAI)",
+      "slug": "openai-codex-cli-codex",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/openai-codex-cli-codex",
       "presence": {
-        "rate": 29.333333333333332,
+        "rate": 26.666666666666668,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 21.526363604809575,
-          "high": 38.57968994766594
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "brandMention": {
-        "rate": 73.33333333333333,
+        "rate": 64,
         "rank": {
-          "position": 1,
+          "position": 2,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 64.22859473618631,
-          "high": 80.81295770456714
+          "low": 54.541852565483204,
+          "high": 72.48307889896888
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 40,
           "citedPrompts": 10
         },
         {
-          "id": "perplexity",
-          "presenceRate": 44,
-          "citedPrompts": 11
+          "id": "chatgpt-search",
+          "presenceRate": 36,
+          "citedPrompts": 9
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 80
+            "rate": 88
           },
           {
             "id": "perplexity",
-            "rate": 68
+            "rate": 60
           },
           {
             "id": "google-ai",
-            "rate": 72
+            "rate": 44
           }
         ],
-        "spread": 12
+        "spread": 44
       }
     },
     {
-      "name": "Codex (OpenAI)",
-      "slug": "openai-codex-cli-codex",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/openai-codex-cli-codex",
+      "name": "Cursor (Anysphere)",
+      "slug": "cursor-anysphere",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/cursor-anysphere",
       "presence": {
         "rate": 25.333333333333336,
         "rank": {
@@ -131,56 +131,56 @@
         }
       },
       "brandMention": {
-        "rate": 61.33333333333333,
+        "rate": 65.33333333333333,
         "rank": {
-          "position": 3,
-          "joint": false,
+          "position": 2,
+          "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 51.8423710673667,
-          "high": 70.0349544038564
+          "low": 55.90232669842785,
+          "high": 73.6964077626387
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 28.000000000000004,
+          "citedPrompts": 7
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
-          "id": "perplexity",
-          "presenceRate": 36,
-          "citedPrompts": 9
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 76
           },
           {
             "id": "perplexity",
-            "rate": 56.00000000000001
+            "rate": 52
           },
           {
             "id": "google-ai",
-            "rate": 40
+            "rate": 68
           }
         ],
-        "spread": 48
+        "spread": 24
       }
     },
     {
-      "name": "Claude Code (Anthropic)",
-      "slug": "anthropic-claude-code",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/anthropic-claude-code",
+      "name": "OpenHands",
+      "slug": "all-hands-ai-openhands",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/all-hands-ai-openhands",
       "presence": {
         "rate": 10.666666666666668,
         "rank": {
@@ -194,72 +194,9 @@
         }
       },
       "brandMention": {
-        "rate": 82.66666666666667,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 74.37416996995762,
-          "high": 88.68400344709724
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 28.000000000000004,
-          "citedPrompts": 7
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 88
-          },
-          {
-            "id": "perplexity",
-            "rate": 76
-          },
-          {
-            "id": "google-ai",
-            "rate": 84
-          }
-        ],
-        "spread": 12
-      }
-    },
-    {
-      "name": "OpenHands",
-      "slug": "all-hands-ai-openhands",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/all-hands-ai-openhands",
-      "presence": {
-        "rate": 9.333333333333334,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
-        }
-      },
-      "brandMention": {
         "rate": 22.666666666666664,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 17
         },
@@ -270,7 +207,7 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
         },
@@ -280,27 +217,90 @@
           "citedPrompts": 4
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 44
+            "rate": 36
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 12
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 20
           }
         ],
-        "spread": 36
+        "spread": 24
+      }
+    },
+    {
+      "name": "Claude Code (Anthropic)",
+      "slug": "anthropic-claude-code",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/anthropic-claude-code",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 17
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 85.33333333333334,
+        "rank": {
+          "position": 1,
+          "joint": false,
+          "of": 17
+        },
+        "range90": {
+          "low": 77.38738471048107,
+          "high": 90.81839469980275
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 84
+          },
+          {
+            "id": "perplexity",
+            "rate": 84
+          },
+          {
+            "id": "google-ai",
+            "rate": 88
+          }
+        ],
+        "spread": 4
       }
     },
     {
@@ -308,68 +308,131 @@
       "slug": "cline-bot-inc",
       "url": "https://devtune.ai/verticals/autonomous-coding-agents/cline-bot-inc",
       "presence": {
-        "rate": 4,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 13.333333333333334,
         "rank": {
-          "position": 5,
+          "position": 7,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 24
           },
           {
             "id": "perplexity",
-            "rate": 8
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 24
+            "rate": 16
           }
         ],
-        "spread": 16
+        "spread": 24
       }
     },
     {
       "name": "Devin (Cognition)",
       "slug": "cognition-devin",
       "url": "https://devtune.ai/verticals/autonomous-coding-agents/cognition-devin",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 17
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 37.333333333333336,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 17
+        },
+        "range90": {
+          "low": 28.737458143633287,
+          "high": 46.81141338852913
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 52
+          },
+          {
+            "id": "perplexity",
+            "rate": 16
+          },
+          {
+            "id": "google-ai",
+            "rate": 44
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Goose",
+      "slug": "block-goose",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/block-goose",
       "presence": {
         "rate": 4,
         "rank": {
@@ -383,20 +446,20 @@
         }
       },
       "brandMention": {
-        "rate": 41.333333333333336,
+        "rate": 0,
         "rank": {
-          "position": 4,
-          "joint": false,
+          "position": 11,
+          "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 32.44084213359225,
-          "high": 50.829438388413614
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -406,7 +469,7 @@
           "citedPrompts": 2
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 4,
           "citedPrompts": 1
         }
@@ -415,18 +478,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 56.00000000000001
+            "rate": 0
           },
           {
             "id": "perplexity",
-            "rate": 20
+            "rate": 0
           },
           {
             "id": "google-ai",
-            "rate": 48
+            "rate": 0
           }
         ],
-        "spread": 36.00000000000001
+        "spread": 0
       }
     },
     {
@@ -446,30 +509,30 @@
         }
       },
       "brandMention": {
-        "rate": 20,
+        "rate": 26.666666666666668,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -482,20 +545,20 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 32
+            "rate": 48
           }
         ],
-        "spread": 32
+        "spread": 44
       }
     },
     {
-      "name": "Augment Code",
-      "slug": "augment-code",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/augment-code",
+      "name": "OpenCode",
+      "slug": "opencode",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/opencode",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -509,22 +572,85 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 13.333333333333334,
         "rank": {
-          "position": 9,
+          "position": 7,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 8.139402460564105,
+          "high": 21.08101513253759
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 24.000000000000004
+      }
+    },
+    {
+      "name": "Replit",
+      "slug": "replit-agent-3",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/replit-agent-3",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 3,
+          "joint": true,
+          "of": 17
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 11,
+          "joint": true,
+          "of": 17
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
@@ -532,9 +658,9 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -549,16 +675,16 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     },
     {
-      "name": "Droid (Factory)",
-      "slug": "factory-droid",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/factory-droid",
+      "name": "Warp",
+      "slug": "warp",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/warp",
       "presence": {
         "rate": 2.666666666666667,
         "rank": {
@@ -572,32 +698,32 @@
         }
       },
       "brandMention": {
-        "rate": 2.666666666666667,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 9,
+          "position": 7,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -608,24 +734,24 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 4
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     },
     {
-      "name": "Goose",
-      "slug": "block-goose",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/block-goose",
+      "name": "Augment Code",
+      "slug": "augment-code",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/augment-code",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -637,7 +763,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 13,
+          "position": 11,
           "joint": true,
           "of": 17
         },
@@ -648,9 +774,9 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
@@ -658,9 +784,9 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -682,13 +808,13 @@
       }
     },
     {
-      "name": "OpenCode",
-      "slug": "opencode",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/opencode",
+      "name": "Droid (Factory)",
+      "slug": "factory-droid",
+      "url": "https://devtune.ai/verticals/autonomous-coding-agents/factory-droid",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -698,60 +824,9 @@
         }
       },
       "brandMention": {
-        "rate": 12,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 24
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 24
-      }
-    },
-    {
-      "name": "Replit",
-      "slug": "replit-agent-3",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/replit-agent-3",
-      "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 10,
+          "position": 11,
           "joint": true,
           "of": 17
         },
@@ -760,31 +835,19 @@
           "high": 5.75820383579139
         }
       },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 13,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
       "platforms": [
         {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -793,7 +856,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "perplexity",
@@ -804,7 +867,7 @@
             "rate": 0
           }
         ],
-        "spread": 0
+        "spread": 4
       }
     },
     {
@@ -814,7 +877,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -826,7 +889,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 13,
+          "position": 11,
           "joint": true,
           "of": 17
         },
@@ -837,7 +900,7 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -847,7 +910,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -877,7 +940,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -889,7 +952,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 13,
+          "position": 11,
           "joint": true,
           "of": 17
         },
@@ -900,7 +963,7 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -910,7 +973,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -940,7 +1003,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -952,7 +1015,7 @@
       "brandMention": {
         "rate": 0,
         "rank": {
-          "position": 13,
+          "position": 11,
           "joint": true,
           "of": 17
         },
@@ -963,7 +1026,7 @@
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -973,7 +1036,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -1003,7 +1066,7 @@
       "presence": {
         "rate": 0,
         "rank": {
-          "position": 10,
+          "position": 12,
           "joint": true,
           "of": 17
         },
@@ -1013,20 +1076,20 @@
         }
       },
       "brandMention": {
-        "rate": 8,
+        "rate": 5.333333333333334,
         "rank": {
-          "position": 9,
+          "position": 7,
           "joint": true,
           "of": 17
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "platforms": [
         {
-          "id": "google-ai",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
@@ -1036,7 +1099,7 @@
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -1053,73 +1116,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 12
+            "rate": 4
           }
         ],
         "spread": 12
-      }
-    },
-    {
-      "name": "Warp",
-      "slug": "warp",
-      "url": "https://devtune.ai/verticals/autonomous-coding-agents/warp",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 10,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 1.3333333333333335,
-        "rank": {
-          "position": 9,
-          "joint": true,
-          "of": 17
-        },
-        "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
-        }
-      },
-      "platforms": [
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 4
       }
     }
   ],

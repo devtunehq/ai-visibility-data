@@ -9,38 +9,38 @@
     "name": "IDEs & Code Editors",
     "url": "https://devtune.ai/verticals/ides-code-editors"
   },
-  "dataUrl": "https://devtune.ai/verticals/ides-code-editors/data/2026-11-02.json",
+  "dataUrl": "https://devtune.ai/verticals/ides-code-editors/data/2026-11-09.json",
   "dataWindow": {
-    "start": "2026-11-02",
-    "end": "2026-11-02"
+    "start": "2026-11-09",
+    "end": "2026-11-09"
   },
-  "asOf": "2026-11-02",
-  "generatedAt": "2026-11-24T08:37:55.261Z",
+  "asOf": "2026-11-09",
+  "generatedAt": "2026-11-24T08:38:30.392Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, IDEs & Code Editors AI Search Visibility Rankings, https://devtune.ai/verticals/ides-code-editors, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-11-02). IDEs & Code Editors AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ides-code-editors",
-    "html": "DevTune. (2026-11-02). <cite>IDEs &amp; Code Editors AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ides-code-editors\">https://devtune.ai/verticals/ides-code-editors</a>",
-    "bibtex": "@misc{devtune-ides-code-editors-2026,\n  author = {DevTune},\n  title = {{IDEs \\& Code Editors AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-02},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ides-code-editors},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-09). IDEs & Code Editors AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ides-code-editors",
+    "html": "DevTune. (2026-11-09). <cite>IDEs &amp; Code Editors AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ides-code-editors\">https://devtune.ai/verticals/ides-code-editors</a>",
+    "bibtex": "@misc{devtune-ides-code-editors-2026,\n  author = {DevTune},\n  title = {{IDEs \\& Code Editors AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-09},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ides-code-editors},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-11-02"
-    },
-    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-11-02"
+      "responsesThrough": "2026-11-09"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-11-09"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-11-02"
+      "responsesThrough": "2026-11-09"
     }
   ],
   "counts": {
@@ -56,15 +56,15 @@
       "slug": "github-copilot",
       "url": "https://devtune.ai/verticals/ides-code-editors/github-copilot",
       "presence": {
-        "rate": 18.666666666666668,
+        "rate": 24,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
         }
       },
       "brandMention": {
@@ -81,14 +81,77 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 24,
           "citedPrompts": 6
         },
         {
+          "id": "chatgpt-search",
+          "presenceRate": 44,
+          "citedPrompts": 11
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 0
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 0
+      }
+    },
+    {
+      "name": "Cursor",
+      "slug": "cursor",
+      "url": "https://devtune.ai/verticals/ides-code-editors/cursor",
+      "presence": {
+        "rate": 20,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 13.507499682873695,
+          "high": 28.581932893300422
+        }
+      },
+      "brandMention": {
+        "rate": 0,
+        "rank": {
+          "position": 8,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "platforms": [
+        {
           "id": "perplexity",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
         },
         {
           "id": "google-ai",
@@ -115,9 +178,9 @@
       }
     },
     {
-      "name": "Cursor",
-      "slug": "cursor",
-      "url": "https://devtune.ai/verticals/ides-code-editors/cursor",
+      "name": "VS Code",
+      "slug": "vs-code",
+      "url": "https://devtune.ai/verticals/ides-code-editors/vs-code",
       "presence": {
         "rate": 17.333333333333336,
         "rank": {
@@ -144,14 +207,14 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "id": "perplexity",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
-          "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
         },
         {
           "id": "google-ai",
@@ -182,102 +245,39 @@
       "slug": "jetbrains",
       "url": "https://devtune.ai/verticals/ides-code-editors/jetbrains",
       "presence": {
-        "rate": 16,
+        "rate": 14.666666666666666,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 10.241017220745253,
-          "high": 24.127006365585412
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
         }
       },
       "brandMention": {
-        "rate": 34.66666666666667,
+        "rate": 40,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
+          "low": 31.199546327008047,
+          "high": 49.496931198383336
         }
       },
       "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 40
-          },
-          {
-            "id": "perplexity",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 11.999999999999996
-      }
-    },
-    {
-      "name": "VS Code",
-      "slug": "vs-code",
-      "url": "https://devtune.ai/verticals/ides-code-editors/vs-code",
-      "presence": {
-        "rate": 13.333333333333334,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 8.139402460564105,
-          "high": 21.08101513253759
-        }
-      },
-      "brandMention": {
-        "rate": 0,
-        "rank": {
-          "position": 8,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
-        },
         {
           "id": "perplexity",
           "presenceRate": 8,
           "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 36,
+          "citedPrompts": 9
         },
         {
           "id": "google-ai",
@@ -289,18 +289,18 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 0
+            "rate": 56.00000000000001
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 40
           }
         ],
-        "spread": 0
+        "spread": 32.00000000000001
       }
     },
     {
@@ -308,15 +308,15 @@
       "slug": "replit",
       "url": "https://devtune.ai/verticals/ides-code-editors/replit",
       "presence": {
-        "rate": 8,
+        "rate": 6.666666666666667,
         "rank": {
-          "position": 1,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
         }
       },
       "brandMention": {
@@ -333,14 +333,14 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "perplexity",
           "presenceRate": 12,
           "citedPrompts": 3
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -352,7 +352,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 12
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -360,20 +360,83 @@
           },
           {
             "id": "google-ai",
-            "rate": 8
+            "rate": 12
           }
         ],
         "spread": 8
       }
     },
     {
-      "name": "StackBlitz",
-      "slug": "stackblitz",
-      "url": "https://devtune.ai/verticals/ides-code-editors/stackblitz",
+      "name": "Windsurf",
+      "slug": "windsurf",
+      "url": "https://devtune.ai/verticals/ides-code-editors/windsurf",
+      "presence": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "brandMention": {
+        "rate": 29.333333333333332,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 36
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 44
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Gitpod",
+      "slug": "gitpod",
+      "url": "https://devtune.ai/verticals/ides-code-editors/gitpod",
       "presence": {
         "rate": 4,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 11
         },
@@ -383,27 +446,27 @@
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 26.666666666666668,
         "rank": {
-          "position": 4,
+          "position": 1,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 12,
+          "citedPrompts": 3
         },
         {
           "id": "google-ai",
@@ -415,58 +478,58 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 8
+            "rate": 20
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 24
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 36
           }
         ],
-        "spread": 4
+        "spread": 16
       }
     },
     {
-      "name": "CodeSandbox",
-      "slug": "codesandbox",
-      "url": "https://devtune.ai/verticals/ides-code-editors/codesandbox",
+      "name": "StackBlitz",
+      "slug": "stackblitz",
+      "url": "https://devtune.ai/verticals/ides-code-editors/stackblitz",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
-        "rate": 5.333333333333334,
+        "rate": 12,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
+          "low": 7.116443714576798,
+          "high": 19.530170881910415
         }
       },
       "platforms": [
         {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
           "id": "chatgpt-search",
           "presenceRate": 8,
           "citedPrompts": 2
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
         },
         {
           "id": "google-ai",
@@ -482,77 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 0
+            "rate": 4
           },
           {
             "id": "google-ai",
-            "rate": 0
+            "rate": 16
           }
         ],
-        "spread": 16
-      }
-    },
-    {
-      "name": "Windsurf",
-      "slug": "windsurf",
-      "url": "https://devtune.ai/verticals/ides-code-editors/windsurf",
-      "presence": {
-        "rate": 2.666666666666667,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
-        }
-      },
-      "brandMention": {
-        "rate": 25.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 12
-          },
-          {
-            "id": "google-ai",
-            "rate": 36
-          }
-        ],
-        "spread": 24
+        "spread": 12
       }
     },
     {
@@ -560,15 +560,15 @@
       "slug": "zed",
       "url": "https://devtune.ai/verticals/ides-code-editors/zed",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 4,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
         }
       },
       "brandMention": {
@@ -585,19 +585,19 @@
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
       ],
       "mentionConsensus": {
@@ -619,13 +619,13 @@
       }
     },
     {
-      "name": "Gitpod",
-      "slug": "gitpod",
-      "url": "https://devtune.ai/verticals/ides-code-editors/gitpod",
+      "name": "Tabnine",
+      "slug": "tabnine",
+      "url": "https://devtune.ai/verticals/ides-code-editors/tabnine",
       "presence": {
         "rate": 1.3333333333333335,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 11
         },
@@ -635,90 +635,27 @@
         }
       },
       "brandMention": {
-        "rate": 25.333333333333336,
-        "rank": {
-          "position": 1,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 18.030878865079046,
-          "high": 34.353765697553015
-        }
-      },
-      "platforms": [
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "perplexity",
-            "rate": 24
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 4.0000000000000036
-      }
-    },
-    {
-      "name": "Tabnine",
-      "slug": "tabnine",
-      "url": "https://devtune.ai/verticals/ides-code-editors/tabnine",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 11
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 8,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 11
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
         {
-          "id": "chatgpt-search",
+          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
@@ -730,7 +667,7 @@
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -742,6 +679,69 @@
           }
         ],
         "spread": 20
+      }
+    },
+    {
+      "name": "CodeSandbox",
+      "slug": "codesandbox",
+      "url": "https://devtune.ai/verticals/ides-code-editors/codesandbox",
+      "presence": {
+        "rate": 0,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0,
+          "high": 3.4823876269568546
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 11
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 8
       }
     }
   ],

@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "publisher": {
+    "name": "DevTune",
+    "url": "https://devtune.ai"
+  },
+  "vertical": {
+    "slug": "cloud-cost-management-finops",
+    "name": "Cloud Cost Management & FinOps",
+    "url": "https://devtune.ai/verticals/cloud-cost-management-finops"
+  },
+  "dataUrl": "https://devtune.ai/verticals/cloud-cost-management-finops/data/2026-11-09.json",
+  "dataWindow": {
+    "start": "2026-11-03",
+    "end": "2026-11-03"
+  },
+  "asOf": "2026-11-09",
+  "generatedAt": "2026-11-24T08:38:14.516Z",
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "DevTune, Cloud Cost Management & FinOps AI Search Visibility Rankings, https://devtune.ai/verticals/cloud-cost-management-finops, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+  },
+  "citation": {
+    "text": "DevTune. (2026-11-03). Cloud Cost Management & FinOps AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/cloud-cost-management-finops",
+    "html": "DevTune. (2026-11-03). <cite>Cloud Cost Management &amp; FinOps AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/cloud-cost-management-finops\">https://devtune.ai/verticals/cloud-cost-management-finops</a>",
+    "bibtex": "@misc{devtune-cloud-cost-management-finops-2026,\n  author = {DevTune},\n  title = {{Cloud Cost Management \\& FinOps AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-03},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/cloud-cost-management-finops},\n  note = {Licensed under CC BY 4.0}\n}"
+  },
+  "platforms": [
+    {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-11-03"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "responsesThrough": "2026-11-03"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-11-03"
+    }
+  ],
+  "counts": {
+    "prompts": 25,
+    "promptPlatformPairs": 75,
+    "answers": 75,
+    "brands": 8,
+    "brandsRanked": 8
+  },
+  "brands": [
+    {
+      "name": "CloudZero",
+      "slug": "cloudzero",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/cloudzero",
+      "presence": {
+        "rate": 28.000000000000004,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
+        }
+      },
+      "brandMention": {
+        "rate": 56.00000000000001,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 46.52554604878774,
+          "high": 65.05656743597746
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 68,
+          "citedPrompts": 17
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 88
+          },
+          {
+            "id": "perplexity",
+            "rate": 24
+          },
+          {
+            "id": "google-ai",
+            "rate": 56.00000000000001
+          }
+        ],
+        "spread": 64
+      }
+    },
+    {
+      "name": "Vantage",
+      "slug": "vantage",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/vantage",
+      "presence": {
+        "rate": 24,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 16.884290120190904,
+          "high": 32.92655144582667
+        }
+      },
+      "brandMention": {
+        "rate": 58.666666666666664,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 49.17056161158639,
+          "high": 67.55915786640776
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 36,
+          "citedPrompts": 9
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 72
+          },
+          {
+            "id": "perplexity",
+            "rate": 36
+          },
+          {
+            "id": "google-ai",
+            "rate": 68
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Finout",
+      "slug": "finout",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/finout",
+      "presence": {
+        "rate": 16,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "brandMention": {
+        "rate": 48,
+        "rank": {
+          "position": 1,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 38.74627679680233,
+          "high": 57.39301870827595
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 60
+          },
+          {
+            "id": "perplexity",
+            "rate": 32
+          },
+          {
+            "id": "google-ai",
+            "rate": 52
+          }
+        ],
+        "spread": 28
+      }
+    },
+    {
+      "name": "Infracost",
+      "slug": "infracost",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/infracost",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 14.666666666666666,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 9.18160530019725,
+          "high": 22.612615289518928
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 8
+          },
+          {
+            "id": "google-ai",
+            "rate": 24
+          }
+        ],
+        "spread": 16
+      }
+    },
+    {
+      "name": "nOps",
+      "slug": "nops",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/nops",
+      "presence": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "brandMention": {
+        "rate": 6.666666666666667,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 3.2823001137595558,
+          "high": 13.069102496269716
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 12
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 4
+          }
+        ],
+        "spread": 8
+      }
+    },
+    {
+      "name": "Economize",
+      "slug": "economize",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/economize",
+      "presence": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 8,
+          "joint": false,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 4
+          },
+          {
+            "id": "perplexity",
+            "rate": 4
+          },
+          {
+            "id": "google-ai",
+            "rate": 0
+          }
+        ],
+        "spread": 4
+      }
+    },
+    {
+      "name": "Kubecost",
+      "slug": "kubecost",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/kubecost",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 38.666666666666664,
+        "rank": {
+          "position": 4,
+          "joint": false,
+          "of": 8
+        },
+        "range90": {
+          "low": 29.965045596143597,
+          "high": 48.157628932633294
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 48
+          },
+          {
+            "id": "perplexity",
+            "rate": 28.000000000000004
+          },
+          {
+            "id": "google-ai",
+            "rate": 40
+          }
+        ],
+        "spread": 19.999999999999996
+      }
+    },
+    {
+      "name": "ProsperOps",
+      "slug": "prosperops",
+      "url": "https://devtune.ai/verticals/cloud-cost-management-finops/prosperops",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 5.333333333333334,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 8
+          }
+        ],
+        "spread": 8
+      }
+    }
+  ],
+  "fields": {
+    "schemaVersion": "Version of this file's layout. It changes only when a field is renamed, removed or changes meaning.",
+    "publisher": "Who publishes the data.",
+    "vertical": "The category: slug, name and the page the figures come from.",
+    "dataUrl": "This file.",
+    "dataWindow": "The oldest and newest logical report days of the latest run on each platform, YYYY-MM-DD. Every figure comes from those runs.",
+    "asOf": "null on the live file. On a file recomputed for a past date, that date, YYYY-MM-DD: its figures are recomputed with the current method from each platform's latest stored run on or before that date, over the prompts those runs asked and the brands on the page today that were listed by that date.",
+    "generatedAt": "When this file was assembled from the cached page data, ISO 8601 UTC.",
+    "license": "CC BY 4.0: reuse with the attribution text.",
+    "citation": "The citation as plain text, HTML and BibTeX.",
+    "platforms": "The AI platforms in the data, each with the logical report day of its latest run.",
+    "counts.prompts": "Prompts in the vertical's benchmark. null when the page's figures are unavailable.",
+    "counts.promptPlatformPairs": "Prompts × platforms: the denominator of the overall presence and brand mention rates (brands[].presence.rate, brands[].brandMention.rate). The per-platform presenceRate in brands[].platforms divides by counts.prompts instead. null when the page's figures are unavailable.",
+    "counts.answers": "AI answers behind the figures: successful responses to the prompts in counts.prompts in each platform's latest run. Fewer than promptPlatformPairs when a run is partial; a pair without an answer still counts in the denominator. null when the page's figures are unavailable.",
+    "counts.brands": "Brands listed on the page.",
+    "counts.brandsRanked": "Brands ranked by presence rate.",
+    "brands": "Every brand on the page, in the order of its presence rate leaderboard.",
+    "brands[].url": "The brand's report page.",
+    "brands[].presence.rate": "Presence rate: the share of prompt × platform pairs whose AI answer cites a URL on the brand's own domain, 0–100, unrounded (the page prints one decimal). null where the page shows Unmeasured.",
+    "brands[].presence.rank": "The brand's place on the page's presence rate leaderboard: position, joint (true when it shares the position because its 90% range overlaps the top brand's at that position) and of (brands ranked). null for an unranked brand.",
+    "brands[].presence.range90": "The 90% likely range of the rate, 0–100, that the leaderboard draws and ranks on. null without a rank.",
+    "brands[].brandMention.rate": "Brand mention rate: the share of prompt × platform pairs whose AI answer names the brand, 0–100, unrounded (the page prints one decimal). null where the page shows Unmeasured.",
+    "brands[].brandMention.rank": "The brand's place on the page's brand mention rate leaderboard: position, joint (true when it shares the position because its 90% range overlaps the top brand's at that position) and of (brands ranked). null for an unranked brand.",
+    "brands[].brandMention.range90": "The 90% likely range of the rate, 0–100, that the leaderboard draws and ranks on. null without a rank.",
+    "brands[].platforms": "The brand report's platform breakdown: per platform, the prompts whose answer cites the brand's own domain (citedPrompts) and their share of all prompts in counts.prompts (presenceRate, 0–100). null where the page shows no breakdown.",
+    "brands[].mentionConsensus": "The page's mention consensus chart: per platform, the share of the vertical's prompts whose answer names the brand (rate, 0–100, unrounded), and spread, the highest platform rate minus the lowest. A rate is null where the platform's latest run didn't answer every prompt; spread is null with fewer than two rates. null for a brand the chart doesn't show."
+  }
+}
