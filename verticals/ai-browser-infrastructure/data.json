@@ -9,38 +9,38 @@
     "name": "AI Browser Infrastructure",
     "url": "https://devtune.ai/verticals/ai-browser-infrastructure"
   },
-  "dataUrl": "https://devtune.ai/verticals/ai-browser-infrastructure/data/2026-11-09.json",
+  "dataUrl": "https://devtune.ai/verticals/ai-browser-infrastructure/data/2026-11-16.json",
   "dataWindow": {
-    "start": "2026-11-05",
-    "end": "2026-11-05"
+    "start": "2026-11-12",
+    "end": "2026-11-12"
   },
-  "asOf": "2026-11-09",
-  "generatedAt": "2026-11-24T08:38:40.421Z",
+  "asOf": "2026-11-16",
+  "generatedAt": "2026-11-24T08:39:14.328Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, AI Browser Infrastructure AI Search Visibility Rankings, https://devtune.ai/verticals/ai-browser-infrastructure, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-11-05). AI Browser Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-browser-infrastructure",
-    "html": "DevTune. (2026-11-05). <cite>AI Browser Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-browser-infrastructure\">https://devtune.ai/verticals/ai-browser-infrastructure</a>",
-    "bibtex": "@misc{devtune-ai-browser-infrastructure-2026,\n  author = {DevTune},\n  title = {{AI Browser Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-05},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-browser-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-12). AI Browser Infrastructure AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/ai-browser-infrastructure",
+    "html": "DevTune. (2026-11-12). <cite>AI Browser Infrastructure AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/ai-browser-infrastructure\">https://devtune.ai/verticals/ai-browser-infrastructure</a>",
+    "bibtex": "@misc{devtune-ai-browser-infrastructure-2026,\n  author = {DevTune},\n  title = {{AI Browser Infrastructure AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-12},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/ai-browser-infrastructure},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
+      "id": "google-ai",
+      "name": "Gemini Search",
+      "responsesThrough": "2026-11-12"
+    },
+    {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-11-05"
+      "responsesThrough": "2026-11-12"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-11-05"
-    },
-    {
-      "id": "google-ai",
-      "name": "Gemini Search",
-      "responsesThrough": "2026-11-05"
+      "responsesThrough": "2026-11-12"
     }
   ],
   "counts": {
@@ -56,51 +56,51 @@
       "slug": "browserbase",
       "url": "https://devtune.ai/verticals/ai-browser-infrastructure/browserbase",
       "presence": {
-        "rate": 54.666666666666664,
+        "rate": 58.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 45.21288439463637,
-          "high": 63.79542609351433
+          "low": 49.17056161158639,
+          "high": 67.55915786640776
         }
       },
       "brandMention": {
-        "rate": 90.66666666666666,
+        "rate": 92,
         "rank": {
           "position": 1,
           "joint": false,
           "of": 8
         },
         "range90": {
-          "low": 83.64030156851496,
-          "high": 94.8606898282268
+          "low": 85.2677122065969,
+          "high": 95.80708218675936
         }
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 92,
-          "citedPrompts": 23
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
-        },
-        {
           "id": "google-ai",
           "presenceRate": 16,
           "citedPrompts": 4
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 84,
+          "citedPrompts": 21
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 76,
+          "citedPrompts": 19
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 100
+            "rate": 96
           },
           {
             "id": "perplexity",
@@ -108,10 +108,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 92
           }
         ],
-        "spread": 16
+        "spread": 8
       }
     },
     {
@@ -119,62 +119,62 @@
       "slug": "browserless",
       "url": "https://devtune.ai/verticals/ai-browser-infrastructure/browserless",
       "presence": {
-        "rate": 36,
+        "rate": 42.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 27.516921101031134,
-          "high": 45.458147434516796
+          "low": 33.68883232637309,
+          "high": 52.15525119224726
         }
       },
       "brandMention": {
-        "rate": 50.66666666666667,
+        "rate": 56.00000000000001,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
+          "low": 46.52554604878774,
+          "high": 65.05656743597746
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 68,
+          "citedPrompts": 17
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 72
+            "rate": 76
           },
           {
             "id": "perplexity",
-            "rate": 48
+            "rate": 44
           },
           {
             "id": "google-ai",
-            "rate": 32
+            "rate": 48
           }
         ],
-        "spread": 40
+        "spread": 32
       }
     },
     {
@@ -182,78 +182,15 @@
       "slug": "steel",
       "url": "https://devtune.ai/verticals/ai-browser-infrastructure/steel",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 38.666666666666664,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
-        }
-      },
-      "brandMention": {
-        "rate": 52,
-        "rank": {
-          "position": 2,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 52,
-          "citedPrompts": 13
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
-            "rate": 28.000000000000004
-          },
-          {
-            "id": "google-ai",
-            "rate": 48
-          }
-        ],
-        "spread": 52
-      }
-    },
-    {
-      "name": "Browser Use",
-      "slug": "browser-use",
-      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/browser-use",
-      "presence": {
-        "rate": 24,
-        "rank": {
-          "position": 3,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 29.965045596143597,
+          "high": 48.157628932633294
         }
       },
       "brandMention": {
@@ -270,100 +207,100 @@
       },
       "platforms": [
         {
-          "id": "perplexity",
-          "presenceRate": 44,
-          "citedPrompts": 11
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
           "id": "google-ai",
           "presenceRate": 8,
           "citedPrompts": 2
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 36,
+          "citedPrompts": 9
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 72,
+          "citedPrompts": 18
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 68
+            "rate": 80
           },
           {
             "id": "perplexity",
-            "rate": 52
+            "rate": 40
           },
           {
             "id": "google-ai",
             "rate": 40
           }
         ],
-        "spread": 28
+        "spread": 40
       }
     },
     {
-      "name": "Stagehand",
-      "slug": "stagehand",
-      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/stagehand",
+      "name": "Browser Use",
+      "slug": "browser-use",
+      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/browser-use",
       "presence": {
-        "rate": 12,
+        "rate": 33.33333333333333,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 25.097652013553795,
+          "high": 42.729810528765164
         }
       },
       "brandMention": {
-        "rate": 60,
+        "rate": 69.33333333333334,
         "rank": {
           "position": 2,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
+          "low": 60.028931546955036,
+          "high": 77.29121190395499
         }
       },
       "platforms": [
         {
+          "id": "google-ai",
+          "presenceRate": 24,
+          "citedPrompts": 6
+        },
+        {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 44,
+          "citedPrompts": 11
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 16,
-          "citedPrompts": 4
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 32,
+          "citedPrompts": 8
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 76
           },
           {
             "id": "perplexity",
-            "rate": 44
+            "rate": 48
           },
           {
             "id": "google-ai",
-            "rate": 48
+            "rate": 84
           }
         ],
-        "spread": 44
+        "spread": 36
       }
     },
     {
@@ -371,30 +308,35 @@
       "slug": "hyperbrowser",
       "url": "https://devtune.ai/verticals/ai-browser-infrastructure/hyperbrowser",
       "presence": {
-        "rate": 8,
+        "rate": 16,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
         }
       },
       "brandMention": {
-        "rate": 22.666666666666664,
+        "rate": 26.666666666666668,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 19.18704229543285,
+          "high": 35.77140526381369
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
         {
           "id": "perplexity",
           "presenceRate": 4,
@@ -402,20 +344,15 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 36,
+          "citedPrompts": 9
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 48
+            "rate": 60
           },
           {
             "id": "perplexity",
@@ -426,29 +363,17 @@
             "rate": 16
           }
         ],
-        "spread": 44
+        "spread": 56
       }
     },
     {
-      "name": "Skyvern",
-      "slug": "skyvern",
-      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/skyvern",
+      "name": "Stagehand",
+      "slug": "stagehand",
+      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/stagehand",
       "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 6,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
         "rate": 13.333333333333334,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 8
         },
@@ -457,7 +382,87 @@
           "high": 21.08101513253759
         }
       },
+      "brandMention": {
+        "rate": 61.33333333333333,
+        "rank": {
+          "position": 2,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 51.8423710673667,
+          "high": 70.0349544038564
+        }
+      },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "perplexity",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 84
+          },
+          {
+            "id": "perplexity",
+            "rate": 52
+          },
+          {
+            "id": "google-ai",
+            "rate": 48
+          }
+        ],
+        "spread": 36
+      }
+    },
+    {
+      "name": "Skyvern",
+      "slug": "skyvern",
+      "url": "https://devtune.ai/verticals/ai-browser-infrastructure/skyvern",
+      "presence": {
+        "rate": 8,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
+        }
+      },
+      "brandMention": {
+        "rate": 16,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 10.241017220745253,
+          "high": 24.127006365585412
+        }
+      },
+      "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
         {
           "id": "perplexity",
           "presenceRate": 4,
@@ -465,13 +470,8 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 16,
+          "citedPrompts": 4
         }
       ],
       "mentionConsensus": {
@@ -486,10 +486,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 16
+            "rate": 24
           }
         ],
-        "spread": 16
+        "spread": 20
       }
     },
     {
@@ -509,18 +509,23 @@
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
           "position": 8,
           "joint": false,
           "of": 8
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "platforms": [
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
         {
           "id": "perplexity",
           "presenceRate": 0,
@@ -528,11 +533,6 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -549,10 +549,10 @@
           },
           {
             "id": "google-ai",
-            "rate": 4
+            "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 0
       }
     }
   ],

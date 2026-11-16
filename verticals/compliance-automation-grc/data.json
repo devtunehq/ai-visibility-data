@@ -9,38 +9,38 @@
     "name": "Compliance Automation & GRC",
     "url": "https://devtune.ai/verticals/compliance-automation-grc"
   },
-  "dataUrl": "https://devtune.ai/verticals/compliance-automation-grc/data/2026-11-09.json",
+  "dataUrl": "https://devtune.ai/verticals/compliance-automation-grc/data/2026-11-16.json",
   "dataWindow": {
-    "start": "2026-11-08",
-    "end": "2026-11-08"
+    "start": "2026-11-15",
+    "end": "2026-11-15"
   },
-  "asOf": "2026-11-09",
-  "generatedAt": "2026-11-24T08:38:15.428Z",
+  "asOf": "2026-11-16",
+  "generatedAt": "2026-11-24T08:38:48.480Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Compliance Automation & GRC AI Search Visibility Rankings, https://devtune.ai/verticals/compliance-automation-grc, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-11-08). Compliance Automation & GRC AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/compliance-automation-grc",
-    "html": "DevTune. (2026-11-08). <cite>Compliance Automation &amp; GRC AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/compliance-automation-grc\">https://devtune.ai/verticals/compliance-automation-grc</a>",
-    "bibtex": "@misc{devtune-compliance-automation-grc-2026,\n  author = {DevTune},\n  title = {{Compliance Automation \\& GRC AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-08},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/compliance-automation-grc},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-15). Compliance Automation & GRC AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/compliance-automation-grc",
+    "html": "DevTune. (2026-11-15). <cite>Compliance Automation &amp; GRC AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/compliance-automation-grc\">https://devtune.ai/verticals/compliance-automation-grc</a>",
+    "bibtex": "@misc{devtune-compliance-automation-grc-2026,\n  author = {DevTune},\n  title = {{Compliance Automation \\& GRC AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-15},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/compliance-automation-grc},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-11-08"
-    },
-    {
-      "id": "chatgpt-search",
-      "name": "ChatGPT Search",
-      "responsesThrough": "2026-11-08"
+      "responsesThrough": "2026-11-15"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-11-08"
+      "responsesThrough": "2026-11-15"
+    },
+    {
+      "id": "chatgpt-search",
+      "name": "ChatGPT Search",
+      "responsesThrough": "2026-11-15"
     }
   ],
   "counts": {
@@ -56,62 +56,62 @@
       "slug": "vanta",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/vanta",
       "presence": {
-        "rate": 50.66666666666667,
+        "rate": 54.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 41.31367302541308,
-          "high": 59.97322847289417
+          "low": 45.21288439463637,
+          "high": 63.79542609351433
         }
       },
       "brandMention": {
-        "rate": 89.33333333333333,
+        "rate": 90.66666666666666,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 82.04249041288647,
-          "high": 93.8846979872408
+          "low": 83.64030156851496,
+          "high": 94.8606898282268
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 76,
-          "citedPrompts": 19
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 68,
-          "citedPrompts": 17
+          "presenceRate": 88,
+          "citedPrompts": 22
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 72,
+          "citedPrompts": 18
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 88
+            "rate": 92
           },
           {
             "id": "perplexity",
-            "rate": 96
+            "rate": 92
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 88
           }
         ],
-        "spread": 12
+        "spread": 4
       }
     },
     {
@@ -119,27 +119,27 @@
       "slug": "drata",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/drata",
       "presence": {
-        "rate": 49.333333333333336,
+        "rate": 52,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 40.02677152710584,
-          "high": 58.68632697458693
+          "low": 42.60698129172405,
+          "high": 61.25372320319769
         }
       },
       "brandMention": {
-        "rate": 89.33333333333333,
+        "rate": 88,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 82.04249041288647,
-          "high": 93.8846979872408
+          "low": 80.46982911808959,
+          "high": 92.88355628542321
         }
       },
       "platforms": [
@@ -149,14 +149,14 @@
           "citedPrompts": 19
         },
         {
+          "id": "google-ai",
+          "presenceRate": 16,
+          "citedPrompts": 4
+        },
+        {
           "id": "chatgpt-search",
           "presenceRate": 64,
           "citedPrompts": 16
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
@@ -167,14 +167,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 92
+            "rate": 80
           },
           {
             "id": "google-ai",
-            "rate": 84
+            "rate": 92
           }
         ],
-        "spread": 8
+        "spread": 12
       }
     },
     {
@@ -182,62 +182,62 @@
       "slug": "secureframe",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/secureframe",
       "presence": {
-        "rate": 26.666666666666668,
+        "rate": 29.333333333333332,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 19.18704229543285,
-          "high": 35.77140526381369
+          "low": 21.526363604809575,
+          "high": 38.57968994766594
         }
       },
       "brandMention": {
-        "rate": 65.33333333333333,
+        "rate": 66.66666666666666,
         "rank": {
           "position": 3,
           "joint": false,
           "of": 8
         },
         "range90": {
-          "low": 55.90232669842785,
-          "high": 73.6964077626387
+          "low": 57.27018947123484,
+          "high": 74.9023479864462
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 24,
-          "citedPrompts": 6
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
+          "presenceRate": 48,
+          "citedPrompts": 12
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 76
+            "rate": 80
           },
           {
             "id": "perplexity",
-            "rate": 56.00000000000001
+            "rate": 68
           },
           {
             "id": "google-ai",
-            "rate": 64
+            "rate": 52
           }
         ],
-        "spread": 19.999999999999993
+        "spread": 28
       }
     },
     {
@@ -245,62 +245,62 @@
       "slug": "sprinto",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/sprinto",
       "presence": {
-        "rate": 20,
+        "rate": 17.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 13.507499682873695,
-          "high": 28.581932893300422
+          "low": 11.315996552902774,
+          "high": 25.625830030042373
         }
       },
       "brandMention": {
-        "rate": 44,
+        "rate": 34.66666666666667,
         "rank": {
           "position": 4,
-          "joint": false,
+          "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 34.94343256402256,
-          "high": 53.474453951212276
+          "low": 26.3035922373613,
+          "high": 44.097673301572144
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 32,
-          "citedPrompts": 8
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 40,
+          "citedPrompts": 10
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 64
+            "rate": 68
           },
           {
             "id": "perplexity",
-            "rate": 16
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 52
+            "rate": 28.000000000000004
           }
         ],
-        "spread": 48
+        "spread": 60
       }
     },
     {
@@ -308,44 +308,44 @@
       "slug": "thoropass",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/thoropass",
       "presence": {
-        "rate": 4,
+        "rate": 8,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 1.6095998879448896,
-          "high": 9.594196728855417
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "brandMention": {
-        "rate": 18.666666666666668,
+        "rate": 21.333333333333336,
         "rank": {
-          "position": 5,
+          "position": 4,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 12.405197089739277,
-          "high": 27.11043248982035
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 20,
+          "citedPrompts": 5
         }
       ],
       "mentionConsensus": {
@@ -356,42 +356,42 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
-            "rate": 20
+            "rate": 24
           }
         ],
-        "spread": 28
+        "spread": 24
       }
     },
     {
-      "name": "Oneleet",
-      "slug": "oneleet",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/oneleet",
+      "name": "Scrut",
+      "slug": "scrut",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/scrut",
       "presence": {
-        "rate": 2.666666666666667,
+        "rate": 5.333333333333334,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 0.8863348533708175,
-          "high": 7.743658766815006
+          "low": 2.4164777983612455,
+          "high": 11.361121815053547
         }
       },
       "brandMention": {
-        "rate": 1.3333333333333335,
+        "rate": 10.666666666666668,
         "rank": {
-          "position": 8,
-          "joint": false,
+          "position": 6,
+          "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
@@ -401,21 +401,84 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
+          "id": "google-ai",
           "presenceRate": 8,
           "citedPrompts": 2
         },
         {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
       ],
       "mentionConsensus": {
         "platforms": [
           {
             "id": "chatgpt-search",
-            "rate": 4
+            "rate": 20
+          },
+          {
+            "id": "perplexity",
+            "rate": 0
+          },
+          {
+            "id": "google-ai",
+            "rate": 12
+          }
+        ],
+        "spread": 20
+      }
+    },
+    {
+      "name": "Oneleet",
+      "slug": "oneleet",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/oneleet",
+      "presence": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
+        }
+      },
+      "brandMention": {
+        "rate": 2.666666666666667,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 0.8863348533708175,
+          "high": 7.743658766815006
+        }
+      },
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        }
+      ],
+      "mentionConsensus": {
+        "platforms": [
+          {
+            "id": "chatgpt-search",
+            "rate": 8
           },
           {
             "id": "perplexity",
@@ -426,29 +489,29 @@
             "rate": 0
           }
         ],
-        "spread": 4
+        "spread": 8
       }
     },
     {
-      "name": "Scrut",
-      "slug": "scrut",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/scrut",
+      "name": "Scytale",
+      "slug": "scytale",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/scytale",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 0,
         "rank": {
-          "position": 5,
-          "joint": true,
+          "position": 8,
+          "joint": false,
           "of": 8
         },
         "range90": {
-          "low": 0.29798678777994864,
-          "high": 5.75820383579139
+          "low": 0,
+          "high": 3.4823876269568546
         }
       },
       "brandMention": {
         "rate": 9.333333333333334,
         "rank": {
-          "position": 5,
+          "position": 6,
           "joint": true,
           "of": 8
         },
@@ -464,75 +527,12 @@
           "citedPrompts": 0
         },
         {
-          "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
           "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 20
-      }
-    },
-    {
-      "name": "Scytale",
-      "slug": "scytale",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/scytale",
-      "presence": {
-        "rate": 0,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
-        }
-      },
-      "brandMention": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         }
@@ -545,14 +545,14 @@
           },
           {
             "id": "perplexity",
-            "rate": 4
+            "rate": 8
           },
           {
             "id": "google-ai",
             "rate": 8
           }
         ],
-        "spread": 8
+        "spread": 4
       }
     }
   ],
