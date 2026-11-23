@@ -9,38 +9,37 @@
     "name": "Version Control & Code Collaboration",
     "url": "https://devtune.ai/verticals/version-control-code-collaboration"
   },
-  "dataUrl": "https://devtune.ai/verticals/version-control-code-collaboration/data/2026-11-16.json",
+  "dataUrl": "https://devtune.ai/verticals/version-control-code-collaboration/data.json",
   "dataWindow": {
-    "start": "2026-11-12",
-    "end": "2026-11-12"
+    "start": "2026-11-19",
+    "end": "2026-11-19"
   },
-  "asOf": "2026-11-16",
-  "generatedAt": "2026-11-24T08:39:00.973Z",
+  "generatedAt": "2026-11-23T21:49:39.594Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Version Control & Code Collaboration AI Search Visibility Rankings, https://devtune.ai/verticals/version-control-code-collaboration, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-11-12). Version Control & Code Collaboration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/version-control-code-collaboration",
-    "html": "DevTune. (2026-11-12). <cite>Version Control &amp; Code Collaboration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/version-control-code-collaboration\">https://devtune.ai/verticals/version-control-code-collaboration</a>",
-    "bibtex": "@misc{devtune-version-control-code-collaboration-2026,\n  author = {DevTune},\n  title = {{Version Control \\& Code Collaboration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-12},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/version-control-code-collaboration},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-19). Version Control & Code Collaboration AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/version-control-code-collaboration",
+    "html": "DevTune. (2026-11-19). <cite>Version Control &amp; Code Collaboration AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/version-control-code-collaboration\">https://devtune.ai/verticals/version-control-code-collaboration</a>",
+    "bibtex": "@misc{devtune-version-control-code-collaboration-2026,\n  author = {DevTune},\n  title = {{Version Control \\& Code Collaboration AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-19},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/version-control-code-collaboration},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-11-12"
+      "responsesThrough": "2026-11-19"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-11-12"
+      "responsesThrough": "2026-11-19"
     },
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-11-12"
+      "responsesThrough": "2026-11-19"
     }
   ],
   "counts": {
@@ -56,63 +55,46 @@
       "slug": "github",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/github",
       "presence": {
-        "rate": 58.666666666666664,
+        "rate": 61.33333333333333,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 49.17056161158639,
-          "high": 67.55915786640776
+          "low": 51.8423710673667,
+          "high": 70.0349544038564
         }
       },
       "brandMention": {
-        "rate": 94.66666666666667,
+        "rate": 90.66666666666666,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 88.63887818494646,
-          "high": 97.58352220163876
+          "low": 83.64030156851496,
+          "high": 94.8606898282268
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 80,
-          "citedPrompts": 20
+          "presenceRate": 92,
+          "citedPrompts": 23
         },
         {
           "id": "google-ai",
-          "presenceRate": 12,
-          "citedPrompts": 3
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "perplexity",
           "presenceRate": 84,
           "citedPrompts": 21
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 96
-          },
-          {
-            "id": "perplexity",
-            "rate": 92
-          },
-          {
-            "id": "google-ai",
-            "rate": 96
-          }
-        ],
-        "spread": 4
-      }
+      ]
     },
     {
       "name": "GitLab",
@@ -131,66 +113,49 @@
         }
       },
       "brandMention": {
-        "rate": 84,
+        "rate": 86.66666666666667,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 75.87299363441458,
-          "high": 89.75898277925475
+          "low": 78.91898486746241,
+          "high": 91.8605975394359
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 72,
-          "citedPrompts": 18
+          "presenceRate": 80,
+          "citedPrompts": 20
         },
         {
           "id": "google-ai",
-          "presenceRate": 24,
-          "citedPrompts": 6
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "perplexity",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 72,
+          "citedPrompts": 18
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 88
-          },
-          {
-            "id": "perplexity",
-            "rate": 72
-          },
-          {
-            "id": "google-ai",
-            "rate": 92
-          }
-        ],
-        "spread": 20
-      }
+      ]
     },
     {
       "name": "Azure DevOps",
       "slug": "azure-devops",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/azure-devops",
       "presence": {
-        "rate": 24,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 16.884290120190904,
-          "high": 32.92655144582667
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "brandMention": {
@@ -208,8 +173,8 @@
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 56.00000000000001,
-          "citedPrompts": 14
+          "presenceRate": 52,
+          "citedPrompts": 13
         },
         {
           "id": "google-ai",
@@ -218,61 +183,44 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 12,
+          "citedPrompts": 3
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 0
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 0
-      }
+      ]
     },
     {
       "name": "Bitbucket",
       "slug": "bitbucket",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/bitbucket",
       "presence": {
-        "rate": 22.666666666666664,
+        "rate": 21.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 15.747788112349886,
-          "high": 31.489250457053192
+          "low": 14.621963133380959,
+          "high": 30.041272439407642
         }
       },
       "brandMention": {
-        "rate": 60,
+        "rate": 62.66666666666667,
         "rank": {
           "position": 3,
           "joint": false,
           "of": 7
         },
         "range90": {
-          "low": 50.50306880161667,
-          "high": 68.80045367299196
+          "low": 53.18858661147089,
+          "high": 71.26254185636672
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 44,
-          "citedPrompts": 11
+          "presenceRate": 40,
+          "citedPrompts": 10
         },
         {
           "id": "google-ai",
@@ -284,45 +232,16 @@
           "presenceRate": 24,
           "citedPrompts": 6
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
-            "rate": 40
-          },
-          {
-            "id": "google-ai",
-            "rate": 60
-          }
-        ],
-        "spread": 40
-      }
+      ]
     },
     {
       "name": "Sourcegraph",
       "slug": "sourcegraph",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/sourcegraph",
       "presence": {
-        "rate": 6.666666666666667,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 7
-        },
-        "range90": {
-          "low": 3.2823001137595558,
-          "high": 13.069102496269716
-        }
-      },
-      "brandMention": {
         "rate": 5.333333333333334,
         "rank": {
-          "position": 4,
+          "position": 5,
           "joint": true,
           "of": 7
         },
@@ -331,40 +250,35 @@
           "high": 11.361121815053547
         }
       },
+      "brandMention": {
+        "rate": 4,
+        "rank": {
+          "position": 4,
+          "joint": true,
+          "of": 7
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 4
-          },
-          {
-            "id": "google-ai",
-            "rate": 4
-          }
-        ],
-        "spread": 4
-      }
+      ]
     },
     {
       "name": "Gitea",
@@ -383,22 +297,22 @@
         }
       },
       "brandMention": {
-        "rate": 12,
+        "rate": 10.666666666666668,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 7.116443714576798,
-          "high": 19.530170881910415
+          "low": 6.1153020127592015,
+          "high": 17.957509587113528
         }
       },
       "platforms": [
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         },
         {
           "id": "google-ai",
@@ -407,54 +321,37 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 12
-      }
+      ]
     },
     {
       "name": "Graphite",
       "slug": "graphite",
       "url": "https://devtune.ai/verticals/version-control-code-collaboration/graphite",
       "presence": {
-        "rate": 0,
+        "rate": 1.3333333333333335,
         "rank": {
           "position": 5,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 0,
-          "high": 3.4823876269568546
+          "low": 0.29798678777994864,
+          "high": 5.75820383579139
         }
       },
       "brandMention": {
-        "rate": 14.666666666666666,
+        "rate": 9.333333333333334,
         "rank": {
           "position": 4,
           "joint": true,
           "of": 7
         },
         "range90": {
-          "low": 9.18160530019725,
-          "high": 22.612615289518928
+          "low": 5.139310171773201,
+          "high": 16.359698431485043
         }
       },
       "platforms": [
@@ -470,27 +367,10 @@
         },
         {
           "id": "perplexity",
-          "presenceRate": 0,
-          "citedPrompts": 0
+          "presenceRate": 4,
+          "citedPrompts": 1
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 16
-          }
-        ],
-        "spread": 12
-      }
+      ]
     }
   ],
   "fields": {
@@ -499,14 +379,13 @@
     "vertical": "The category: slug, name and the page the figures come from.",
     "dataUrl": "This file.",
     "dataWindow": "The oldest and newest logical report days of the latest run on each platform, YYYY-MM-DD. Every figure comes from those runs.",
-    "asOf": "null on the live file. On a file recomputed for a past date, that date, YYYY-MM-DD: its figures are recomputed with the current method from each platform's latest stored run on or before that date, over the prompts those runs asked and the brands on the page today that were listed by that date.",
     "generatedAt": "When this file was assembled from the cached page data, ISO 8601 UTC.",
     "license": "CC BY 4.0: reuse with the attribution text.",
     "citation": "The citation as plain text, HTML and BibTeX.",
     "platforms": "The AI platforms in the data, each with the logical report day of its latest run.",
     "counts.prompts": "Prompts in the vertical's benchmark. null when the page's figures are unavailable.",
     "counts.promptPlatformPairs": "Prompts × platforms: the denominator of the overall presence and brand mention rates (brands[].presence.rate, brands[].brandMention.rate). The per-platform presenceRate in brands[].platforms divides by counts.prompts instead. null when the page's figures are unavailable.",
-    "counts.answers": "AI answers behind the figures: successful responses to the prompts in counts.prompts in each platform's latest run. Fewer than promptPlatformPairs when a run is partial; a pair without an answer still counts in the denominator. null when the page's figures are unavailable.",
+    "counts.answers": "AI answers behind the figures: successful responses to active prompts in each platform's latest run. Fewer than promptPlatformPairs when a run is partial; a pair without an answer still counts in the denominator. null when the page's figures are unavailable.",
     "counts.brands": "Brands listed on the page.",
     "counts.brandsRanked": "Brands ranked by presence rate.",
     "brands": "Every brand on the page, in the order of its presence rate leaderboard.",
@@ -517,7 +396,6 @@
     "brands[].brandMention.rate": "Brand mention rate: the share of prompt × platform pairs whose AI answer names the brand, 0–100, unrounded (the page prints one decimal). null where the page shows Unmeasured.",
     "brands[].brandMention.rank": "The brand's place on the page's brand mention rate leaderboard: position, joint (true when it shares the position because its 90% range overlaps the top brand's at that position) and of (brands ranked). null for an unranked brand.",
     "brands[].brandMention.range90": "The 90% likely range of the rate, 0–100, that the leaderboard draws and ranks on. null without a rank.",
-    "brands[].platforms": "The brand report's platform breakdown: per platform, the prompts whose answer cites the brand's own domain (citedPrompts) and their share of all prompts in counts.prompts (presenceRate, 0–100). null where the page shows no breakdown.",
-    "brands[].mentionConsensus": "The page's mention consensus chart: per platform, the share of the vertical's prompts whose answer names the brand (rate, 0–100, unrounded), and spread, the highest platform rate minus the lowest. A rate is null where the platform's latest run didn't answer every prompt; spread is null with fewer than two rates. null for a brand the chart doesn't show."
+    "brands[].platforms": "The brand report's platform breakdown: per platform, the prompts whose answer cites the brand's own domain (citedPrompts) and their share of all prompts in counts.prompts (presenceRate, 0–100). null where the page shows no breakdown."
   }
 }

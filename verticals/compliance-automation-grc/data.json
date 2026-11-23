@@ -9,38 +9,37 @@
     "name": "Compliance Automation & GRC",
     "url": "https://devtune.ai/verticals/compliance-automation-grc"
   },
-  "dataUrl": "https://devtune.ai/verticals/compliance-automation-grc/data/2026-11-16.json",
+  "dataUrl": "https://devtune.ai/verticals/compliance-automation-grc/data.json",
   "dataWindow": {
-    "start": "2026-11-15",
-    "end": "2026-11-15"
+    "start": "2026-11-22",
+    "end": "2026-11-22"
   },
-  "asOf": "2026-11-16",
-  "generatedAt": "2026-11-24T08:38:48.480Z",
+  "generatedAt": "2026-11-23T21:49:32.301Z",
   "license": {
     "id": "CC-BY-4.0",
     "url": "https://creativecommons.org/licenses/by/4.0/",
     "attribution": "DevTune, Compliance Automation & GRC AI Search Visibility Rankings, https://devtune.ai/verticals/compliance-automation-grc, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
   },
   "citation": {
-    "text": "DevTune. (2026-11-15). Compliance Automation & GRC AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/compliance-automation-grc",
-    "html": "DevTune. (2026-11-15). <cite>Compliance Automation &amp; GRC AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/compliance-automation-grc\">https://devtune.ai/verticals/compliance-automation-grc</a>",
-    "bibtex": "@misc{devtune-compliance-automation-grc-2026,\n  author = {DevTune},\n  title = {{Compliance Automation \\& GRC AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-15},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/compliance-automation-grc},\n  note = {Licensed under CC BY 4.0}\n}"
+    "text": "DevTune. (2026-11-22). Compliance Automation & GRC AI Search Visibility Rankings [Data set]. https://devtune.ai/verticals/compliance-automation-grc",
+    "html": "DevTune. (2026-11-22). <cite>Compliance Automation &amp; GRC AI Search Visibility Rankings</cite> [Data set]. <a href=\"https://devtune.ai/verticals/compliance-automation-grc\">https://devtune.ai/verticals/compliance-automation-grc</a>",
+    "bibtex": "@misc{devtune-compliance-automation-grc-2026,\n  author = {DevTune},\n  title = {{Compliance Automation \\& GRC AI Search Visibility Rankings}},\n  year = {2026},\n  date = {2026-11-22},\n  howpublished = {Data set},\n  url = {https://devtune.ai/verticals/compliance-automation-grc},\n  note = {Licensed under CC BY 4.0}\n}"
   },
   "platforms": [
     {
       "id": "perplexity",
       "name": "Perplexity",
-      "responsesThrough": "2026-11-15"
+      "responsesThrough": "2026-11-22"
     },
     {
       "id": "google-ai",
       "name": "Gemini Search",
-      "responsesThrough": "2026-11-15"
+      "responsesThrough": "2026-11-22"
     },
     {
       "id": "chatgpt-search",
       "name": "ChatGPT Search",
-      "responsesThrough": "2026-11-15"
+      "responsesThrough": "2026-11-22"
     }
   ],
   "counts": {
@@ -52,9 +51,9 @@
   },
   "brands": [
     {
-      "name": "Vanta",
-      "slug": "vanta",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/vanta",
+      "name": "Drata",
+      "slug": "drata",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/drata",
       "presence": {
         "rate": 54.666666666666664,
         "rank": {
@@ -82,64 +81,47 @@
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 88,
-          "citedPrompts": 22
+          "presenceRate": 56.00000000000001,
+          "citedPrompts": 14
         },
         {
           "id": "google-ai",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 72,
-          "citedPrompts": 18
+          "presenceRate": 92,
+          "citedPrompts": 23
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 92
-          },
-          {
-            "id": "perplexity",
-            "rate": 92
-          },
-          {
-            "id": "google-ai",
-            "rate": 88
-          }
-        ],
-        "spread": 4
-      }
+      ]
     },
     {
-      "name": "Drata",
-      "slug": "drata",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/drata",
+      "name": "Vanta",
+      "slug": "vanta",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/vanta",
       "presence": {
-        "rate": 52,
+        "rate": 54.666666666666664,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 42.60698129172405,
-          "high": 61.25372320319769
+          "low": 45.21288439463637,
+          "high": 63.79542609351433
         }
       },
       "brandMention": {
-        "rate": 88,
+        "rate": 92,
         "rank": {
           "position": 1,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 80.46982911808959,
-          "high": 92.88355628542321
+          "low": 85.2677122065969,
+          "high": 95.80708218675936
         }
       },
       "platforms": [
@@ -150,32 +132,15 @@
         },
         {
           "id": "google-ai",
-          "presenceRate": 16,
-          "citedPrompts": 4
+          "presenceRate": 4,
+          "citedPrompts": 1
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 64,
-          "citedPrompts": 16
+          "presenceRate": 84,
+          "citedPrompts": 21
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 92
-          },
-          {
-            "id": "perplexity",
-            "rate": 80
-          },
-          {
-            "id": "google-ai",
-            "rate": 92
-          }
-        ],
-        "spread": 12
-      }
+      ]
     },
     {
       "name": "Secureframe",
@@ -194,22 +159,22 @@
         }
       },
       "brandMention": {
-        "rate": 66.66666666666666,
+        "rate": 68,
         "rank": {
           "position": 3,
-          "joint": false,
+          "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 57.27018947123484,
-          "high": 74.9023479864462
+          "low": 58.645646504652646,
+          "high": 76.10069394964289
         }
       },
       "platforms": [
         {
           "id": "perplexity",
-          "presenceRate": 48,
-          "citedPrompts": 12
+          "presenceRate": 16,
+          "citedPrompts": 4
         },
         {
           "id": "google-ai",
@@ -218,54 +183,37 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 72,
+          "citedPrompts": 18
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 80
-          },
-          {
-            "id": "perplexity",
-            "rate": 68
-          },
-          {
-            "id": "google-ai",
-            "rate": 52
-          }
-        ],
-        "spread": 28
-      }
+      ]
     },
     {
       "name": "Sprinto",
       "slug": "sprinto",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/sprinto",
       "presence": {
-        "rate": 17.333333333333336,
+        "rate": 25.333333333333336,
         "rank": {
           "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 11.315996552902774,
-          "high": 25.625830030042373
+          "low": 18.030878865079046,
+          "high": 34.353765697553015
         }
       },
       "brandMention": {
-        "rate": 34.66666666666667,
+        "rate": 56.00000000000001,
         "rank": {
-          "position": 4,
+          "position": 3,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 26.3035922373613,
-          "high": 44.097673301572144
+          "low": 46.52554604878774,
+          "high": 65.05656743597746
         }
       },
       "platforms": [
@@ -281,111 +229,19 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 40,
-          "citedPrompts": 10
+          "presenceRate": 64,
+          "citedPrompts": 16
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 68
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 28.000000000000004
-          }
-        ],
-        "spread": 60
-      }
+      ]
     },
     {
       "name": "Thoropass",
       "slug": "thoropass",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/thoropass",
       "presence": {
-        "rate": 8,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 4.192917813240643,
-          "high": 14.732287793403115
-        }
-      },
-      "brandMention": {
-        "rate": 21.333333333333336,
-        "rank": {
-          "position": 4,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 14.621963133380959,
-          "high": 30.041272439407642
-        }
-      },
-      "platforms": [
-        {
-          "id": "perplexity",
-          "presenceRate": 4,
-          "citedPrompts": 1
-        },
-        {
-          "id": "google-ai",
-          "presenceRate": 0,
-          "citedPrompts": 0
-        },
-        {
-          "id": "chatgpt-search",
-          "presenceRate": 20,
-          "citedPrompts": 5
-        }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 32
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 24
-          }
-        ],
-        "spread": 24
-      }
-    },
-    {
-      "name": "Scrut",
-      "slug": "scrut",
-      "url": "https://devtune.ai/verticals/compliance-automation-grc/scrut",
-      "presence": {
-        "rate": 5.333333333333334,
-        "rank": {
-          "position": 5,
-          "joint": true,
-          "of": 8
-        },
-        "range90": {
-          "low": 2.4164777983612455,
-          "high": 11.361121815053547
-        }
-      },
-      "brandMention": {
         "rate": 10.666666666666668,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 8
         },
@@ -394,49 +250,56 @@
           "high": 17.957509587113528
         }
       },
+      "brandMention": {
+        "rate": 28.000000000000004,
+        "rank": {
+          "position": 5,
+          "joint": false,
+          "of": 8
+        },
+        "range90": {
+          "low": 20.352334069388775,
+          "high": 37.17991648647225
+        }
+      },
       "platforms": [
         {
           "id": "perplexity",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        },
+        {
+          "id": "google-ai",
           "presenceRate": 0,
           "citedPrompts": 0
         },
         {
-          "id": "google-ai",
-          "presenceRate": 8,
-          "citedPrompts": 2
-        },
-        {
           "id": "chatgpt-search",
-          "presenceRate": 8,
-          "citedPrompts": 2
+          "presenceRate": 24,
+          "citedPrompts": 6
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 20
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 12
-          }
-        ],
-        "spread": 20
-      }
+      ]
     },
     {
       "name": "Oneleet",
       "slug": "oneleet",
       "url": "https://devtune.ai/verticals/compliance-automation-grc/oneleet",
       "presence": {
-        "rate": 1.3333333333333335,
+        "rate": 4,
         "rank": {
           "position": 5,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 1.6095998879448896,
+          "high": 9.594196728855417
+        }
+      },
+      "brandMention": {
+        "rate": 1.3333333333333335,
+        "rank": {
+          "position": 6,
           "joint": true,
           "of": 8
         },
@@ -445,16 +308,50 @@
           "high": 5.75820383579139
         }
       },
-      "brandMention": {
+      "platforms": [
+        {
+          "id": "perplexity",
+          "presenceRate": 4,
+          "citedPrompts": 1
+        },
+        {
+          "id": "google-ai",
+          "presenceRate": 0,
+          "citedPrompts": 0
+        },
+        {
+          "id": "chatgpt-search",
+          "presenceRate": 8,
+          "citedPrompts": 2
+        }
+      ]
+    },
+    {
+      "name": "Scrut",
+      "slug": "scrut",
+      "url": "https://devtune.ai/verticals/compliance-automation-grc/scrut",
+      "presence": {
         "rate": 2.666666666666667,
         "rank": {
-          "position": 6,
+          "position": 5,
           "joint": true,
           "of": 8
         },
         "range90": {
           "low": 0.8863348533708175,
           "high": 7.743658766815006
+        }
+      },
+      "brandMention": {
+        "rate": 8,
+        "rank": {
+          "position": 6,
+          "joint": true,
+          "of": 8
+        },
+        "range90": {
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
@@ -470,27 +367,10 @@
         },
         {
           "id": "chatgpt-search",
-          "presenceRate": 4,
-          "citedPrompts": 1
+          "presenceRate": 8,
+          "citedPrompts": 2
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 8
-          },
-          {
-            "id": "perplexity",
-            "rate": 0
-          },
-          {
-            "id": "google-ai",
-            "rate": 0
-          }
-        ],
-        "spread": 8
-      }
+      ]
     },
     {
       "name": "Scytale",
@@ -509,15 +389,15 @@
         }
       },
       "brandMention": {
-        "rate": 9.333333333333334,
+        "rate": 8,
         "rank": {
           "position": 6,
           "joint": true,
           "of": 8
         },
         "range90": {
-          "low": 5.139310171773201,
-          "high": 16.359698431485043
+          "low": 4.192917813240643,
+          "high": 14.732287793403115
         }
       },
       "platforms": [
@@ -536,24 +416,7 @@
           "presenceRate": 0,
           "citedPrompts": 0
         }
-      ],
-      "mentionConsensus": {
-        "platforms": [
-          {
-            "id": "chatgpt-search",
-            "rate": 12
-          },
-          {
-            "id": "perplexity",
-            "rate": 8
-          },
-          {
-            "id": "google-ai",
-            "rate": 8
-          }
-        ],
-        "spread": 4
-      }
+      ]
     }
   ],
   "fields": {
@@ -562,14 +425,13 @@
     "vertical": "The category: slug, name and the page the figures come from.",
     "dataUrl": "This file.",
     "dataWindow": "The oldest and newest logical report days of the latest run on each platform, YYYY-MM-DD. Every figure comes from those runs.",
-    "asOf": "null on the live file. On a file recomputed for a past date, that date, YYYY-MM-DD: its figures are recomputed with the current method from each platform's latest stored run on or before that date, over the prompts those runs asked and the brands on the page today that were listed by that date.",
     "generatedAt": "When this file was assembled from the cached page data, ISO 8601 UTC.",
     "license": "CC BY 4.0: reuse with the attribution text.",
     "citation": "The citation as plain text, HTML and BibTeX.",
     "platforms": "The AI platforms in the data, each with the logical report day of its latest run.",
     "counts.prompts": "Prompts in the vertical's benchmark. null when the page's figures are unavailable.",
     "counts.promptPlatformPairs": "Prompts × platforms: the denominator of the overall presence and brand mention rates (brands[].presence.rate, brands[].brandMention.rate). The per-platform presenceRate in brands[].platforms divides by counts.prompts instead. null when the page's figures are unavailable.",
-    "counts.answers": "AI answers behind the figures: successful responses to the prompts in counts.prompts in each platform's latest run. Fewer than promptPlatformPairs when a run is partial; a pair without an answer still counts in the denominator. null when the page's figures are unavailable.",
+    "counts.answers": "AI answers behind the figures: successful responses to active prompts in each platform's latest run. Fewer than promptPlatformPairs when a run is partial; a pair without an answer still counts in the denominator. null when the page's figures are unavailable.",
     "counts.brands": "Brands listed on the page.",
     "counts.brandsRanked": "Brands ranked by presence rate.",
     "brands": "Every brand on the page, in the order of its presence rate leaderboard.",
@@ -580,7 +442,6 @@
     "brands[].brandMention.rate": "Brand mention rate: the share of prompt × platform pairs whose AI answer names the brand, 0–100, unrounded (the page prints one decimal). null where the page shows Unmeasured.",
     "brands[].brandMention.rank": "The brand's place on the page's brand mention rate leaderboard: position, joint (true when it shares the position because its 90% range overlaps the top brand's at that position) and of (brands ranked). null for an unranked brand.",
     "brands[].brandMention.range90": "The 90% likely range of the rate, 0–100, that the leaderboard draws and ranks on. null without a rank.",
-    "brands[].platforms": "The brand report's platform breakdown: per platform, the prompts whose answer cites the brand's own domain (citedPrompts) and their share of all prompts in counts.prompts (presenceRate, 0–100). null where the page shows no breakdown.",
-    "brands[].mentionConsensus": "The page's mention consensus chart: per platform, the share of the vertical's prompts whose answer names the brand (rate, 0–100, unrounded), and spread, the highest platform rate minus the lowest. A rate is null where the platform's latest run didn't answer every prompt; spread is null with fewer than two rates. null for a brand the chart doesn't show."
+    "brands[].platforms": "The brand report's platform breakdown: per platform, the prompts whose answer cites the brand's own domain (citedPrompts) and their share of all prompts in counts.prompts (presenceRate, 0–100). null where the page shows no breakdown."
   }
 }
