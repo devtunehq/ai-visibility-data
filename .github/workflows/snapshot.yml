@@ -1,0 +1,40 @@
+name: Weekly snapshot
+
+on:
+  schedule:
+    # Mondays at 06:00 UTC, after the weekend's tracking runs.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Copy the published data files
+        run: node scripts/snapshot.mjs
+
+      - name: Commit any changes
+        run: |
+          git add -A verticals
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Snapshot $(date -u +%Y-%m-%d)"
+          git push
